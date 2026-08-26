@@ -1,0 +1,4809 @@
+{
+ "eco": "go",
+ "seed": 53,
+ "drawn": "2026-08-22",
+ "eligible": 4318,
+ "n": 800,
+ "members": [
+  {
+   "repo": "disbug-io/disbug-cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-01T13:01:59Z"
+  },
+  {
+   "repo": "ridi-oss/terraform-provider-pmon",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-08-10T08:13:15Z"
+  },
+  {
+   "repo": "substructureai/subs",
+   "path": "examples/go-mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-23T08:37:43Z"
+  },
+  {
+   "repo": "solcreek/mirage",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-23T16:19:52Z"
+  },
+  {
+   "repo": "tinyrange/vmsh",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-04T06:12:12Z"
+  },
+  {
+   "repo": "mcp-shark/lazy-tool",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-29T20:30:25Z"
+  },
+  {
+   "repo": "respawn-llc/ksrc",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-04T18:51:57Z"
+  },
+  {
+   "repo": "ENTERPILOT/GoModel",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-12-05T21:26:31Z"
+  },
+  {
+   "repo": "GoCodeAlone/workflow-plugin-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-16T23:04:06Z"
+  },
+  {
+   "repo": "cadenya/mcp-grpc-gateway",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-24T00:41:40Z"
+  },
+  {
+   "repo": "llm-infra/secvirt",
+   "path": "sdk-go/go.mod",
+   "owner_type": "Organization",
+   "created": "2025-08-11T05:32:53Z"
+  },
+  {
+   "repo": "apache/skywalking-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-05-11T12:51:01Z"
+  },
+  {
+   "repo": "go-signet/kong-mcp-oauth2",
+   "path": "mcp-server/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-13T06:24:43Z"
+  },
+  {
+   "repo": "MWM-io/gapi",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2022-08-19T07:52:58Z"
+  },
+  {
+   "repo": "K8Harness/ToolGate",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-10T02:56:17Z"
+  },
+  {
+   "repo": "mcp-moqt/mcp-moqt-transport",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-20T09:00:46Z"
+  },
+  {
+   "repo": "epiral/pinix",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-25T10:28:14Z"
+  },
+  {
+   "repo": "projectsveltos/ui-backend",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2024-04-22T13:58:34Z"
+  },
+  {
+   "repo": "dagucloud/dagu",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2022-04-22T13:00:42Z"
+  },
+  {
+   "repo": "epinio/mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-13T19:18:17Z"
+  },
+  {
+   "repo": "aistandardsio/agent-protocols",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-18T23:36:04Z"
+  },
+  {
+   "repo": "arqtiqa/arqtos-sdk-go",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-23T18:48:35Z"
+  },
+  {
+   "repo": "malbeclabs/lake",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-27T12:44:33Z"
+  },
+  {
+   "repo": "sysv86/material3ai",
+   "path": "mcps/material3-mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-08-06T09:49:29Z"
+  },
+  {
+   "repo": "kineticloom/plydb",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-13T14:53:56Z"
+  },
+  {
+   "repo": "techdelight/daedalus",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-05T09:25:06Z"
+  },
+  {
+   "repo": "openSUSE/managesw-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-07-18T08:43:52Z"
+  },
+  {
+   "repo": "LuckfoxTECH/LuckClaw",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-18T02:17:54Z"
+  },
+  {
+   "repo": "lando-labs/cami",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-10-05T20:36:18Z"
+  },
+  {
+   "repo": "greenthread-ai/klaudia",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-09T07:56:47Z"
+  },
+  {
+   "repo": "bino-bi/sluice",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-11T18:21:24Z"
+  },
+  {
+   "repo": "Technarion-Oy/thaw",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-18T21:05:32Z"
+  },
+  {
+   "repo": "wundergraph/cosmo",
+   "path": "demo/go.mod",
+   "owner_type": "Organization",
+   "created": "2023-08-23T09:31:29Z"
+  },
+  {
+   "repo": "ory/lumen",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-27T08:45:03Z"
+  },
+  {
+   "repo": "neokapi/neokapi",
+   "path": "bowrain/plugin/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-12T22:03:47Z"
+  },
+  {
+   "repo": "project-mikan/umi.mikan",
+   "path": "backend/go.mod",
+   "owner_type": "Organization",
+   "created": "2024-07-09T11:19:20Z"
+  },
+  {
+   "repo": "getanyapi-com/posthog-mcp-go",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-08-10T06:20:27Z"
+  },
+  {
+   "repo": "blaxel-ai/sdk-go",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-16T14:29:41Z"
+  },
+  {
+   "repo": "LepistaBioinformatics/crab-shell-proxy",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-15T00:16:46Z"
+  },
+  {
+   "repo": "rakutentech/sorify",
+   "path": "mcp/sorify-recorder-mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-08-13T08:30:43Z"
+  },
+  {
+   "repo": "sleuth-io/hetchy",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-30T22:06:20Z"
+  },
+  {
+   "repo": "evcc-io/evcc",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2019-12-06T16:27:04Z"
+  },
+  {
+   "repo": "envoyproxy/ai-gateway",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2024-10-21T02:59:59Z"
+  },
+  {
+   "repo": "aws-samples/sample-lark-cli-mcp-wrapper-on-agentcore-runtime-and-identity",
+   "path": "mcp-wrapper/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-19T06:09:04Z"
+  },
+  {
+   "repo": "SCGIS-Wales/helm-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-21T08:25:06Z"
+  },
+  {
+   "repo": "Exed-Consulting-Global/exed-whatsapp-skill",
+   "path": "desktop/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-06T13:22:25Z"
+  },
+  {
+   "repo": "Tusk-PHP/lsp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-09T09:38:48Z"
+  },
+  {
+   "repo": "LazyAGI/LazyMind",
+   "path": "local/lazymind-cli/go.mod",
+   "owner_type": "Organization",
+   "created": "2024-07-03T11:00:32Z"
+  },
+  {
+   "repo": "siyuan-community/siyuan",
+   "path": "kernel/go.mod",
+   "owner_type": "Organization",
+   "created": "2023-06-30T05:57:36Z"
+  },
+  {
+   "repo": "obot-platform/obot",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2024-09-05T19:50:46Z"
+  },
+  {
+   "repo": "watchfire-io/watchfire",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-04T16:33:00Z"
+  },
+  {
+   "repo": "kubev2v/forklift",
+   "path": "cmd/kubectl-mtv/go.mod",
+   "owner_type": "Organization",
+   "created": "2022-09-08T10:27:58Z"
+  },
+  {
+   "repo": "gnoverse/gno-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-18T23:33:24Z"
+  },
+  {
+   "repo": "fawdyinc/shellguard",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-08T18:59:05Z"
+  },
+  {
+   "repo": "nanohype/cloudgov",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-02T22:00:41Z"
+  },
+  {
+   "repo": "pali-mem/pali",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-04T03:46:37Z"
+  },
+  {
+   "repo": "attunehq/akari",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-27T20:32:56Z"
+  },
+  {
+   "repo": "codex-k8s/yaml-mcp-server",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-03T18:54:13Z"
+  },
+  {
+   "repo": "dangernoodle-io/ouroboros",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-11T05:30:57Z"
+  },
+  {
+   "repo": "usememos/memos",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2021-12-08T15:30:18Z"
+  },
+  {
+   "repo": "kurusugawa-computer/ace",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-12-01T07:14:21Z"
+  },
+  {
+   "repo": "memohai/Memoh",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-12T09:27:39Z"
+  },
+  {
+   "repo": "containers/kubernetes-mcp-server",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-02-11T02:57:36Z"
+  },
+  {
+   "repo": "shokki-engineering/grpc-mcp-gateway",
+   "path": "examples/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-22T06:40:17Z"
+  },
+  {
+   "repo": "duneanalytics/cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-02T09:22:37Z"
+  },
+  {
+   "repo": "tracewayapp/traceway",
+   "path": "cli/go.mod",
+   "owner_type": "Organization",
+   "created": "2025-12-18T03:35:02Z"
+  },
+  {
+   "repo": "chainguard-sandbox/go-linear",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-12-10T03:30:37Z"
+  },
+  {
+   "repo": "spacelift-io/spacelift-intent",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-09-08T09:02:09Z"
+  },
+  {
+   "repo": "dapr/cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2019-06-20T22:24:38Z"
+  },
+  {
+   "repo": "ionos-cloud/ionoscloud-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-12-19T12:29:33Z"
+  },
+  {
+   "repo": "TykTechnologies/tyk-demo",
+   "path": "deployments/mcp-token-exchange/services/chat/go.mod",
+   "owner_type": "Organization",
+   "created": "2020-05-27T08:27:53Z"
+  },
+  {
+   "repo": "pidgr/pidgr-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-27T05:56:28Z"
+  },
+  {
+   "repo": "OctopusSolutionsEngineering/OctopusTerraformExport",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2022-12-18T22:54:13Z"
+  },
+  {
+   "repo": "nirantaraai/mcp-mssql-go",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-06T18:29:49Z"
+  },
+  {
+   "repo": "mogenius/mogenius-operator",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2022-12-20T20:43:37Z"
+  },
+  {
+   "repo": "RiskIdent/VulTrack",
+   "path": "backend/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-04T13:10:39Z"
+  },
+  {
+   "repo": "infracost/cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-06T12:35:42Z"
+  },
+  {
+   "repo": "airpay/airpay-mcp-server",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-25T07:12:38Z"
+  },
+  {
+   "repo": "oktsec/oktsec",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-21T20:21:17Z"
+  },
+  {
+   "repo": "runmeanwhile/meanwhile",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-04T22:02:10Z"
+  },
+  {
+   "repo": "fingerprintjs/fingerprint-mcp-server",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-16T17:50:51Z"
+  },
+  {
+   "repo": "kawai-network/kawaicode",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-03T11:13:01Z"
+  },
+  {
+   "repo": "faroshq/provider-kuery",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-13T10:37:21Z"
+  },
+  {
+   "repo": "scrapfly/scrapfly-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-09-08T11:16:37Z"
+  },
+  {
+   "repo": "special-place-ai-heaven/remindb-Local-Hub",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-12T20:01:07Z"
+  },
+  {
+   "repo": "platform-engineering-labs/formae-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-09T05:41:51Z"
+  },
+  {
+   "repo": "cloudwego/eino-ext",
+   "path": "components/tool/mcp/officialmcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2024-12-04T06:48:37Z"
+  },
+  {
+   "repo": "dmarcguardhq/dmarcguard",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-11-05T03:31:29Z"
+  },
+  {
+   "repo": "zemn-me/monorepo",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2020-06-27T15:46:37Z"
+  },
+  {
+   "repo": "ardanlabs/ai-training",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-15T19:14:24Z"
+  },
+  {
+   "repo": "cockroachdb/cockroachdb-mcp-server",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-11-10T13:51:36Z"
+  },
+  {
+   "repo": "gt4o4/siyuan-shared",
+   "path": "kernel/go.mod",
+   "owner_type": "Organization",
+   "created": "2025-04-01T15:19:54Z"
+  },
+  {
+   "repo": "koolbase/koolbase-cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-29T22:06:17Z"
+  },
+  {
+   "repo": "openziti/mcp-gateway",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-23T15:38:29Z"
+  },
+  {
+   "repo": "Axiaras/axiaras",
+   "path": "apps/mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2025-06-09T03:29:14Z"
+  },
+  {
+   "repo": "gavelcode/gavel",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-25T19:45:58Z"
+  },
+  {
+   "repo": "zetic-ai/melange-cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-21T04:43:46Z"
+  },
+  {
+   "repo": "STR-Consulting/mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-29T14:53:29Z"
+  },
+  {
+   "repo": "vibed-project/vibeD",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-01T18:28:10Z"
+  },
+  {
+   "repo": "modelcontextprotocol/experimental-ext-interceptors",
+   "path": "go/sdk/go.mod",
+   "owner_type": "Organization",
+   "created": "2025-12-04T00:50:02Z"
+  },
+  {
+   "repo": "mcp-case/proxy",
+   "path": "examples/docker-compose/mcp-server/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-18T02:09:28Z"
+  },
+  {
+   "repo": "go-oryn/oryn-sandbox",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-10-26T07:39:44Z"
+  },
+  {
+   "repo": "concord-consortium/cc-data-cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-16T12:06:35Z"
+  },
+  {
+   "repo": "shaharia-lab/agento",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-25T11:40:19Z"
+  },
+  {
+   "repo": "last9/mcp-go-sdk",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-09-05T20:15:00Z"
+  },
+  {
+   "repo": "bluelight-ventures/tag-note",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-27T02:24:52Z"
+  },
+  {
+   "repo": "coder/coder",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2021-12-22T06:08:52Z"
+  },
+  {
+   "repo": "xataio/xata",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-15T08:49:42Z"
+  },
+  {
+   "repo": "loxilb-io/loxilb-inference-gateway",
+   "path": "mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-20T11:24:13Z"
+  },
+  {
+   "repo": "TVECLK/MarketLens",
+   "path": "engineering/backend/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-04T02:25:28Z"
+  },
+  {
+   "repo": "NautilusOSS/x402",
+   "path": "e2e/servers/mcp-go/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-11T22:20:42Z"
+  },
+  {
+   "repo": "unomcp/JueJin-MCP",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-10-30T14:07:12Z"
+  },
+  {
+   "repo": "mordor-forge/gemini-media-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-02T12:10:58Z"
+  },
+  {
+   "repo": "polyxmedia/mnemos",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-16T16:33:55Z"
+  },
+  {
+   "repo": "CircleCI-Public/circleci-cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2018-06-19T14:30:01Z"
+  },
+  {
+   "repo": "uniget-org/cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2023-06-30T18:33:42Z"
+  },
+  {
+   "repo": "rwx-cloud/rwx",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-06-10T13:24:40Z"
+  },
+  {
+   "repo": "axsh/tokotachi-scaffolds",
+   "path": "catalog/originals/axsh/go-kotoshiro-mcp-feature/base/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-08T08:41:03Z"
+  },
+  {
+   "repo": "docker/docker-agent",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-09-01T12:14:45Z"
+  },
+  {
+   "repo": "mergewayhq/mergeway-cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-10-22T22:43:11Z"
+  },
+  {
+   "repo": "LingByte/ling-base",
+   "path": "agentkit/flowcraft/core/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-23T10:03:49Z"
+  },
+  {
+   "repo": "getaxonflow/axonflow-claude-desktop-plugin",
+   "path": "runtime-e2e/cli-harness/backend/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-05T15:56:17Z"
+  },
+  {
+   "repo": "go-training/mcp-workshop",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-05-27T14:49:50Z"
+  },
+  {
+   "repo": "ovn-kubernetes/ovn-kubernetes-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-09-05T18:20:00Z"
+  },
+  {
+   "repo": "yaaif/mcp-server-templates-go",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-19T04:58:40Z"
+  },
+  {
+   "repo": "DIMO-Network/dq",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-13T21:50:28Z"
+  },
+  {
+   "repo": "sumo-mcp/sumo-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-11-25T21:40:25Z"
+  },
+  {
+   "repo": "komputer-ai/komputer-ai",
+   "path": "komputer-api/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-26T11:55:16Z"
+  },
+  {
+   "repo": "Coder-s-OG-s/Trajectory-IR",
+   "path": "go/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-26T20:59:27Z"
+  },
+  {
+   "repo": "lemahq/lema-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-29T20:56:58Z"
+  },
+  {
+   "repo": "gocronx-team/gocron",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-10-27T08:22:16Z"
+  },
+  {
+   "repo": "SPANDigital/mcp-server-dump",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-09-02T08:08:26Z"
+  },
+  {
+   "repo": "mountayaapp/helix.go",
+   "path": "integration/mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2025-10-01T13:56:54Z"
+  },
+  {
+   "repo": "KazanKK/seedmancer",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-01-19T03:42:12Z"
+  },
+  {
+   "repo": "Gentoro-OneMCP/onemcp",
+   "path": "packages/cli/go.mod",
+   "owner_type": "Organization",
+   "created": "2025-11-04T06:19:37Z"
+  },
+  {
+   "repo": "EmmanuelDamienDustinDeploymentProject/DeploymentProject",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-10-31T16:06:38Z"
+  },
+  {
+   "repo": "tomacheese/command-relay-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-08-21T16:27:43Z"
+  },
+  {
+   "repo": "normahq/relay",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-21T09:06:19Z"
+  },
+  {
+   "repo": "wso2/agent-manager",
+   "path": "agent-manager-observer/go.mod",
+   "owner_type": "Organization",
+   "created": "2025-11-28T09:12:51Z"
+  },
+  {
+   "repo": "signalbreak-labs/eidos",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-08-07T01:11:41Z"
+  },
+  {
+   "repo": "alphanome-ai/Fouwser",
+   "path": "packages/browseros-agent/apps/cli/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-30T11:36:55Z"
+  },
+  {
+   "repo": "mediusfy/modulex",
+   "path": "tools/mcpserver/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-17T11:20:14Z"
+  },
+  {
+   "repo": "theopenconversationkit/tock-mcp-server",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-07T14:55:51Z"
+  },
+  {
+   "repo": "WonderForgeLabs/gooey",
+   "path": "apps/scene/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-08-10T05:10:38Z"
+  },
+  {
+   "repo": "openSUSE/mcp-archive",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-10-01T13:43:24Z"
+  },
+  {
+   "repo": "53AI/53AIHub",
+   "path": "api/go.mod",
+   "owner_type": "Organization",
+   "created": "2025-04-24T11:24:11Z"
+  },
+  {
+   "repo": "openshift-online/open-dispatch",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-25T17:12:10Z"
+  },
+  {
+   "repo": "vyogotech/frappe-mcp-server",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-11-12T12:24:58Z"
+  },
+  {
+   "repo": "discobox-ai/discobox",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-26T19:37:35Z"
+  },
+  {
+   "repo": "superfly/claude-plugins",
+   "path": "sprite-handoff/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-21T09:37:51Z"
+  },
+  {
+   "repo": "voriteam/ditto-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-22T07:41:57Z"
+  },
+  {
+   "repo": "MiviaLabs/mivia-agent",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-26T16:50:34Z"
+  },
+  {
+   "repo": "openbindings/openbindings-go",
+   "path": "formats/mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-19T19:49:51Z"
+  },
+  {
+   "repo": "gitlabhq/gitlabhq",
+   "path": "workhorse/go.mod",
+   "owner_type": "Organization",
+   "created": "2011-10-02T16:25:27Z"
+  },
+  {
+   "repo": "home-operations/konflate",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-05T00:33:40Z"
+  },
+  {
+   "repo": "curioswitch/mcp-go-sdk-otel",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-09-01T04:05:49Z"
+  },
+  {
+   "repo": "ardanlabs/practical-ai-gcus-2026",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-08-04T14:34:13Z"
+  },
+  {
+   "repo": "voxgig-sdk/zefoy-tiktok-bot-sdk",
+   "path": "go-mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-16T02:49:47Z"
+  },
+  {
+   "repo": "mutablelogic/go-llm",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-01-28T16:06:44Z"
+  },
+  {
+   "repo": "juex-ai/wechat-wire",
+   "path": "cli/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-09T10:25:34Z"
+  },
+  {
+   "repo": "descope-sample-apps/pgpeek",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-23T11:02:19Z"
+  },
+  {
+   "repo": "sipeed/NanoKVM",
+   "path": "server/go.mod",
+   "owner_type": "Organization",
+   "created": "2024-07-03T06:00:36Z"
+  },
+  {
+   "repo": "agentruntime-io/agentruntime-mcp-go",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-14T13:27:44Z"
+  },
+  {
+   "repo": "sleuth-io/sx",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-12-16T21:53:02Z"
+  },
+  {
+   "repo": "faroshq/provider-infrastructure",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-11T14:12:19Z"
+  },
+  {
+   "repo": "opencharly/charly",
+   "path": "candy/plugin-mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-02T16:12:28Z"
+  },
+  {
+   "repo": "IBM/fp-go",
+   "path": "gen/v2/go.mod",
+   "owner_type": "Organization",
+   "created": "2023-07-05T14:18:19Z"
+  },
+  {
+   "repo": "swobuforge/swobu",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-30T19:21:41Z"
+  },
+  {
+   "repo": "mobydeck/pantry",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-19T21:17:56Z"
+  },
+  {
+   "repo": "hypervisor-io/punk-records",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-06T11:44:14Z"
+  },
+  {
+   "repo": "ai4next/superman",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-11T15:56:06Z"
+  },
+  {
+   "repo": "devicechain-io/devicechain",
+   "path": "backend/services/mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-24T14:17:29Z"
+  },
+  {
+   "repo": "openSUSE/osc-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-08-08T14:51:22Z"
+  },
+  {
+   "repo": "jacu-dev/jacu-harness",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-08-19T13:12:39Z"
+  },
+  {
+   "repo": "reliant-labs/reliant",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-15T02:23:57Z"
+  },
+  {
+   "repo": "mckinsey/agents-at-scale-ark",
+   "path": "ark/go.mod",
+   "owner_type": "Organization",
+   "created": "2025-08-28T15:48:47Z"
+  },
+  {
+   "repo": "gateway-fm/open-privacy-suite",
+   "path": "mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-09T16:30:21Z"
+  },
+  {
+   "repo": "redpanda-data/ai-sdk-go",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-11-05T21:26:48Z"
+  },
+  {
+   "repo": "plexusone/mcp-atlassian",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-12-29T04:29:05Z"
+  },
+  {
+   "repo": "anaregdesign/lantern",
+   "path": "mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2023-05-03T00:45:41Z"
+  },
+  {
+   "repo": "full-chaos/dev-health-acr",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-10T15:18:52Z"
+  },
+  {
+   "repo": "sikifanso/sikifanso",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-21T18:13:47Z"
+  },
+  {
+   "repo": "choria-io/fisk-ai",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-05-30T17:43:00Z"
+  },
+  {
+   "repo": "vulncheck-oss/mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-03T17:04:04Z"
+  },
+  {
+   "repo": "Viventine-Space/orbit-sentinel-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-12T18:55:50Z"
+  },
+  {
+   "repo": "millsymills-com/protonmail-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-26T07:33:34Z"
+  },
+  {
+   "repo": "techprimate/github-actions-utils-cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-11-04T12:16:59Z"
+  },
+  {
+   "repo": "speakeasy-api/gram",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-08-06T19:24:20Z"
+  },
+  {
+   "repo": "dreamware-nz/loveliness",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-26T07:23:57Z"
+  },
+  {
+   "repo": "korrel8r/client",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2024-05-30T19:48:36Z"
+  },
+  {
+   "repo": "Rocketable/platform",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-10T19:13:49Z"
+  },
+  {
+   "repo": "liatrio/liatrio-otel-collector",
+   "path": "internal/tools/go.mod",
+   "owner_type": "Organization",
+   "created": "2023-03-16T12:57:24Z"
+  },
+  {
+   "repo": "browserwing/browserwing",
+   "path": "backend/go.mod",
+   "owner_type": "Organization",
+   "created": "2025-12-10T23:54:17Z"
+  },
+  {
+   "repo": "Sixt/tensorlake-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-12-21T12:07:18Z"
+  },
+  {
+   "repo": "hairglasses-studio/mcpkit",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-14T04:01:37Z"
+  },
+  {
+   "repo": "open-telemetry/opentelemetry-collector-contrib",
+   "path": "extension/mcp/go.mod",
+   "owner_type": "Organization",
+   "created": "2019-07-11T14:54:32Z"
+  },
+  {
+   "repo": "open-portfolios/codefolio",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-06-27T09:44:05Z"
+  },
+  {
+   "repo": "OrdalieTech/orb",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-21T08:37:34Z"
+  },
+  {
+   "repo": "TheJumpCloud/jc-cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-10T14:26:22Z"
+  },
+  {
+   "repo": "Yayasan-Digital-Islami-Indonesia/quran-api-go",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-02-19T12:44:33Z"
+  },
+  {
+   "repo": "txn2/mcp-trino",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-01-09T05:03:30Z"
+  },
+  {
+   "repo": "mediago-dev/mediago",
+   "path": "apps/core/go.mod",
+   "owner_type": "Organization",
+   "created": "2021-01-30T18:39:00Z"
+  },
+  {
+   "repo": "CodeFromSpec/tool-subagent-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-20T02:50:18Z"
+  },
+  {
+   "repo": "memcode-ai/memcode",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-08-09T09:48:41Z"
+  },
+  {
+   "repo": "pixime-net/talk-backend",
+   "path": "talk-libs/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-24T16:25:58Z"
+  },
+  {
+   "repo": "kawai-network/kawaiclaw",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-03T16:45:44Z"
+  },
+  {
+   "repo": "dapr/dapr",
+   "path": "tests/integration/framework/binary/helpers/mcpstdioserver/go.mod",
+   "owner_type": "Organization",
+   "created": "2019-06-19T00:49:06Z"
+  },
+  {
+   "repo": "agynio/agn-cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-19T02:52:07Z"
+  },
+  {
+   "repo": "PipeOpsHQ/pipeops-mcp",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2025-10-29T21:35:08Z"
+  },
+  {
+   "repo": "scaleway/scaleway-cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2015-03-20T09:45:50Z"
+  },
+  {
+   "repo": "neo4j-labs/neo4j-cli",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-04-30T13:49:56Z"
+  },
+  {
+   "repo": "greatliontech/semrel",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2024-06-14T16:59:38Z"
+  },
+  {
+   "repo": "centroid-is/stc",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2026-03-26T12:02:21Z"
+  },
+  {
+   "repo": "mattermost/mattermost-plugin-agents",
+   "path": "go.mod",
+   "owner_type": "Organization",
+   "created": "2023-05-03T15:30:35Z"
+  },
+  {
+   "repo": "chaio-dev/chaio-crewchief",
+   "path": "gateway/go.mod",
+   "owner_type": "Organization",
+   "created": "2026-07-26T04:58:07Z"
+  },
+  {
+   "repo": "AbdelazizMoustafa10m/Harvx",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-16T14:53:19Z"
+  },
+  {
+   "repo": "S33G/sandrail",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-19T12:19:05Z"
+  },
+  {
+   "repo": "snowmerak/drawio-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-14T07:24:10Z"
+  },
+  {
+   "repo": "teocci/go-sigil",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-10T01:37:25Z"
+  },
+  {
+   "repo": "Mario-pereyra/mapj",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-26T23:53:51Z"
+  },
+  {
+   "repo": "GitterBois/proxying",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-11T05:43:44Z"
+  },
+  {
+   "repo": "frankbardon/nexus",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-16T13:40:08Z"
+  },
+  {
+   "repo": "duggal1/Sapphire-cli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-08T17:54:50Z"
+  },
+  {
+   "repo": "deaswang/goproc",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2018-08-12T08:25:53Z"
+  },
+  {
+   "repo": "mohamediag/kube-greenops-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-10-04T11:56:00Z"
+  },
+  {
+   "repo": "shrijit37/echostate",
+   "path": "daemon/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-10T05:29:01Z"
+  },
+  {
+   "repo": "yousuf64/runbyte-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-16T10:10:10Z"
+  },
+  {
+   "repo": "Cookiezisg/Anselm",
+   "path": "backend/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-19T09:07:26Z"
+  },
+  {
+   "repo": "AndreeJait/go-utility",
+   "path": "v2/go.mod",
+   "owner_type": "User",
+   "created": "2024-04-07T16:54:29Z"
+  },
+  {
+   "repo": "Sharktheone/mcp262",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-04T19:43:29Z"
+  },
+  {
+   "repo": "cocosip/codex-mem",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-13T08:47:34Z"
+  },
+  {
+   "repo": "cloudygreybeard/dailylog-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-29T09:24:53Z"
+  },
+  {
+   "repo": "rahulkrishnanfs/todolist",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-07T09:23:49Z"
+  },
+  {
+   "repo": "TomyJan/casdoor",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-04T03:52:17Z"
+  },
+  {
+   "repo": "jbetancur/relay",
+   "path": "backend/go.mod",
+   "owner_type": "User",
+   "created": "2026-05-25T02:37:35Z"
+  },
+  {
+   "repo": "m2tx/agent_example",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-07T04:18:23Z"
+  },
+  {
+   "repo": "kqns91/redmine-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-10-12T17:57:16Z"
+  },
+  {
+   "repo": "jgalea/grocery-cli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-01T13:07:16Z"
+  },
+  {
+   "repo": "rumpl/rb",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-14T15:28:18Z"
+  },
+  {
+   "repo": "teran/mcp-searxng",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-09T20:09:10Z"
+  },
+  {
+   "repo": "mmAbdelhay/GO-AI-SDK",
+   "path": "mcp/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-24T02:37:32Z"
+  },
+  {
+   "repo": "syou6162/times_esa_mcp_server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-04-28T19:18:23Z"
+  },
+  {
+   "repo": "kpconnell/db-oauth-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-20T22:29:36Z"
+  },
+  {
+   "repo": "jamespakele/ai-r3-v2",
+   "path": "r3-intake/go.mod",
+   "owner_type": "User",
+   "created": "2026-08-12T17:00:25Z"
+  },
+  {
+   "repo": "stubbedev/atlassian-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-14T13:29:11Z"
+  },
+  {
+   "repo": "PhamTrinhDuc/Microservices-Golang",
+   "path": "multi-agent/go.mod",
+   "owner_type": "User",
+   "created": "2026-03-25T03:59:45Z"
+  },
+  {
+   "repo": "iamanishx/axeai",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-04T10:48:29Z"
+  },
+  {
+   "repo": "ricochet1k/orbitmesh",
+   "path": "backend/go.mod",
+   "owner_type": "User",
+   "created": "2026-02-14T16:46:56Z"
+  },
+  {
+   "repo": "CarlvinceTan/polymux-old-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-16T10:53:14Z"
+  },
+  {
+   "repo": "Jwrede/llmprobe",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-05T14:36:46Z"
+  },
+  {
+   "repo": "morluto/gitcontribute",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-16T22:46:51Z"
+  },
+  {
+   "repo": "shini4i/argo-watcher-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-06-26T18:01:35Z"
+  },
+  {
+   "repo": "btafoya/spamassassin-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-21T22:32:56Z"
+  },
+  {
+   "repo": "amurru/moonbunny",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-25T17:22:26Z"
+  },
+  {
+   "repo": "maelvls/vcpctl",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-01-27T16:05:08Z"
+  },
+  {
+   "repo": "ufna/birdman",
+   "path": "master/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-12T05:31:29Z"
+  },
+  {
+   "repo": "thadeu/trello-mcp",
+   "path": "cli/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-23T22:39:30Z"
+  },
+  {
+   "repo": "fipso/chadbot",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-25T23:49:10Z"
+  },
+  {
+   "repo": "aaravmaloo/apm",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-20T16:30:21Z"
+  },
+  {
+   "repo": "Hilda-lab/litecoder",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-16T06:56:30Z"
+  },
+  {
+   "repo": "guigui42/mcp-vosdroits",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-10-21T16:54:38Z"
+  },
+  {
+   "repo": "hatyibei/shingan",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-14T13:37:53Z"
+  },
+  {
+   "repo": "twodog-tt/Golang-development-manual",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-05-03T15:33:55Z"
+  },
+  {
+   "repo": "StealthEyeLLC/hec",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-05T09:53:06Z"
+  },
+  {
+   "repo": "meetwangdk/mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-04T12:21:12Z"
+  },
+  {
+   "repo": "addodelgrossi/reitbrazil",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-17T14:04:49Z"
+  },
+  {
+   "repo": "lanej/remarkable-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-28T17:45:38Z"
+  },
+  {
+   "repo": "fudan-chen/dotfiles",
+   "path": "private_dot_config/agent-tracker/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-16T16:38:11Z"
+  },
+  {
+   "repo": "jimschubert/hi",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-10T01:18:50Z"
+  },
+  {
+   "repo": "Disble/dllm-network",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-22T16:23:09Z"
+  },
+  {
+   "repo": "hash066/Cerberus",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-09T03:56:23Z"
+  },
+  {
+   "repo": "markis/azure-devops-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-06T03:41:26Z"
+  },
+  {
+   "repo": "kaushal-waygood/agentic-self-healing-ci",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-26T22:55:18Z"
+  },
+  {
+   "repo": "asachs01/smtp-edc",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-04-21T21:48:27Z"
+  },
+  {
+   "repo": "haunted-coder/doc7",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-02-14T06:02:05Z"
+  },
+  {
+   "repo": "bryancostanich/Cercano",
+   "path": "source/server/go.mod",
+   "owner_type": "User",
+   "created": "2025-11-23T01:06:36Z"
+  },
+  {
+   "repo": "Zadigo/xlogger",
+   "path": "services/goxlogger/go.mod",
+   "owner_type": "User",
+   "created": "2025-11-16T20:59:47Z"
+  },
+  {
+   "repo": "ChristopherDavenport/unblink",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-01T22:56:30Z"
+  },
+  {
+   "repo": "JuanKsPty/corebank",
+   "path": "api/go.mod",
+   "owner_type": "User",
+   "created": "2026-08-04T18:14:53Z"
+  },
+  {
+   "repo": "ihavespoons/reorg",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-21T08:45:37Z"
+  },
+  {
+   "repo": "Manaf941/gitlab",
+   "path": "workhorse/go.mod",
+   "owner_type": "User",
+   "created": "2025-11-27T15:59:50Z"
+  },
+  {
+   "repo": "htekdev/gh-hookflow",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-28T00:35:57Z"
+  },
+  {
+   "repo": "akennis/sparsi-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-18T16:24:35Z"
+  },
+  {
+   "repo": "bbak/mcs-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-24T14:39:00Z"
+  },
+  {
+   "repo": "nethbotheju/outrider-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-11T15:12:16Z"
+  },
+  {
+   "repo": "ps-spb/mcp-demo-server",
+   "path": "stdio/go.mod",
+   "owner_type": "User",
+   "created": "2025-07-21T12:49:48Z"
+  },
+  {
+   "repo": "Shareed2k/honey",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-30T20:24:40Z"
+  },
+  {
+   "repo": "gaarutyunov/gopgql",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-23T20:46:16Z"
+  },
+  {
+   "repo": "Mike0165115321/Aetox",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-03T11:58:29Z"
+  },
+  {
+   "repo": "SCKelemen/ldap-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-26T11:58:37Z"
+  },
+  {
+   "repo": "fuushyn/armour",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-16T12:58:22Z"
+  },
+  {
+   "repo": "DanielLavrushin/b4",
+   "path": "src/go.mod",
+   "owner_type": "User",
+   "created": "2025-08-07T10:15:59Z"
+  },
+  {
+   "repo": "ganawaj/mcp-transport-nats",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-19T05:47:21Z"
+  },
+  {
+   "repo": "vanducng/miu-db",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-26T07:53:52Z"
+  },
+  {
+   "repo": "iamanishx/codegraph",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-18T09:22:39Z"
+  },
+  {
+   "repo": "Raghu6798/Opencost_MCP_Server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-12T13:30:43Z"
+  },
+  {
+   "repo": "bennypowers/asimonim",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-19T23:03:47Z"
+  },
+  {
+   "repo": "flyisland/gitlab-ee",
+   "path": "workhorse/go.mod",
+   "owner_type": "User",
+   "created": "2025-06-12T06:31:14Z"
+  },
+  {
+   "repo": "flyisland/glab",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-07T03:00:54Z"
+  },
+  {
+   "repo": "ruifrvaz/smaqit",
+   "path": "installer/go.mod",
+   "owner_type": "User",
+   "created": "2025-11-29T23:04:27Z"
+  },
+  {
+   "repo": "3270io/3270Connect",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2023-11-02T09:32:23Z"
+  },
+  {
+   "repo": "dshills/mcp-pr",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-10-07T16:35:43Z"
+  },
+  {
+   "repo": "Odrin/rhizome-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-15T15:10:09Z"
+  },
+  {
+   "repo": "0x3639/nom-indexer-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-06T14:45:50Z"
+  },
+  {
+   "repo": "RigleyC/supanotes",
+   "path": "backend/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-03T20:44:22Z"
+  },
+  {
+   "repo": "iainmoffat/tdx",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-10T17:16:19Z"
+  },
+  {
+   "repo": "rseroter/go-tutorial-agent",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-06T02:24:33Z"
+  },
+  {
+   "repo": "rumpl/gash",
+   "path": "examples/docker-agent/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-21T17:08:03Z"
+  },
+  {
+   "repo": "lancelee723/LaboFlow",
+   "path": "WeKnora/cli/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-14T08:29:49Z"
+  },
+  {
+   "repo": "sivakumar455/memcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-14T04:58:32Z"
+  },
+  {
+   "repo": "hra42/deep-search-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-19T00:53:28Z"
+  },
+  {
+   "repo": "coff33ninja/go-mcp-computer-use",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-27T10:11:26Z"
+  },
+  {
+   "repo": "polyglotdev/mcp-auth-go",
+   "path": "transport/mcpauth/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-27T03:34:42Z"
+  },
+  {
+   "repo": "YangZxi/Callit",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-03T07:01:03Z"
+  },
+  {
+   "repo": "hoshinoht/gofetch-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-03T08:08:10Z"
+  },
+  {
+   "repo": "matteo-gz/prof",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2022-07-20T07:31:17Z"
+  },
+  {
+   "repo": "davetashner/stringer",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-07T18:15:26Z"
+  },
+  {
+   "repo": "ralscha/codemode",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-29T17:11:02Z"
+  },
+  {
+   "repo": "eswar-7116/agent-gopher",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-06T16:36:28Z"
+  },
+  {
+   "repo": "Dsssyc/periscope",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-25T09:08:42Z"
+  },
+  {
+   "repo": "tobert/ssh-mcp-shim",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-03T22:40:21Z"
+  },
+  {
+   "repo": "ShamanicArts/clankspace",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-02T03:30:34Z"
+  },
+  {
+   "repo": "crazeddd/mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-26T18:36:05Z"
+  },
+  {
+   "repo": "lacrioque/gomdoc",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-14T20:55:54Z"
+  },
+  {
+   "repo": "Blackcbears/casdoor",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2024-09-20T04:19:35Z"
+  },
+  {
+   "repo": "norlis/event-driven",
+   "path": "tools/go.mod",
+   "owner_type": "User",
+   "created": "2025-05-25T23:39:19Z"
+  },
+  {
+   "repo": "abdul-hamid-achik/minerva",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-16T21:51:16Z"
+  },
+  {
+   "repo": "scastillo/coordcli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-04T23:03:36Z"
+  },
+  {
+   "repo": "wsshow/fkmcps",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-17T02:49:47Z"
+  },
+  {
+   "repo": "gh0stinthemirr0r/GAEOS-CREATOR",
+   "path": "references/agentgateway/go.mod",
+   "owner_type": "User",
+   "created": "2026-08-06T05:04:52Z"
+  },
+  {
+   "repo": "ThomasCrouzet/restic-defensive-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-26T06:50:49Z"
+  },
+  {
+   "repo": "Lynricsy/OneSSH",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-08T04:33:17Z"
+  },
+  {
+   "repo": "taipm/gitea-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-28T06:59:38Z"
+  },
+  {
+   "repo": "adrianliechti/archive_wingman-cli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-01-19T23:05:36Z"
+  },
+  {
+   "repo": "prasenjit-net/api-flow",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-20T08:23:21Z"
+  },
+  {
+   "repo": "mobiletoly/goldr",
+   "path": "tools/check/go.mod",
+   "owner_type": "User",
+   "created": "2026-05-12T15:49:00Z"
+  },
+  {
+   "repo": "takutakahashi/awesome-mcp-proxy",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-25T01:13:28Z"
+  },
+  {
+   "repo": "abdul-hamid-achik/mcphub",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-28T21:15:30Z"
+  },
+  {
+   "repo": "duffney/copacetic-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-18T19:52:01Z"
+  },
+  {
+   "repo": "patharetush/incident-pilot",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-16T09:32:36Z"
+  },
+  {
+   "repo": "Suolumi/Recipes-api",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2024-12-06T18:36:37Z"
+  },
+  {
+   "repo": "Djancyp/oido-postgres-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-11T18:44:24Z"
+  },
+  {
+   "repo": "takutakahashi/memory-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-17T15:31:15Z"
+  },
+  {
+   "repo": "jjulito/DevAgent",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-23T02:56:31Z"
+  },
+  {
+   "repo": "securityguy/mcp-sniffer",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-19T04:28:11Z"
+  },
+  {
+   "repo": "jlmeeker/myhostmcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-20T05:18:18Z"
+  },
+  {
+   "repo": "FernandoPazCavalcante/lazyswap",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-12T16:49:06Z"
+  },
+  {
+   "repo": "brunopstephan/mcp-todo",
+   "path": "mcp-server/go.mod",
+   "owner_type": "User",
+   "created": "2025-09-18T19:39:13Z"
+  },
+  {
+   "repo": "lzy18001500226/MoSim",
+   "path": "References/Agent/Memory/zep/mcp/zep-mcp-server/go.mod",
+   "owner_type": "User",
+   "created": "2026-05-07T09:33:33Z"
+  },
+  {
+   "repo": "MichealJl/quark-nd-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-14T11:27:48Z"
+  },
+  {
+   "repo": "Saluana/or3-intern",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-05T14:59:21Z"
+  },
+  {
+   "repo": "olgasafonova/miro-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-20T00:15:22Z"
+  },
+  {
+   "repo": "PandelisZ/gut",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-15T11:27:32Z"
+  },
+  {
+   "repo": "ivy/kb",
+   "path": "archive/v0-prototype/go.mod",
+   "owner_type": "User",
+   "created": "2026-01-31T05:37:44Z"
+  },
+  {
+   "repo": "kuhlman-labs/fishhawk",
+   "path": "backend/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-30T14:24:55Z"
+  },
+  {
+   "repo": "kk316113/KylinGuard",
+   "path": "agent-go/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-15T12:00:42Z"
+  },
+  {
+   "repo": "oglimmer/linky",
+   "path": "server/go.mod",
+   "owner_type": "User",
+   "created": "2017-01-07T23:11:19Z"
+  },
+  {
+   "repo": "rokasklive/opengrok-go-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-21T18:05:27Z"
+  },
+  {
+   "repo": "brunojoes955-lang/github-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-24T06:07:20Z"
+  },
+  {
+   "repo": "DuySeu/ai-core-golang",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-28T07:25:42Z"
+  },
+  {
+   "repo": "gkgoat1/scripts",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-06T00:28:03Z"
+  },
+  {
+   "repo": "mikhae1/kubectl-quackops",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2024-05-29T18:13:10Z"
+  },
+  {
+   "repo": "wzslr321/torio",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-06T15:45:30Z"
+  },
+  {
+   "repo": "MiguelAguiarDEV/diagramer",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-06T20:31:44Z"
+  },
+  {
+   "repo": "hp0912/wechat-robot-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-08T14:02:34Z"
+  },
+  {
+   "repo": "mikeschinkel/endless",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-06T22:22:05Z"
+  },
+  {
+   "repo": "yitian-chen/SmartNPC",
+   "path": "agenttown-mcp/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-20T02:38:01Z"
+  },
+  {
+   "repo": "pmady/gpu-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-24T19:06:52Z"
+  },
+  {
+   "repo": "rsclarke/mcp-taskfile-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-06-10T07:25:32Z"
+  },
+  {
+   "repo": "njdaniel/conch",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-12T16:33:45Z"
+  },
+  {
+   "repo": "Zegnat/go-birthday-calendar",
+   "path": "tools/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-06T16:27:31Z"
+  },
+  {
+   "repo": "qiudl/new-ai-proj",
+   "path": "backend/go.mod",
+   "owner_type": "User",
+   "created": "2025-07-17T09:00:26Z"
+  },
+  {
+   "repo": "aitoroses/specctl",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-17T09:39:05Z"
+  },
+  {
+   "repo": "love-lena/sextant",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-24T09:10:44Z"
+  },
+  {
+   "repo": "gtonic/wingman-index",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-18T18:48:54Z"
+  },
+  {
+   "repo": "ematvey/kvt",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-07T12:05:07Z"
+  },
+  {
+   "repo": "mekedron/wolt-cli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-22T12:38:27Z"
+  },
+  {
+   "repo": "stephenc/smcpcli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-12T15:22:14Z"
+  },
+  {
+   "repo": "jalpatel11/Harper",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-16T05:51:21Z"
+  },
+  {
+   "repo": "erh/viam-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-18T22:46:07Z"
+  },
+  {
+   "repo": "tyler180/dynasty-ff-backend",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-10T22:07:26Z"
+  },
+  {
+   "repo": "kareemaly/cortex",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-17T15:28:38Z"
+  },
+  {
+   "repo": "gigovich/aigem",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-30T14:16:32Z"
+  },
+  {
+   "repo": "jdani007/dad-jokes-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-06T05:27:34Z"
+  },
+  {
+   "repo": "productdevbook/devir",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-07T22:39:13Z"
+  },
+  {
+   "repo": "JoakimCarlsson/squeeze",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-28T07:45:48Z"
+  },
+  {
+   "repo": "loafoe/hue-control",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-25T10:17:46Z"
+  },
+  {
+   "repo": "yurivish/mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-22T18:24:27Z"
+  },
+  {
+   "repo": "arnab-baishnab/kubectl-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-29T08:47:31Z"
+  },
+  {
+   "repo": "samuelnp/centinela",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-10T08:10:29Z"
+  },
+  {
+   "repo": "fantastic-interpolation620/ctx-wire",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-14T21:32:03Z"
+  },
+  {
+   "repo": "thiagomendes/benchmark-mcp-servers",
+   "path": "go-server/go.mod",
+   "owner_type": "User",
+   "created": "2026-02-11T21:42:03Z"
+  },
+  {
+   "repo": "rebots-online/LocalAI",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-07-11T23:14:10Z"
+  },
+  {
+   "repo": "BubblegumTuning/goban",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-04T20:43:20Z"
+  },
+  {
+   "repo": "keithdoyle9/pipeline-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-06T17:58:06Z"
+  },
+  {
+   "repo": "ishibata91/AITranslationEngineJP",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-29T04:23:13Z"
+  },
+  {
+   "repo": "jrogala/avr-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-17T22:38:52Z"
+  },
+  {
+   "repo": "cleitonmarx/symbiont-ai-todoapp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-12T22:13:40Z"
+  },
+  {
+   "repo": "sliuxiangyin/mcp-google-browser",
+   "path": "mcp-service/go.mod",
+   "owner_type": "User",
+   "created": "2026-02-04T13:23:35Z"
+  },
+  {
+   "repo": "Roman-Samoilenko/sreagent",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-08T11:34:09Z"
+  },
+  {
+   "repo": "egorlepa/mcp-fs",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-01T22:21:35Z"
+  },
+  {
+   "repo": "ramizpolic/dir-samples",
+   "path": "ard-over-ads/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-17T08:29:45Z"
+  },
+  {
+   "repo": "Yakwilik/rules-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-20T22:30:38Z"
+  },
+  {
+   "repo": "NP-compete/gomcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-10-14T07:25:14Z"
+  },
+  {
+   "repo": "mdkelley02/inferkit",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-18T00:56:05Z"
+  },
+  {
+   "repo": "brianchambers21/taskman",
+   "path": "taskman-mcp/go.mod",
+   "owner_type": "User",
+   "created": "2025-07-03T14:34:44Z"
+  },
+  {
+   "repo": "lmxdawn/go-whisper-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-25T13:43:23Z"
+  },
+  {
+   "repo": "yz4230/ieeexplore-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-06T17:46:58Z"
+  },
+  {
+   "repo": "fpenezic/ssh-tool",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-02T11:51:41Z"
+  },
+  {
+   "repo": "ArnaudGuiovanna/tutor-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-30T17:43:45Z"
+  },
+  {
+   "repo": "eko234/gemi2",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-13T15:33:23Z"
+  },
+  {
+   "repo": "ljammula/todo-service",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-21T20:49:18Z"
+  },
+  {
+   "repo": "mudler/LocalAGI",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2023-07-27T23:21:36Z"
+  },
+  {
+   "repo": "nhatphat/discord-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-07T09:11:45Z"
+  },
+  {
+   "repo": "rhaist/marq",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-16T18:00:07Z"
+  },
+  {
+   "repo": "Lachine1/claude-gode",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-03T15:35:50Z"
+  },
+  {
+   "repo": "lacrioque/steelpage",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-21T22:44:03Z"
+  },
+  {
+   "repo": "wolfeidau/mcp-evals",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-30T05:52:50Z"
+  },
+  {
+   "repo": "alexbathome/clawdybackride",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-21T18:05:43Z"
+  },
+  {
+   "repo": "namansh70747/UID_MCP",
+   "path": "mcp/go.mod",
+   "owner_type": "User",
+   "created": "2025-08-08T14:01:43Z"
+  },
+  {
+   "repo": "tushariitr-19/patents-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-20T00:39:22Z"
+  },
+  {
+   "repo": "themethaithian/go-db",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-04T16:56:30Z"
+  },
+  {
+   "repo": "bingshuoguo/google-scholar-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-17T06:29:34Z"
+  },
+  {
+   "repo": "jmandel/agentic-workspace-shelley-demo",
+   "path": "shelleymanager/go.mod",
+   "owner_type": "User",
+   "created": "2026-03-10T07:11:35Z"
+  },
+  {
+   "repo": "roberto-grasiano/rabbot-seo",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-20T16:58:42Z"
+  },
+  {
+   "repo": "s-macke/OpcodeOracle",
+   "path": "src/go.mod",
+   "owner_type": "User",
+   "created": "2026-01-22T20:18:23Z"
+  },
+  {
+   "repo": "tb0hdan/remote-debugger-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-21T01:30:24Z"
+  },
+  {
+   "repo": "m-mizutani/leveret",
+   "path": "examples/mcp-server/go.mod",
+   "owner_type": "User",
+   "created": "2025-10-12T00:43:31Z"
+  },
+  {
+   "repo": "tobert/dpal",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-28T13:02:45Z"
+  },
+  {
+   "repo": "Tech-Arch1tect/VoiceServer",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-30T22:38:59Z"
+  },
+  {
+   "repo": "PatOConnor43/capeesh",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-13T15:08:22Z"
+  },
+  {
+   "repo": "convto/finger-battle-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-04-16T13:32:47Z"
+  },
+  {
+   "repo": "xnet-admin-1/Kiro-Gateway-Go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-18T05:52:12Z"
+  },
+  {
+   "repo": "sybxxx/codex-auto-retry",
+   "path": "scripts/source/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-27T11:10:59Z"
+  },
+  {
+   "repo": "AbdulMuneebSyed/PROJECT-NEXORA-CD",
+   "path": "cd1/Project Code/Nexora/packages/browseros-agent/apps/cli/go.mod",
+   "owner_type": "User",
+   "created": "2026-05-01T19:17:44Z"
+  },
+  {
+   "repo": "ricardocabral/icuvisor",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-10T20:05:56Z"
+  },
+  {
+   "repo": "gordcurrie/proxmox-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-23T01:08:16Z"
+  },
+  {
+   "repo": "run-bigpig/jcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-04T10:29:51Z"
+  },
+  {
+   "repo": "Dicklesworthstone/pi_agent_rust",
+   "path": "tests/ext_conformance/artifacts/npm/vaayne-agent-kit/mcphub/go.mod",
+   "owner_type": "User",
+   "created": "2026-02-02T20:58:01Z"
+  },
+  {
+   "repo": "seb-schulz/mcpilot-pair",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-18T14:54:53Z"
+  },
+  {
+   "repo": "tripplen23/mew",
+   "path": "mew-mcp/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-13T18:03:03Z"
+  },
+  {
+   "repo": "shinyay/mcp-server-in-practice-2026-04",
+   "path": "exercises/06-knowledge-base-rag/starter/go/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-10T04:34:39Z"
+  },
+  {
+   "repo": "rshade/ax-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-29T01:39:02Z"
+  },
+  {
+   "repo": "Runaho/go-mcp-anthropic-introduction",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-26T19:03:57Z"
+  },
+  {
+   "repo": "Sammyjroberts/gantry",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-12T20:56:20Z"
+  },
+  {
+   "repo": "LIghtJUNction/api.lmm.best",
+   "path": "apps/api-go/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-31T03:24:00Z"
+  },
+  {
+   "repo": "naiba/bonds",
+   "path": "server/go.mod",
+   "owner_type": "User",
+   "created": "2026-02-14T16:45:19Z"
+  },
+  {
+   "repo": "cpuchip/loom",
+   "path": "cmd/loom-mcp/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-30T03:40:49Z"
+  },
+  {
+   "repo": "amjadjibon/memsh",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-30T17:30:01Z"
+  },
+  {
+   "repo": "sushichan044/sidetable",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-12T07:33:53Z"
+  },
+  {
+   "repo": "Rakibul12356/Go_scope",
+   "path": "pkg/mod/github.com/modelcontextprotocol/go-sdk@v1.6.0/go.mod",
+   "owner_type": "User",
+   "created": "2026-08-07T15:41:55Z"
+  },
+  {
+   "repo": "ZephyrDeng/pprof-analyzer-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-04-13T15:20:29Z"
+  },
+  {
+   "repo": "jerkeyray/starling",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-14T14:38:52Z"
+  },
+  {
+   "repo": "pedropaccola/gomcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-01T16:18:46Z"
+  },
+  {
+   "repo": "xDarkicex/mcp-libravdb-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-27T20:37:49Z"
+  },
+  {
+   "repo": "gay00ung/aargrade",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-13T06:53:46Z"
+  },
+  {
+   "repo": "olgasafonova/mcp-otel-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-21T01:33:31Z"
+  },
+  {
+   "repo": "cnvergence/kcp-access-vw-poc",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-30T12:50:48Z"
+  },
+  {
+   "repo": "Rakibul12356/learn-go",
+   "path": "pkg/mod/github.com/modelcontextprotocol/go-sdk@v1.6.0/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-15T04:55:30Z"
+  },
+  {
+   "repo": "alkshmir/go-openai-discord",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2024-04-11T14:55:07Z"
+  },
+  {
+   "repo": "anitabee/hello-mcp",
+   "path": "server/weather/go.mod",
+   "owner_type": "User",
+   "created": "2025-09-21T19:30:04Z"
+  },
+  {
+   "repo": "briancolinger/persistor",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-18T17:36:06Z"
+  },
+  {
+   "repo": "jrmatherly/hyprmcp-gateway",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-27T03:40:12Z"
+  },
+  {
+   "repo": "Eldius/rpi-system-monitor",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-23T01:01:12Z"
+  },
+  {
+   "repo": "Merith-TK/ultron-control",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2024-07-12T20:20:42Z"
+  },
+  {
+   "repo": "yoke233/zhanggui",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-28T19:07:01Z"
+  },
+  {
+   "repo": "AbdullahMalik17/malikclaw",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-14T07:20:12Z"
+  },
+  {
+   "repo": "skoji/shelff-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-26T06:56:47Z"
+  },
+  {
+   "repo": "matteo-grella/openai-agents-go-turin-meetup-2025",
+   "path": "mcp/go.mod",
+   "owner_type": "User",
+   "created": "2025-10-29T17:23:32Z"
+  },
+  {
+   "repo": "misawa-budg/paper2note",
+   "path": "mcp/obsidian/go.mod",
+   "owner_type": "User",
+   "created": "2026-05-03T07:06:27Z"
+  },
+  {
+   "repo": "cwest/gemini-search-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-08T03:48:40Z"
+  },
+  {
+   "repo": "jiejie-dev/funny",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2018-05-15T11:57:07Z"
+  },
+  {
+   "repo": "PeterTippett/kulaos-email-BE",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-10-14T02:11:04Z"
+  },
+  {
+   "repo": "Zayden16/whoop-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-09T11:31:40Z"
+  },
+  {
+   "repo": "andreas-04/ez-query",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-19T06:05:46Z"
+  },
+  {
+   "repo": "gaemi/agentic-fc",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-06T23:43:23Z"
+  },
+  {
+   "repo": "sirrobot01/writ",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-23T17:24:18Z"
+  },
+  {
+   "repo": "frodi-karlsson/workshed",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-26T01:52:32Z"
+  },
+  {
+   "repo": "nguyenviet02/server-management-dashboard",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-06T03:16:56Z"
+  },
+  {
+   "repo": "sarmad-abualkaz/vscode-helper",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-11T16:56:34Z"
+  },
+  {
+   "repo": "krisiasty/netdev-ssh-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-12T12:30:13Z"
+  },
+  {
+   "repo": "grokify/chathub",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-11T01:58:59Z"
+  },
+  {
+   "repo": "ironystock/agentic-obs",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-15T02:10:02Z"
+  },
+  {
+   "repo": "activesys/c4",
+   "path": "mcp/c4_modbus_client/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-03T12:30:59Z"
+  },
+  {
+   "repo": "GottZ/ctx",
+   "path": "go/go.mod",
+   "owner_type": "User",
+   "created": "2026-03-26T21:13:18Z"
+  },
+  {
+   "repo": "lebretont/mcp-obsidian",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-29T14:26:33Z"
+  },
+  {
+   "repo": "ZiceWang/expert-review",
+   "path": "mcp-server/go.mod",
+   "owner_type": "User",
+   "created": "2026-03-30T04:37:50Z"
+  },
+  {
+   "repo": "CaptainPhantasy/floyd-v5",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-14T22:43:51Z"
+  },
+  {
+   "repo": "Tsinglung-Tseng/ali-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-27T08:21:54Z"
+  },
+  {
+   "repo": "GyeongHoKim/naeryeo",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-01T12:27:04Z"
+  },
+  {
+   "repo": "loicalleyne/bof",
+   "path": "bof-mcp/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-14T02:22:05Z"
+  },
+  {
+   "repo": "Bornholm/amatl",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2024-01-27T23:49:04Z"
+  },
+  {
+   "repo": "feline-dis/matrix-claude-bot",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-19T07:44:53Z"
+  },
+  {
+   "repo": "phpboyscout/sigillum",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-08T08:55:39Z"
+  },
+  {
+   "repo": "Glitchyi/librarian",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-01T04:10:37Z"
+  },
+  {
+   "repo": "carpenike/replog",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-13T14:29:43Z"
+  },
+  {
+   "repo": "vi88i/eeye",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-11T14:03:55Z"
+  },
+  {
+   "repo": "fifsky/blog",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2019-09-03T04:04:12Z"
+  },
+  {
+   "repo": "tmc/nlm",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2024-11-18T06:39:17Z"
+  },
+  {
+   "repo": "Cigarliu/ssh-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-03T10:50:37Z"
+  },
+  {
+   "repo": "oxrinz/sf-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-10-18T15:16:56Z"
+  },
+  {
+   "repo": "rolling1314/rolling-crush",
+   "path": "crush-main/go.mod",
+   "owner_type": "User",
+   "created": "2025-12-29T02:45:53Z"
+  },
+  {
+   "repo": "eraserx99/llm-function-calling",
+   "path": "mcp-datetime-server/go.mod",
+   "owner_type": "User",
+   "created": "2025-09-21T19:40:47Z"
+  },
+  {
+   "repo": "bonjoski/locksmith",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-06T19:54:10Z"
+  },
+  {
+   "repo": "griffnb/mcp-cli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-18T20:22:42Z"
+  },
+  {
+   "repo": "slimslenderslacks/gmail-mcp-local",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-23T00:28:31Z"
+  },
+  {
+   "repo": "9d77v/agent-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-25T12:26:29Z"
+  },
+  {
+   "repo": "hanxuanyu/meerkit",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-05T03:21:38Z"
+  },
+  {
+   "repo": "n1majne3/CyberPenda",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-19T08:23:26Z"
+  },
+  {
+   "repo": "pbweb-studio/pb-memoh-studio",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-14T09:55:38Z"
+  },
+  {
+   "repo": "den-vasyliev/agentregistry-inventory",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-02T12:58:27Z"
+  },
+  {
+   "repo": "zachlatta/personal-data-warehouse",
+   "path": "app/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-24T16:17:26Z"
+  },
+  {
+   "repo": "mattt/emcee",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-01-16T16:20:26Z"
+  },
+  {
+   "repo": "xrzxrzx/ZipperAgentMemory",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-21T13:02:23Z"
+  },
+  {
+   "repo": "zakirkun/iofi",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-04T03:18:04Z"
+  },
+  {
+   "repo": "daidaiJ/websearch-mcpserver",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-20T06:12:14Z"
+  },
+  {
+   "repo": "shreyasgowda63/polyglot-sms-service",
+   "path": "go_service/pkg/mod/github.com/modelcontextprotocol/go-sdk@v0.8.0/go.mod",
+   "owner_type": "User",
+   "created": "2025-12-30T06:09:44Z"
+  },
+  {
+   "repo": "ahanoff/spec-kit-mcp-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-10-02T04:00:10Z"
+  },
+  {
+   "repo": "marioser/dolibar-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-08T07:30:26Z"
+  },
+  {
+   "repo": "jcroyoaun/binpacked",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-13T18:12:11Z"
+  },
+  {
+   "repo": "oduan/fugue",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-25T15:02:20Z"
+  },
+  {
+   "repo": "itsHabib/channel",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-08T16:22:55Z"
+  },
+  {
+   "repo": "raphi011/know",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-03T15:09:14Z"
+  },
+  {
+   "repo": "DEEJ4Y/genkitkraft",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-18T17:05:52Z"
+  },
+  {
+   "repo": "erauner12/kagent-detached",
+   "path": "go/core/cli/internal/mcp/frameworks/golang/templates/go.mod.tmpl",
+   "owner_type": "User",
+   "created": "2026-05-17T22:05:37Z"
+  },
+  {
+   "repo": "rsc/tmp",
+   "path": "gadget/go.mod",
+   "owner_type": "User",
+   "created": "2014-03-25T01:41:06Z"
+  },
+  {
+   "repo": "treerootboy/youdu-app-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-10-15T11:10:24Z"
+  },
+  {
+   "repo": "1hei1/wechat-publisher-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-03T01:49:03Z"
+  },
+  {
+   "repo": "chhhee10/braid",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-05T10:35:27Z"
+  },
+  {
+   "repo": "rjboer/OMRON-MCP",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-26T10:20:13Z"
+  },
+  {
+   "repo": "kqns91/GitLab-MCP",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-08T15:49:53Z"
+  },
+  {
+   "repo": "tphakala/panos-mcp-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-11T07:29:55Z"
+  },
+  {
+   "repo": "Innocent-children/dev-flow",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-14T08:16:04Z"
+  },
+  {
+   "repo": "danmartuszewski/hop",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-03T06:01:36Z"
+  },
+  {
+   "repo": "sacquatella/tock-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-02T13:55:06Z"
+  },
+  {
+   "repo": "rangertaha/coinbase-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-30T01:14:08Z"
+  },
+  {
+   "repo": "brionmario/thunder-sdks",
+   "path": "backend/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-19T09:35:43Z"
+  },
+  {
+   "repo": "Kinkando/kinkando.dev",
+   "path": "backend/go.mod",
+   "owner_type": "User",
+   "created": "2024-11-07T13:05:33Z"
+  },
+  {
+   "repo": "harperreed/bbs-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-16T02:44:58Z"
+  },
+  {
+   "repo": "devalexandre/agno-golang",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-02-13T14:36:23Z"
+  },
+  {
+   "repo": "morawskim/go-projects",
+   "path": "bitbucket-mcp/go.mod",
+   "owner_type": "User",
+   "created": "2022-11-26T12:08:14Z"
+  },
+  {
+   "repo": "AbdelilahOu/CodeToolsMcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-10-07T13:02:31Z"
+  },
+  {
+   "repo": "AlexeyInwerp/BoardRipper",
+   "path": "src/backend/go.mod",
+   "owner_type": "User",
+   "created": "2026-03-19T10:35:27Z"
+  },
+  {
+   "repo": "takashabe/gcp-o11y-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-06-25T02:58:23Z"
+  },
+  {
+   "repo": "nonchan7720/manifold",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-10T14:43:03Z"
+  },
+  {
+   "repo": "var-gg/pindoc",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-21T01:27:24Z"
+  },
+  {
+   "repo": "xuanyunhui/new-api-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-19T14:28:07Z"
+  },
+  {
+   "repo": "thiagofernandes1987-create/APEX",
+   "path": "algorithms/github-mcp-server/src/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-08T19:27:05Z"
+  },
+  {
+   "repo": "atopos31/nsxno",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-07-22T16:20:54Z"
+  },
+  {
+   "repo": "winterfx/batonboard",
+   "path": "backend-go/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-17T04:53:01Z"
+  },
+  {
+   "repo": "Ianfr13/pi-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-07T22:40:13Z"
+  },
+  {
+   "repo": "o-mago/nano-banana-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-04T00:59:43Z"
+  },
+  {
+   "repo": "applicate2628/mcp-local-hub",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-22T21:39:07Z"
+  },
+  {
+   "repo": "jedwards1230/scrim",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-03T00:58:43Z"
+  },
+  {
+   "repo": "aljesusg/salmorejoTechMCP",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-25T07:58:59Z"
+  },
+  {
+   "repo": "tolmachov/mcp-gcp-observability",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-02T14:38:10Z"
+  },
+  {
+   "repo": "Bornholm/corpus",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-03-10T22:04:45Z"
+  },
+  {
+   "repo": "Menschomat/d10-thermoprinter",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-07T11:25:18Z"
+  },
+  {
+   "repo": "Zastial/ESGI-Go-exercices",
+   "path": "tp5/go.mod",
+   "owner_type": "User",
+   "created": "2026-05-27T10:48:49Z"
+  },
+  {
+   "repo": "DilshanPGN/IncidentIQ",
+   "path": "github-mcp-server/go.mod",
+   "owner_type": "User",
+   "created": "2026-01-22T08:26:30Z"
+  },
+  {
+   "repo": "yoavf/ai-sessions-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-10-01T14:00:10Z"
+  },
+  {
+   "repo": "fzerorubigd/bggo",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-31T16:56:41Z"
+  },
+  {
+   "repo": "xxnuo/deepseek-harness-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-19T06:50:00Z"
+  },
+  {
+   "repo": "ananchev/cycling-coach",
+   "path": "mcp-server/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-04T13:07:53Z"
+  },
+  {
+   "repo": "loadept/db-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-12T23:06:42Z"
+  },
+  {
+   "repo": "ldecorps/ToneSmith",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-22T07:19:42Z"
+  },
+  {
+   "repo": "asklinux/blender-mcp-codex",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-16T03:20:03Z"
+  },
+  {
+   "repo": "neongreen/mono",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-30T17:29:33Z"
+  },
+  {
+   "repo": "HoratiuCode/Trenchsi",
+   "path": "trenchsi/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-08T11:14:21Z"
+  },
+  {
+   "repo": "avd1729/Onyx",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-26T17:23:33Z"
+  },
+  {
+   "repo": "nickborysov/go-multiclient-example",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-11T08:19:35Z"
+  },
+  {
+   "repo": "toustifer/agent-hub",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-08T06:11:03Z"
+  },
+  {
+   "repo": "abtris/mcp-server-example",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-05T12:42:39Z"
+  },
+  {
+   "repo": "Xe/x",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2015-02-12T05:22:11Z"
+  },
+  {
+   "repo": "amurru/hakase",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-31T16:20:47Z"
+  },
+  {
+   "repo": "PragalvaXFREZ/meshery-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-23T08:29:43Z"
+  },
+  {
+   "repo": "divysinghvi/otelc-mcp-spike",
+   "path": "mcpdemo/go.mod",
+   "owner_type": "User",
+   "created": "2026-08-18T19:01:54Z"
+  },
+  {
+   "repo": "deseti/wizpay-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-02T15:01:47Z"
+  },
+  {
+   "repo": "knivey/dave",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2024-12-19T01:12:11Z"
+  },
+  {
+   "repo": "wxl-lxw/BrowserOS-SOPGuard",
+   "path": "packages/browseros-agent/apps/cli/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-16T15:03:08Z"
+  },
+  {
+   "repo": "pivanov/ctx-wire",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-05T03:50:50Z"
+  },
+  {
+   "repo": "sgx-labs/statelessagent",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-06T20:53:41Z"
+  },
+  {
+   "repo": "AswaniSahoo/kmesh-mcp-poc",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-03T17:57:40Z"
+  },
+  {
+   "repo": "tendant/postgres-mcp-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-17T14:09:43Z"
+  },
+  {
+   "repo": "GrailFinder/gf-lt",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-06-11T08:53:58Z"
+  },
+  {
+   "repo": "liliang-cn/dataintelligence",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-10T07:25:46Z"
+  },
+  {
+   "repo": "treeol/wakil",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-19T16:00:17Z"
+  },
+  {
+   "repo": "lqs020206/openclaw-xiaohongshu",
+   "path": "xiaohongshu-mcp/go.mod",
+   "owner_type": "User",
+   "created": "2026-03-03T03:28:17Z"
+  },
+  {
+   "repo": "iautre/gowk",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2022-06-03T10:21:37Z"
+  },
+  {
+   "repo": "yamirghofran/pipedrive-mcp-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-06T08:37:47Z"
+  },
+  {
+   "repo": "thiagomendes/benchmark-mcp-servers-v2",
+   "path": "go-server/go.mod",
+   "owner_type": "User",
+   "created": "2026-02-27T14:53:59Z"
+  },
+  {
+   "repo": "undeadindustries/sagittarius",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-09T05:52:43Z"
+  },
+  {
+   "repo": "higebu/rfc-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-12T10:56:59Z"
+  },
+  {
+   "repo": "olivame/picoguard",
+   "path": "picoclaw/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-15T13:53:16Z"
+  },
+  {
+   "repo": "Loschcode/grpc-mcp-gateway",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-07T02:08:38Z"
+  },
+  {
+   "repo": "sbgayhub/golem",
+   "path": "plugins/hermes/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-28T03:49:11Z"
+  },
+  {
+   "repo": "0ndreu/aoa-conformance",
+   "path": "integration/mcpserver/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-14T10:26:42Z"
+  },
+  {
+   "repo": "nisimpson/mcp-sigv4-proxy",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-10T10:43:36Z"
+  },
+  {
+   "repo": "onelittlenightmusic/MyWant",
+   "path": "mcp/server/go.mod",
+   "owner_type": "User",
+   "created": "2015-09-28T15:55:01Z"
+  },
+  {
+   "repo": "maestroi/llm-effective-memory",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-19T12:11:46Z"
+  },
+  {
+   "repo": "madnh/scratchpad",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-12T09:51:26Z"
+  },
+  {
+   "repo": "jboursiquot/pantry-agent",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-26T05:23:53Z"
+  },
+  {
+   "repo": "tmc/axmcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-12T04:50:40Z"
+  },
+  {
+   "repo": "skridlevsky/graphthulhu",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-29T00:12:00Z"
+  },
+  {
+   "repo": "npayton77/mcp-local-proxy",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-16T20:58:08Z"
+  },
+  {
+   "repo": "yabinma/presto-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-24T14:31:28Z"
+  },
+  {
+   "repo": "rishenco/reddit-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-15T15:17:23Z"
+  },
+  {
+   "repo": "danusha2345/evcc-ng",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-20T18:37:58Z"
+  },
+  {
+   "repo": "Kevin-HYX/kvmctl",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-18T07:55:07Z"
+  },
+  {
+   "repo": "dvdksn/weekness",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-03T07:25:22Z"
+  },
+  {
+   "repo": "uk000/goto",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2020-05-25T22:37:54Z"
+  },
+  {
+   "repo": "SAPPHIR3-ROS3/Solomon",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-27T22:01:46Z"
+  },
+  {
+   "repo": "CameronWhiteside/x402",
+   "path": "examples/go/servers/mcp/go.mod",
+   "owner_type": "User",
+   "created": "2025-09-10T19:32:52Z"
+  },
+  {
+   "repo": "calulazone/GolangESGI",
+   "path": "mira/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-13T08:55:14Z"
+  },
+  {
+   "repo": "hishamkaram/slacktokens",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-08T11:19:55Z"
+  },
+  {
+   "repo": "itsHabib/orchestra",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-27T19:13:13Z"
+  },
+  {
+   "repo": "n-r-w/agent-standards-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-10T11:03:45Z"
+  },
+  {
+   "repo": "dennisschroeder/mcp-model-proxy",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-01T15:23:45Z"
+  },
+  {
+   "repo": "HellsCrimson/ArcLoom",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-13T20:33:34Z"
+  },
+  {
+   "repo": "liuzl/mcp_misc",
+   "path": "golang/go.mod",
+   "owner_type": "User",
+   "created": "2025-05-22T10:24:12Z"
+  },
+  {
+   "repo": "sweetpotato0/ai-allin",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-03T13:56:05Z"
+  },
+  {
+   "repo": "aicu-icu/sshai",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-11T15:57:07Z"
+  },
+  {
+   "repo": "AaronGoldman/delegations",
+   "path": "examples/http/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-07T20:08:07Z"
+  },
+  {
+   "repo": "benjamesfleming/pocketbase-ext-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-12T07:10:49Z"
+  },
+  {
+   "repo": "vgromanov/obsidian-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-19T15:13:32Z"
+  },
+  {
+   "repo": "Kunde21/forgejo-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-15T02:39:18Z"
+  },
+  {
+   "repo": "anxuanzi/cua",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-04T17:45:32Z"
+  },
+  {
+   "repo": "isokolovskii/go-library-template",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-23T05:46:22Z"
+  },
+  {
+   "repo": "ya-breeze/GeekBudgetBE",
+   "path": "backend/go.mod",
+   "owner_type": "User",
+   "created": "2024-05-24T14:03:35Z"
+  },
+  {
+   "repo": "taihen/mcp-ripestat",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-06-15T09:49:43Z"
+  },
+  {
+   "repo": "baitur/ebpf-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-22T16:11:35Z"
+  },
+  {
+   "repo": "Fantasim/Backthynk",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-23T11:29:01Z"
+  },
+  {
+   "repo": "jeeftor/abs-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-20T00:58:53Z"
+  },
+  {
+   "repo": "roushou/gox",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-19T08:11:09Z"
+  },
+  {
+   "repo": "SomeOvO/xhhRobot",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-08T03:07:06Z"
+  },
+  {
+   "repo": "xoralis/claw-assistant",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-28T12:58:49Z"
+  },
+  {
+   "repo": "JGoing10/llm-mcp-rag-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-04T18:50:13Z"
+  },
+  {
+   "repo": "serteal/taskd",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-04T19:46:07Z"
+  },
+  {
+   "repo": "corker/clickhouse-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-11T15:07:30Z"
+  },
+  {
+   "repo": "yifaaan/fimi-cli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-23T10:39:03Z"
+  },
+  {
+   "repo": "enqack/cognosis-silo",
+   "path": "tools/silo-kb/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-11T11:30:02Z"
+  },
+  {
+   "repo": "vfaddey/sshub-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-20T15:47:15Z"
+  },
+  {
+   "repo": "zx06/xsql",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-29T05:42:59Z"
+  },
+  {
+   "repo": "briferz/crossplane-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-29T03:19:47Z"
+  },
+  {
+   "repo": "rescheni/lain-cli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-25T12:58:34Z"
+  },
+  {
+   "repo": "devmwall/sqlite-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-28T19:53:48Z"
+  },
+  {
+   "repo": "arpitnath/orpheus",
+   "path": "core/go.mod",
+   "owner_type": "User",
+   "created": "2026-01-01T19:53:34Z"
+  },
+  {
+   "repo": "DavidS-ovm/journal-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-18T12:44:53Z"
+  },
+  {
+   "repo": "Go2Engle/Gantry",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-06T12:44:48Z"
+  },
+  {
+   "repo": "robertlestak/docmost-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-27T05:07:43Z"
+  },
+  {
+   "repo": "nomagicln/open-bridge",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-20T00:28:40Z"
+  },
+  {
+   "repo": "ocinsh/crwai",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-17T09:31:00Z"
+  },
+  {
+   "repo": "osiloke/adk-go-essentials",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-06T18:16:52Z"
+  },
+  {
+   "repo": "GauranshMathur/ARR_MCP",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-06-06T15:26:22Z"
+  },
+  {
+   "repo": "deluxebear/jetauth",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2023-10-18T15:40:12Z"
+  },
+  {
+   "repo": "zyx3721/JeriBlog",
+   "path": "server/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-15T12:02:53Z"
+  },
+  {
+   "repo": "atakanatali/contextify",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-20T07:36:37Z"
+  },
+  {
+   "repo": "IAmBod/rss2msg",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-29T21:00:17Z"
+  },
+  {
+   "repo": "Tangc/zsxq-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-06T13:44:21Z"
+  },
+  {
+   "repo": "InspectorGadget/advocugo-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-13T03:57:17Z"
+  },
+  {
+   "repo": "tanviralamtusar/SupaDash",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-17T21:11:30Z"
+  },
+  {
+   "repo": "abdul-hamid-achik/gpeek",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-18T21:46:43Z"
+  },
+  {
+   "repo": "js-beaulieu/hs-api",
+   "path": "api/tasks/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-26T23:44:20Z"
+  },
+  {
+   "repo": "O-guardiao/arkhe-go",
+   "path": "picoclaw-main/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-15T12:59:03Z"
+  },
+  {
+   "repo": "yourlogarithm/l337",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-02T17:05:44Z"
+  },
+  {
+   "repo": "polymatx/opsgate",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-29T13:40:33Z"
+  },
+  {
+   "repo": "ymedlop/kuberoutectl",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-13T18:25:47Z"
+  },
+  {
+   "repo": "P4ST4S/mcp-grpc",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-20T11:55:09Z"
+  },
+  {
+   "repo": "Chris-Cullins/swe-platform",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-18T02:48:28Z"
+  },
+  {
+   "repo": "Alcarin/CodeTextor",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-02T18:55:40Z"
+  },
+  {
+   "repo": "pascalallen/pgmcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-19T19:43:38Z"
+  },
+  {
+   "repo": "Shio0909/GoClaw",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-19T04:06:37Z"
+  },
+  {
+   "repo": "grahamsz/cairnfield",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-25T03:09:45Z"
+  },
+  {
+   "repo": "zchee/antigravity-sdk-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-20T11:05:07Z"
+  },
+  {
+   "repo": "FabianSchurig/terraform-provider-bitbucket",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-04T06:33:34Z"
+  },
+  {
+   "repo": "m2tx/mcpserver_example",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-06T03:11:50Z"
+  },
+  {
+   "repo": "i2y/dark",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-02T15:35:57Z"
+  },
+  {
+   "repo": "dondai1234/goshawk",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-19T06:57:30Z"
+  },
+  {
+   "repo": "channyeintun/nami",
+   "path": "nami/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-07T18:26:44Z"
+  },
+  {
+   "repo": "zzir/agents-go",
+   "path": "mcp/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-11T07:16:36Z"
+  },
+  {
+   "repo": "RemcoE33/calendarific-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-03T13:40:59Z"
+  },
+  {
+   "repo": "aniongithub/mind-map",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-26T17:39:08Z"
+  },
+  {
+   "repo": "LizardLiang/liz-whiteboard-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-28T03:50:53Z"
+  },
+  {
+   "repo": "kascada/k-playbook",
+   "path": "installer/go.mod",
+   "owner_type": "User",
+   "created": "2026-05-09T09:11:02Z"
+  },
+  {
+   "repo": "mystaline/tastastas",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-27T07:08:57Z"
+  },
+  {
+   "repo": "tb0hdan/wass-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-02T01:32:14Z"
+  },
+  {
+   "repo": "asklinux/blender-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-12T16:34:17Z"
+  },
+  {
+   "repo": "Nylirk/SelKnora",
+   "path": "cli/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-15T00:27:31Z"
+  },
+  {
+   "repo": "PHAGUN-JAIN/yasu",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-10T08:49:21Z"
+  },
+  {
+   "repo": "mkmik/boxel",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-20T11:46:10Z"
+  },
+  {
+   "repo": "pretodev/azdmcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-06-29T01:33:35Z"
+  },
+  {
+   "repo": "gobenpark/chatwoot-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-17T07:01:19Z"
+  },
+  {
+   "repo": "moasq/nanowave",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-21T11:36:04Z"
+  },
+  {
+   "repo": "snickerjp/godoctor",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-05T16:36:07Z"
+  },
+  {
+   "repo": "voodoosim/skillloader",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-20T05:03:21Z"
+  },
+  {
+   "repo": "thekevinm/conduit",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-24T23:27:34Z"
+  },
+  {
+   "repo": "danielchappell/rovito",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-18T22:53:32Z"
+  },
+  {
+   "repo": "Blackrider048/Quicktext",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-13T18:49:24Z"
+  },
+  {
+   "repo": "vrinek/Dialog",
+   "path": "demo/go.mod",
+   "owner_type": "User",
+   "created": "2023-04-21T19:39:24Z"
+  },
+  {
+   "repo": "rameshsunkara/go-mcp-example",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-07-28T02:59:51Z"
+  },
+  {
+   "repo": "rafaelescrich/asana-cli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-25T17:48:07Z"
+  },
+  {
+   "repo": "aaronckj/forgejo-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-28T05:50:45Z"
+  },
+  {
+   "repo": "surajreddy771/Photo-Prism",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-23T14:32:18Z"
+  },
+  {
+   "repo": "mboersma/imogen",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-24T14:51:58Z"
+  },
+  {
+   "repo": "shotah/mcp-go-math",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-28T05:03:21Z"
+  },
+  {
+   "repo": "danielmalka/go-knowrag",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-08T13:48:32Z"
+  },
+  {
+   "repo": "ball2jh/annas-archive-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-23T04:25:25Z"
+  },
+  {
+   "repo": "icholy/gritz",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-02T21:46:33Z"
+  },
+  {
+   "repo": "Xinlong-Wu/LingoBridge",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-29T17:09:20Z"
+  },
+  {
+   "repo": "Arnabdaz/Github_MCP_trimmed",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-07-16T15:16:45Z"
+  },
+  {
+   "repo": "Shkirmantsev/AgenticNativePlatform",
+   "path": "mcp/finnhub-mcp-server/go.mod",
+   "owner_type": "User",
+   "created": "2026-03-14T22:09:22Z"
+  },
+  {
+   "repo": "master-bogdan/local-ai-lab",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-05T22:16:08Z"
+  },
+  {
+   "repo": "vaastav/dmas_forge",
+   "path": "examples/financial-analyzer/workflow/go.mod",
+   "owner_type": "User",
+   "created": "2025-07-27T21:39:21Z"
+  },
+  {
+   "repo": "kriuchkov/jiraforge",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-08T19:52:23Z"
+  },
+  {
+   "repo": "frznprograms/reagent",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-10T09:52:50Z"
+  },
+  {
+   "repo": "guygrigsby/gyr",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-05T17:29:09Z"
+  },
+  {
+   "repo": "mayurhalai/incident-response-assistant",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-12T13:18:40Z"
+  },
+  {
+   "repo": "lvmp/mcp_jarvis",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-14T03:42:41Z"
+  },
+  {
+   "repo": "SubhanAfz/scraper",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-07-30T15:46:51Z"
+  },
+  {
+   "repo": "slimslenderslacks/mcp-logseq",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-07T07:43:52Z"
+  },
+  {
+   "repo": "KunMoe/kun-galgame-infra",
+   "path": "apps/api/go.mod",
+   "owner_type": "User",
+   "created": "2026-03-06T10:31:00Z"
+  },
+  {
+   "repo": "Cai-Tang-www/GoAI",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-01T16:39:41Z"
+  },
+  {
+   "repo": "gordcurrie/truenas-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-28T22:01:20Z"
+  },
+  {
+   "repo": "duber000/mizuya",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-16T02:27:25Z"
+  },
+  {
+   "repo": "xycqrcg0/go-mcp-lab",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-11T13:20:46Z"
+  },
+  {
+   "repo": "njayp/ophis",
+   "path": "examples/make/go.mod",
+   "owner_type": "User",
+   "created": "2025-06-09T21:28:39Z"
+  },
+  {
+   "repo": "RoyalFriesian/aimos",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-22T02:28:25Z"
+  },
+  {
+   "repo": "JoakimCarlsson/gong",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-28T05:35:46Z"
+  },
+  {
+   "repo": "liliang-cn/mcp-swagger-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-09-27T00:03:49Z"
+  },
+  {
+   "repo": "aakarim/OpenLore",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-25T12:57:08Z"
+  },
+  {
+   "repo": "Agent-Hellboy/bazel-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-11T12:54:55Z"
+  },
+  {
+   "repo": "dshmyz/qim",
+   "path": "qim-server/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-18T02:39:42Z"
+  },
+  {
+   "repo": "augustohdias/hippocampus",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-23T01:50:53Z"
+  },
+  {
+   "repo": "mostlygeek/mcp-demo",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-27T16:26:54Z"
+  },
+  {
+   "repo": "becker63/searchbench-go",
+   "path": "src/searchbench-go/go.mod",
+   "owner_type": "User",
+   "created": "2026-04-25T01:24:01Z"
+  },
+  {
+   "repo": "OnoNguyen/discord-mcp-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-26T07:45:59Z"
+  },
+  {
+   "repo": "tae2089/thread-keep",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-13T13:50:53Z"
+  },
+  {
+   "repo": "theirish81/fragsfunctions",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-28T06:16:20Z"
+  },
+  {
+   "repo": "jianghushinian/blog-go-example",
+   "path": "mcp/sdk/go.mod",
+   "owner_type": "User",
+   "created": "2023-04-28T22:49:41Z"
+  },
+  {
+   "repo": "gaarutyunov/mcp-anything",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-30T21:32:51Z"
+  },
+  {
+   "repo": "Runaho/cti-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-19T10:28:38Z"
+  },
+  {
+   "repo": "ada333/mcp-server-rhoai-workbenches",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-13T09:31:29Z"
+  },
+  {
+   "repo": "usk6666/yorishiro-proxy",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-15T23:24:42Z"
+  },
+  {
+   "repo": "ysbc1247/postgres-consistency-lab",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-09T12:25:07Z"
+  },
+  {
+   "repo": "georgebuilds/carlos",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-06-05T23:08:48Z"
+  },
+  {
+   "repo": "whiterabb17/py2go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-24T11:44:51Z"
+  },
+  {
+   "repo": "wyvernzora/qbit-bridge",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-12T02:41:51Z"
+  },
+  {
+   "repo": "sudhir-asuracore/totomo-cli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-03T14:06:29Z"
+  },
+  {
+   "repo": "w31r4/codex-mcp-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-27T16:26:28Z"
+  },
+  {
+   "repo": "Taanviir/ft-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-23T17:42:56Z"
+  },
+  {
+   "repo": "diandian921/sofarpc-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-12T11:48:16Z"
+  },
+  {
+   "repo": "abradner/chuvar",
+   "path": "backend/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-23T10:22:49Z"
+  },
+  {
+   "repo": "rhuss/mcp-readwise-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-13T09:15:43Z"
+  },
+  {
+   "repo": "jrudio/synapse",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-26T18:18:23Z"
+  },
+  {
+   "repo": "liliang-cn/agent-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-07T09:46:11Z"
+  },
+  {
+   "repo": "Saravanan21-dev/Crush_demo",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-06T07:13:45Z"
+  },
+  {
+   "repo": "robertbagge/markdown-writer-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-11-27T10:07:42Z"
+  },
+  {
+   "repo": "mikekazakov/lima-nohvf3",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-29T19:03:36Z"
+  },
+  {
+   "repo": "Daedaluz/spliit-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-06T18:51:03Z"
+  },
+  {
+   "repo": "ncosentino/google-psi-mcp",
+   "path": "go/go.mod",
+   "owner_type": "User",
+   "created": "2026-02-21T19:39:05Z"
+  },
+  {
+   "repo": "ajbeck/scut",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-13T08:58:11Z"
+  },
+  {
+   "repo": "koga1020/golang-embed-mcp-sample",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-06-27T03:47:43Z"
+  },
+  {
+   "repo": "menny/cassandra",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-25T23:01:59Z"
+  },
+  {
+   "repo": "0xkaushik-ai/go-terminal",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-10T08:40:53Z"
+  },
+  {
+   "repo": "Cidan/ask",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-19T19:48:36Z"
+  },
+  {
+   "repo": "abdul-hamid-achik/cortex",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-08T01:27:55Z"
+  },
+  {
+   "repo": "puruhitaaa/minishop-be",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-07-03T15:54:12Z"
+  },
+  {
+   "repo": "AntoineViau/FaaSBox",
+   "path": "server/go.mod",
+   "owner_type": "User",
+   "created": "2026-03-16T16:52:36Z"
+  },
+  {
+   "repo": "linkscx/go-agent",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-12T16:19:46Z"
+  },
+  {
+   "repo": "Jackey0903/Auto-Media",
+   "path": "xiaohongshu-mcp/go.mod",
+   "owner_type": "User",
+   "created": "2026-02-12T09:33:21Z"
+  },
+  {
+   "repo": "qselle/strava-cli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-18T19:11:36Z"
+  },
+  {
+   "repo": "iosifache/annas-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-07-09T07:56:18Z"
+  },
+  {
+   "repo": "yinebebt/mcp-calculator-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-06-01T21:29:31Z"
+  },
+  {
+   "repo": "mistakeknot/Alwe",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-20T16:23:31Z"
+  },
+  {
+   "repo": "neochaotic/leoflow",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-22T03:51:23Z"
+  },
+  {
+   "repo": "janvhs/firewalld-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-20T10:56:26Z"
+  },
+  {
+   "repo": "mirkobrombin/go-foundation",
+   "path": "dev/go.mod",
+   "owner_type": "User",
+   "created": "2026-01-14T21:55:28Z"
+  },
+  {
+   "repo": "moresearch/swechain-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-07-21T16:21:34Z"
+  },
+  {
+   "repo": "jenggo/Gitlab-MCP",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-20T18:08:03Z"
+  },
+  {
+   "repo": "mlhher/late-cli",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-22T05:00:28Z"
+  },
+  {
+   "repo": "dotwaffle/peeringdb-plus",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-22T11:35:15Z"
+  },
+  {
+   "repo": "ItsJooL/valkey-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-15T06:02:44Z"
+  },
+  {
+   "repo": "rudi-bruchez/mcp-servers",
+   "path": "cmd/usage-tracker/go.mod",
+   "owner_type": "User",
+   "created": "2026-02-17T12:14:16Z"
+  },
+  {
+   "repo": "CappyT/beans-preserver",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-05-06T10:52:39Z"
+  },
+  {
+   "repo": "bfv/astro-ai-archiver",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-01-07T07:14:19Z"
+  },
+  {
+   "repo": "wusung/0ops",
+   "path": "src/go.mod",
+   "owner_type": "User",
+   "created": "2026-05-10T11:28:56Z"
+  },
+  {
+   "repo": "LinuxSuRen/atest-mcp-server",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-26T03:01:46Z"
+  },
+  {
+   "repo": "xnet-admin-1/drop",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-04-25T20:37:49Z"
+  },
+  {
+   "repo": "vbp1/asktg",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-09T14:35:46Z"
+  },
+  {
+   "repo": "ylxmf2005/omnihub",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-08-13T10:44:39Z"
+  },
+  {
+   "repo": "yeliheng-010/exam-rag-agent-platform",
+   "path": "cli/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-02T05:46:11Z"
+  },
+  {
+   "repo": "cottrellashley/orbit",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-03-07T15:59:48Z"
+  },
+  {
+   "repo": "krishmonga/sentinel",
+   "path": "archive/legacy_workspace/work/ae47e3c9-2e57-4759-9cdb-5cc107027bb6_submission/working_copy/environment/repo/go.mod",
+   "owner_type": "User",
+   "created": "2026-08-14T05:27:23Z"
+  },
+  {
+   "repo": "harperreed/health",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-12-14T15:22:09Z"
+  },
+  {
+   "repo": "MrWong99/zhi",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-08-20T21:47:43Z"
+  },
+  {
+   "repo": "arawak/mcp-fetch-go",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-21T18:36:42Z"
+  },
+  {
+   "repo": "MegaGrindStone/gopls-mcp",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2025-07-05T06:31:29Z"
+  },
+  {
+   "repo": "ValgulNecron/Gameplane",
+   "path": "mcp-server/go.mod",
+   "owner_type": "User",
+   "created": "2026-06-22T22:19:06Z"
+  },
+  {
+   "repo": "weiwei929/mypicoclaw",
+   "path": "go.mod",
+   "owner_type": "User",
+   "created": "2026-02-12T02:09:42Z"
+  },
+  {
+   "repo": "eskil/go-grpc-mcp-examples",
+   "path": "weather/go.mod",
+   "owner_type": "User",
+   "created": "2026-07-18T19:36:27Z"
+  }
+ ]
+}

@@ -1,0 +1,2009 @@
+{
+ "created": "2026-08-21",
+ "seed": 43,
+ "source_dump": "registry_2026-08-20.jsonl.gz",
+ "population": 13069,
+ "n": 400,
+ "members": [
+  {
+   "name": "ai.smithery/arjunkmrm-mango-sago",
+   "url": "https://server.smithery.ai/@arjunkmrm/mango-sago/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "fr.edivia/lexia-juris",
+   "url": "https://lexia-juris-mcp.lexia-pro.workers.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.tcador/787daily",
+   "url": "https://mcp.787daily.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "nl.nationalevacaturebank.www/jobs",
+   "url": "https://www.nationalevacaturebank.nl/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.enigma/enigma-mcp-server",
+   "url": "https://mcp.enigma.com/http",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.guptaprakhariitr/sec-edgar-mcp",
+   "url": "https://sec-edgar-mcp.atlasword.workers.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.MeMikko/hoodgrow-mcp",
+   "url": "https://www.hoodgrow.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.rabyavalla/glp-companion",
+   "url": "https://web-production-ae61.up.railway.app/mcp/glp-companion",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.therealMrFunGuy/github-insights",
+   "url": "https://github.rjctdlabs.xyz/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "work.agentexchange.planets/agent-planets",
+   "url": "https://planets.agentexchange.work/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.101soundboards/search",
+   "url": "https://www.101soundboards.com/mcp/search",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.findimitrov/fintel-discovery",
+   "url": "https://ai.fin-discovery.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/bored",
+   "url": "https://gateway.pipeworx.io/bored/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.manuelrmz123/chiwawa",
+   "url": "https://chiwawa.vercel.app/mcp/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "io.github.pipeworx-io/data-mo",
+   "url": "https://gateway.pipeworx.io/data-mo/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.korey/mcp",
+   "url": "https://mcp.korey.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/detran_am_multas-mcp",
+   "url": "https://api.mcp.ai/p_detran_am_multas",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.corporatelad/promptscan",
+   "url": "https://promptscan.dev/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.nirajagarwal/bible-mcp",
+   "url": "https://bible-mcp-server.fly.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.NanaKabu/qnevt",
+   "url": "https://qnevt.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/greenhouse",
+   "url": "https://gateway.pipeworx.io/greenhouse/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/sefaz_mt_dec_caixa_postal-mcp",
+   "url": "https://api.mcp.ai/p_sefaz_mt_dec_caixa_postal",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "money.candor/candor-finance",
+   "url": "https://api.candor.money/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.cyanheads/bls-labor-mcp-server",
+   "url": "https://bls-labor.caseyjhand.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Vohlsyr/trading-strategy-data",
+   "url": "https://strategysignals.duckdns.org/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.llmabacus/pricing",
+   "url": "https://llmabacus.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.wizideo/wizideo",
+   "url": "https://mcp.wizideo.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.apiscreenshot/screenshot",
+   "url": "https://apiscreenshot.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.clauxel.copilotcliswitchgate/copilotcliswitchgate-mcp",
+   "url": "https://copilotcliswitchgate.clauxel.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.OrbisAPI/orbis-marketplace",
+   "url": "https://orbisapi.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.getfreedomos/freedom-mcp",
+   "url": "https://twuluxmoognlwtmaoqgo.supabase.co/functions/v1/freedom-mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "co.whooshly/whooshly-mcp",
+   "url": "https://app.whooshly.co/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.hergertsynthora/synthora-x402",
+   "url": "https://mcp.hergertsynthora.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/cro_se_cadastro-mcp",
+   "url": "https://api.mcp.ai/p_cro_se_cadastro",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.lorenestinfinite-maker/tool-factory",
+   "url": "https://agency-backend-bbdk.onrender.com/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.complianceautomator/public-mcp",
+   "url": "https://www.complianceautomator.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "pe.xi/xipe",
+   "url": "https://xi.pe/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.StructLabs-io/runitonai-mcp",
+   "url": "https://mcp.runitonai.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/bart",
+   "url": "https://gateway.pipeworx.io/bart/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/cfmv_cadastro-mcp",
+   "url": "https://api.mcp.ai/p_cfmv_cadastro",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "dev.oleander/oleander",
+   "url": "https://oleander.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.newrelic-partners/mcp-server",
+   "url": "https://mcp.newrelic.com/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.mcpbundles/uk-property-business",
+   "url": "https://mcp.mcpbundles.com/bundle/uk-property-business/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Patent-PreCheck/patent-precheck",
+   "url": "https://patentprecheck.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.getdialer/dialer",
+   "url": "https://getdialer.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.taskive/mcp",
+   "url": "https://mcp.taskive.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.ogasurfproject-jpg/hs-audit-app",
+   "url": "https://hs-audit-app.oga-surf-project.workers.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.crawlie/crawlie",
+   "url": "https://crawlie.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.mireye/earth",
+   "url": "https://api.mireye.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.dealermax/public-search",
+   "url": "https://mcp.dealermax.app/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.iwebdevelopment/twinfield",
+   "url": "https://mcp-twinfield.iwebdevelopment.com",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.brainfile/brainfile",
+   "url": "https://brainfile.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "dev.scrapenest/scrapenest",
+   "url": "https://scrapenest.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.wishpool/luxembourg-invoice-mcp",
+   "url": "https://inv-lu.wishpool.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/ibama_regularidade-mcp",
+   "url": "https://api.mcp.ai/p_ibama_regularidade",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/google_calendar",
+   "url": "https://gateway.pipeworx.io/google_calendar/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.ainetcafe/netcafe-china",
+   "url": "https://ainetcafe.com/mcp/cn?s=registry",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pduggusa/dugganusa-threat-intel",
+   "url": "https://analytics.dugganusa.com/api/v1/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/simap",
+   "url": "https://gateway.pipeworx.io/simap/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/reddit",
+   "url": "https://gateway.pipeworx.io/reddit/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.sbanerjee1875/financegenius",
+   "url": "https://mcp.financegenius.ai/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.contendeo/contendeo",
+   "url": "https://contendeo.app/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "co.pentatrail/ctem",
+   "url": "https://api.pentatrail.co/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/github_private",
+   "url": "https://gateway.pipeworx.io/github_private/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.getcutpro/cutpro",
+   "url": "https://mcp.cut.pro",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "to.funn/funnel-generator",
+   "url": "https://funn.to/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/pombase",
+   "url": "https://gateway.pipeworx.io/pombase/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.lumind/mcp",
+   "url": "https://lumind.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Evozim/ai-fleet-cards",
+   "url": "https://ai-fleet-cards-mcp.vercel.app/api/mcp",
+   "rtype": "sse"
+  },
+  {
+   "name": "io.github.Evozim/aegis-policy-mcp",
+   "url": "https://api.m2mcent.com/aegis-policy-mcp/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "io.github.mcp-dir/paguevelozserasa-mcp",
+   "url": "https://api.mcp.ai/p_paguevelozserasa",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/watchmode",
+   "url": "https://gateway.pipeworx.io/watchmode/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.tomba-io/tomba-mcp-server",
+   "url": "https://mcp.tomba.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.dalyaka/helisoma",
+   "url": "https://api.helisoma.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.jmiszewicz/mcp",
+   "url": "https://jmiszewicz.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.clauxel.safetyreplay/safetyreplay-mcp",
+   "url": "https://safetyreplay.clauxel.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.wishpool/uruguay-invoice-mcp",
+   "url": "https://inv-uy.wishpool.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "site.jiebang.www/tools",
+   "url": "https://www.jiebang.site/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.CSOAI-ORG/agent-handoff-certified-mcp",
+   "url": "https://api.meok.ai/v1/a2a/handoff-certified",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.tickerscout/ticker-scout",
+   "url": "https://mcp.tickerscout.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/arcgis-glynncounty",
+   "url": "https://gateway.pipeworx.io/arcgis-glynncounty/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "dev.eqbuilder/marz-greta-lock-network",
+   "url": "https://eqbuilder.dev/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.MCFLAMINGO/local-intel",
+   "url": "https://gsb-swarm-production.up.railway.app/api/local-intel/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.scanbimlabs/revit",
+   "url": "https://mcp.scanbimlabs.io/revit",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.minddory/brain",
+   "url": "https://api.minddory.com/v1/brain/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.raditotev/agent-marketplace",
+   "url": "https://agent-marketplace.radi.pro/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/coordinates",
+   "url": "https://gateway.pipeworx.io/coordinates/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.selis.mcp/pmo",
+   "url": "https://mcp.selis.app/tmis/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/senatran_meus_veiculos_comp-mcp",
+   "url": "https://api.mcp.ai/p_senatran_meus_veiculos_comp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/useragent",
+   "url": "https://gateway.pipeworx.io/useragent/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.bidsparq/mcp",
+   "url": "https://bidsparq.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.cloudpepper/mcp",
+   "url": "https://mcp.cloudpepper.io",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.livetennisapi/livetennisapi-mcp",
+   "url": "https://mcp.livetennisapi.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "sh.glim/glim",
+   "url": "https://glim.sh/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.scanbimlabs/twinmotion",
+   "url": "https://mcp.scanbimlabs.io/twinmotion",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.JdPG23/market-data-toolkit-mcp",
+   "url": "https://mcp.apify.com?tools=jdepablos/ebay-sold-price-appraiser,jdepablos/vinted-search-feed,jdepablos/second-hand-deal-scanner-es,jdepablos/borme-company-feed,jdepablos/spain-boe-auctions,jdepablos/trademark-watch-tmview,jdepablos/insider-trading-feed,jdepablos/clinical-trials-watch,jdepablos/startup-funding-feed,jdepablos/pokemon-card-price-checker,jdepablos/chrono24-watch-analyzer,jdepablos/catawiki-deal-finder,jdepablos/patent-watch,jdepablos/airbnb-market-analyzer,jdepablos/booking-hotel-price-analyzer,jdepablos/samgov-opportunities-feed,jdepablos/sec-13f-holdings-feed,jdepablos/sec-8k-events-feed,jdepablos/companies-house-feed",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.xataio/mcp",
+   "url": "https://api.xata.tech/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.cyanheads/aviation-weather-mcp-server",
+   "url": "https://aviation-weather.caseyjhand.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.smithery/feeefapp-mcp",
+   "url": "https://server.smithery.ai/@feeefapp/mcp/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.jdhart81/agent-surety",
+   "url": "https://mcp.viridisconservation.com/surety/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.arcadia-finance/mcp-server",
+   "url": "https://mcp.arcadia.finance/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/china-stocks",
+   "url": "https://gateway.pipeworx.io/china-stocks/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "pro.namesniper/namesniper",
+   "url": "https://namesniper.pro/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "bio.lnk/lnkbio",
+   "url": "https://lnk.bio/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.IDNSIDNS/tenderapi-mcp",
+   "url": "https://tenderapi.fr/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.clauxel.webmcpactionreceipt/webmcpactionreceipt-mcp",
+   "url": "https://webmcpactionreceipt.clauxel.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/pangaea",
+   "url": "https://gateway.pipeworx.io/pangaea/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ca.oathready/citizenship-test",
+   "url": "https://oathready.ca/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/wikidata-sparql",
+   "url": "https://gateway.pipeworx.io/wikidata-sparql/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.studiomeyer/meetmyagent",
+   "url": "https://meetmyagent.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.getsapiens/sapiens",
+   "url": "https://getsapiens.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.navshainc/noshup",
+   "url": "https://api.noshup.ca/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.AndreuSerraSastre/fivecoins-validation-plan",
+   "url": "https://fivecoins.app.tipdata.es/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.aribadernatal/sideways",
+   "url": "https://sideways.aribadernatal.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.srotzin/hive-mcp-credit",
+   "url": "https://hive-mcp-credit.onrender.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/pref_rj_rio_janeiro_cnd-mcp",
+   "url": "https://api.mcp.ai/p_pref_rj_rio_janeiro_cnd",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.byimprint/intelligence",
+   "url": "https://byimprint.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.disclose/lookup-disclose-io",
+   "url": "https://lookup.disclose.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/acled",
+   "url": "https://gateway.pipeworx.io/acled/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.smithery/arjunkmrm-brave-search-mcp-server",
+   "url": "https://server.smithery.ai/@arjunkmrm/brave-search-mcp-server/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.factanker/factanker",
+   "url": "https://factanker.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.alpic.test/test-mcp-server",
+   "url": "https://test.alpic.ai/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.alpinedataworks/adw-intelligence-server",
+   "url": "https://api.alpinedataworks.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "us.artificl/liftlog",
+   "url": "https://liftlog.artificl.us/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.clauxel.codegraphcontext/codegraphcontext-mcp",
+   "url": "https://codegraphcontext.clauxel.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.clauxel.playwrightselectorguard/playwrightselectorguard-mcp",
+   "url": "https://playwrightselectorguard.clauxel.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.tooloracle/newsoracle",
+   "url": "https://tooloracle.io/news/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.hypernatural/hypernatural",
+   "url": "https://api.hypernatural.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "pl.prawmi/legal-research",
+   "url": "https://api.prawmi.pl/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "site.chatgpt.cursoraikk.agent-arcade-ai/agent-arcade",
+   "url": "https://agent-arcade-ai.cursoraikk.chatgpt.site/api/v3/mcp?campaign=mcp-registry-create-w1",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Evozim/bulk-shipping-negotiator-mcp",
+   "url": "https://api.m2mcent.com/bulk-shipping-negotiator-mcp/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "com.cannonvoip/ask",
+   "url": "https://ask.cannonvoip.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.ym2629/lavela",
+   "url": "https://console.lavela.dev/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/pref_go_morrinhos_cnd-mcp",
+   "url": "https://api.mcp.ai/p_pref_go_morrinhos_cnd",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mangoappstudio/mdedit",
+   "url": "https://mcp.mdedit.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.zylalabs/api-hub",
+   "url": "https://mcp.zylalabs.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "me.in-context/portfolio",
+   "url": "https://in-context.me/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.troyhunt/hibp",
+   "url": "https://haveibeenpwned.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.gaiabio12-design/quantumscan-pqc-scanner",
+   "url": "https://quantumscan.io/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Evozim/cloudscale-sim",
+   "url": "https://cloudscale-sim-mcp.vercel.app/api/mcp",
+   "rtype": "sse"
+  },
+  {
+   "name": "io.github.Spacemandomains/library-mcp",
+   "url": "https://librarymcp.vercel.app/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "cc.deplion/deplion",
+   "url": "https://deplion.cc/mcp/deplion",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.webios2026-byte/solradar-mcp",
+   "url": "https://sol-radar.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.signal8/mcp",
+   "url": "https://mcp.signal8.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "co.gleanit/gleanit",
+   "url": "https://api.gleanit.co/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.yukihamada/tokkyo-maru",
+   "url": "https://tokkyo-maru.fly.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.predictasiax/mcp",
+   "url": "https://mcp.predictasiax.com",
+   "rtype": "sse"
+  },
+  {
+   "name": "io.github.ramakrishnanhulk20/patina",
+   "url": "https://patinadata.xyz/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Zero-nium/project-substitute-arena",
+   "url": "https://zero-wispy-shadow-3951.fly.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.nvidia.ngc.nsight.copilot.api/cuda-docs",
+   "url": "https://api.copilot.nsight.ngc.nvidia.com/mcp/cuda-docs",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.siddharthsinghal/uk-global-talent-visa",
+   "url": "https://ukglobaltalentvisa.org/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.nexus-mcp-infra/similarity-search-api-sdk",
+   "url": "https://similarity-search-api-production.up.railway.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.XianDAO-Labs/huangting-flux",
+   "url": "https://mcp.huangting.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "de.agundur/geo-scanner",
+   "url": "https://www.agundur.de/mcp.php",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/arcgis-puyallup",
+   "url": "https://gateway.pipeworx.io/arcgis-puyallup/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.phwizard/mcp-agrus-ai",
+   "url": "https://mcp.agrus.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.ahmedEid1/thoth",
+   "url": "https://thoth-slr.vercel.app/api/mcp/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Distribea/distribea-mcp",
+   "url": "https://distribea.com/api/mcp/remote",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Wxt-ai/delivery-update-ledger",
+   "url": "https://openings-vote-drilling-initially.trycloudflare.com/mcp/delivery-update-ledger",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Evozim/domain-dnssec-trust-verifier-mcp",
+   "url": "https://api.m2mcent.com/domain-dnssec-trust-verifier-mcp/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "ai.trendsapi/tiktok",
+   "url": "https://tiktok.api.trendsapi.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.microsoft/workiq-wordserver",
+   "url": "https://agent365.svc.cloud.microsoft/agents/tenants/{tenant_id}/servers/mcp_WordServer",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/pref_sp_sao_paulo_ait_listagem-mcp",
+   "url": "https://api.mcp.ai/p_pref_sp_sao_paulo_ait_listagem",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.lumethic/verify",
+   "url": "https://api.lumethic.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "st.demo/demost",
+   "url": "https://demo.st/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.moltlinestudio/merchant",
+   "url": "https://mcp.moltlinestudio.com/merchant",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.varvararatta/dictionary_lexicon_mcp",
+   "url": "https://dictionary-lexicon-mcp.mcpize.run/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.usefulapi/census",
+   "url": "https://census.usefulapi.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.trendsapi/crypto",
+   "url": "https://crypto.api.trendsapi.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.ptrinh/freeport-nostr",
+   "url": "https://nostr-mcp.trinh.uk/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.talarion/talarion",
+   "url": "https://mcp.talarion.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.eraser/eraser",
+   "url": "https://app.eraser.io/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.setfork/setfork",
+   "url": "https://setfork.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Evozim/defi-sentinel-mcp",
+   "url": "https://api.m2mcent.com/defi-sentinel-mcp/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "run.fcapp.cn-shanghai.x-api-zhiji-signal-fblfayyeas/zhiji-signal",
+   "url": "https://x-api-zhiji-signal-fblfayyeas.cn-shanghai.fcapp.run/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.ryxell/mcp",
+   "url": "https://ryxell.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Shreyas-Profile/docs-mcp",
+   "url": "https://docs.regiq.in/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Termi24/eyeot-erp",
+   "url": "https://erp.eyeot.fr/api/v1/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.sleekplan/sleekplan",
+   "url": "https://mcp.sleekplan.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.certman/server",
+   "url": "https://mcp.certman.app",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.gigshow/decker",
+   "url": "https://api.decker-ai.com/api/v1/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/agora-mcp",
+   "url": "https://api.mcp.ai/p_agora",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.creatordb/mcp",
+   "url": "https://mcp.creatordb.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "coach.marian/mentoring-inquiry-builder",
+   "url": "https://www.marian.coach/mcp/mentoring",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.plero/plero",
+   "url": "https://plero.ai/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.note1/mcp",
+   "url": "https://api.note1.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/sefaz_go_produtor_rural-mcp",
+   "url": "https://api.mcp.ai/p_sefaz_go_produtor_rural",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/devdocs-io",
+   "url": "https://gateway.pipeworx.io/devdocs-io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/crf_sp_cadastro-mcp",
+   "url": "https://api.mcp.ai/p_crf_sp_cadastro",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/bacen_proibidos-mcp",
+   "url": "https://api.mcp.ai/p_bacen_proibidos",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/caixatem-mcp",
+   "url": "https://api.mcp.ai/p_caixatem",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.ayurak/aribot-mcp",
+   "url": "https://mcp.aribot.ayurak.com/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.oathlayer/oathlayer",
+   "url": "https://mcp.oathlayer.com",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Evozim/defillama-tvl-tracker-mcp",
+   "url": "https://api.m2mcent.com/defillama-tvl-tracker-mcp/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "dev.agent-module/mcp",
+   "url": "https://api.agent-module.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.sendifai/platform",
+   "url": "https://www.sendifai.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.costbench/mcp",
+   "url": "https://costbench.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.eltociear/repo-security-scanner",
+   "url": "https://mcp.apify.com/?actors=eltociear/mcp-server-security-scanner",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "nz.phos/analytics-engine",
+   "url": "https://analytics.phos.nz/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Trainzilla/trainzilla-mcp",
+   "url": "https://api.tzilla.live/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.getvaletparking/valet-parking-directory",
+   "url": "https://api.getvaletparking.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.vaadin/docs-mcp",
+   "url": "https://mcp.vaadin.com/docs/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.biddeed/biddeed-mcp",
+   "url": "https://mcp.biddeed.ai/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.arcaneforecasting/world-sense",
+   "url": "https://mcp.arcaneforecasting.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.theserverlessdev/wsc",
+   "url": "https://wsc.theserverless.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.sendameal/storefront",
+   "url": "https://store-odebi8ye4k-1.mybigcommerce.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.metamorphosis-sre/devdrops-property",
+   "url": "https://api.devdrops.run/api/property/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/gets-nz",
+   "url": "https://gateway.pipeworx.io/gets-nz/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.aristiun/aribot",
+   "url": "https://mcp.aribot.ayurak.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.papayapay.consumer-production.mcp-agent/bill-payment",
+   "url": "https://mcp-agent.consumer-production.papayapay.com/payagent/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Parisi-Labs/askthegrid",
+   "url": "https://mcp.askthegrid.com/v1/global",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.cabbageandtea/sqlguard",
+   "url": "https://sqlguard.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.almured/marketplace",
+   "url": "https://api.almured.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.fluxink/fci-mcp",
+   "url": "https://mcp.fluxink.ai/servers/f6b6758dba6c4c92b83407a113fdb80b/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.mobbin/mobbin",
+   "url": "https://api.mobbin.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.PLANIT-TECH/lawbster",
+   "url": "https://lawbster.planitprima.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.braincloudservers/braincloud-mcp",
+   "url": "https://mcp.braincloudservers.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Elnora-AI/elnora-mcp-server",
+   "url": "https://mcp.elnora.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Br0ski777/color-palette",
+   "url": "https://color-palette.api.klymax402.com/mcp",
+   "rtype": "sse"
+  },
+  {
+   "name": "de.honestdog/honestdog",
+   "url": "https://server.honestdog.de/api/v1/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/pref_sp_sao_paulo_iptu-mcp",
+   "url": "https://api.mcp.ai/p_pref_sp_sao_paulo_iptu",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.datakoot/domain-intel-mcp",
+   "url": "https://domain.datakoot.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/receita_federal_simei_mei_eg-mcp",
+   "url": "https://api.mcp.ai/p_receita_federal_simei_mei_eg",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.funding-radar/radar",
+   "url": "https://funding-radar.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.srotzin/simpson-strong-agent-service",
+   "url": "https://simpson-strong-agent.onrender.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.tokenofesteem/token-of-esteem",
+   "url": "https://mcp.tokenofesteem.com/v1/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.oshyn/mcp",
+   "url": "https://mcp.oshyn.com/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.thecrowdspace/crowdspace",
+   "url": "https://mcp.thecrowdspace.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.smithery/mfukushim-map-traveler-mcp",
+   "url": "https://server.smithery.ai/@mfukushim/map-traveler-mcp/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "cloud.spider/mcp",
+   "url": "https://mcp.spider.cloud/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "dev.eusend/eusend",
+   "url": "https://mcp.eusend.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.jrainsberger/orthotomeo",
+   "url": "https://orthotomeo.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.thgun2yerhed/base-mcp-resolver",
+   "url": "https://agent-services-seven.vercel.app/api/gateway",
+   "rtype": "sse"
+  },
+  {
+   "name": "dev.provinglab/browser-citation-capture",
+   "url": "https://provinglab.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/predicthq",
+   "url": "https://gateway.pipeworx.io/predicthq/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "xyz.conc-exe/concierge-intel",
+   "url": "https://conc-exe.xyz/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.wishpool/brazil-invoice-mcp",
+   "url": "https://inv-br.wishpool.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.junoventures/moema-sampa-br",
+   "url": "https://moema.sampa.br/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.tryflask/flask",
+   "url": "https://api.flask.do/api/mcp/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Evozim/cleancode-ai",
+   "url": "https://cleancode-ai-mcp.vercel.app/api/mcp",
+   "rtype": "sse"
+  },
+  {
+   "name": "com.ecoexperten/energieausweis",
+   "url": "https://mcp.ecoexperten.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.CSOAI-ORG/agent-prompt-injection-firewall-mcp",
+   "url": "https://api.meok.ai/v1/a2a/prompt-injection-firewall",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.sidecardata/sidecar",
+   "url": "https://service-mcp.sidecardata.com/sidecar/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.conveo/conveo",
+   "url": "https://app.conveo.ai/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.simulis/brain",
+   "url": "https://simulis.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.profitpather/analytics",
+   "url": "https://profitpather.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.jghiglia2380/0latency",
+   "url": "https://mcp.0latency.ai/mcp?key={api_key}",
+   "rtype": "sse"
+  },
+  {
+   "name": "io.github.pipeworx-io/odds-api",
+   "url": "https://gateway.pipeworx.io/odds-api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.foundryims/foundry-ims",
+   "url": "https://mcp.foundryims.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "fr.custom-digital-services/parsedoc",
+   "url": "https://parsedoc.custom-digital-services.fr/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mixall11/botcorpus",
+   "url": "https://botcorpus.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.primoliquors/beacon",
+   "url": "https://beacon-index.onrender.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.doc2mcp/opencode",
+   "url": "https://doc2mcp.site/api/mcp/3f20f9f1-6c33-4679-8d37-613e07293a1d/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.domainium/domainium-search",
+   "url": "https://domainium.io/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.kortexio/memory",
+   "url": "https://mcp.kortexio.io/{appId}/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.junoventures/belavista-sampa-br",
+   "url": "https://belavista.sampa.br/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.doc2mcp/langchain",
+   "url": "https://doc2mcp.site/api/mcp/0cd2635e-0cd5-4712-b33c-13b10c547e42/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Ansvar-Systems/uk-farm-planning",
+   "url": "https://mcp.ansvar.eu/uk-farm-planning/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "lv.city24/real-estate",
+   "url": "https://mcp.city24.lv/_mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "life.pjq/pjq",
+   "url": "https://pjq.life/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/sefaz_pi_visualizar_cert-mcp",
+   "url": "https://api.mcp.ai/p_sefaz_pi_visualizar_cert",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.kiranz38/aristocles-data-api",
+   "url": "https://api.aristocles.com.au/mcp/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/sefaz_rj_ipva_darj-mcp",
+   "url": "https://api.mcp.ai/p_sefaz_rj_ipva_darj",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/data-rennes",
+   "url": "https://gateway.pipeworx.io/data-rennes/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.cesteral/linkedin-mcp",
+   "url": "https://{host}/linkedin-mcp/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.mcp-marketplace/search",
+   "url": "https://mcp-marketplace.io/api/mcp/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.curlymolelabs/supericons",
+   "url": "https://mcp.supericons.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/detran_rs_guia_pagamento-mcp",
+   "url": "https://api.mcp.ai/p_detran_rs_guia_pagamento",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.nevent-dev/mcp-nevent",
+   "url": "https://mcp.nevent.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.sentinelx/sentinelx",
+   "url": "https://mcp.sentinelx.app/mcp/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.riverscript/mcp",
+   "url": "https://riverscript.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/disease",
+   "url": "https://gateway.pipeworx.io/disease/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.thomasjumper/agentbay-mcp",
+   "url": "https://www.aiagentsbay.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/npm",
+   "url": "https://gateway.pipeworx.io/npm/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.pm-33/mcp-server",
+   "url": "https://pm-33.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/dane-gov-pl",
+   "url": "https://gateway.pipeworx.io/dane-gov-pl/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "jp.softglow/storycanon",
+   "url": "https://storycanon.softglow.jp/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.onzero/creative-studio",
+   "url": "https://onzero.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/pipeworx-faq",
+   "url": "https://gateway.pipeworx.io/pipeworx-faq/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.appraisily/mcp",
+   "url": "https://mcp.appraisily.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/ncbi-eutils",
+   "url": "https://gateway.pipeworx.io/ncbi-eutils/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.threadsnoop/reddit",
+   "url": "https://api.threadsnoop.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ch.immoswipe/immoswipe-ai",
+   "url": "https://ai.immoswipe.ch/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "org.orivox/website-builder",
+   "url": "https://mcp.orivox.org/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/sefaria",
+   "url": "https://gateway.pipeworx.io/sefaria/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.stratyfix/mcp-server",
+   "url": "https://app.stratyfix.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.moltlinestudio/personal",
+   "url": "https://mcp.moltlinestudio.com/personal",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.olyport/va-healthcare",
+   "url": "https://mcp.olyport.com/va-healthcare/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/data-tours",
+   "url": "https://gateway.pipeworx.io/data-tours/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "world.jobo/job-search",
+   "url": "https://jobs-mcp.jobo.world/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.sociality/sociality-mcp",
+   "url": "https://api.sociality.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/detran_pb_licenciamento-mcp",
+   "url": "https://api.mcp.ai/p_detran_pb_licenciamento",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.busymail/busymail",
+   "url": "https://busymail.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.worldairfares/flights-mcp",
+   "url": "https://mcp.worldairfares.com",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.jojapi/twitter-x-aio",
+   "url": "https://mcp.jojapi.com/twitter-x-aio",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.kimnchai/korea-flight-mcp",
+   "url": "https://korea-flight.kimnchai.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.guptaprakhariitr/fda-approvals-mcp",
+   "url": "https://fda-approvals-mcp.atlasword.workers.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.baronsengir007/trust-scorer",
+   "url": "https://facilities-radical-advantage-flashers.trycloudflare.com/mcp?src=mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.coachsync/coachsync-mcp",
+   "url": "https://mcp.coachsync.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.hinducalendar/hinducalendar",
+   "url": "https://hinducalendar.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Evozim/corporate-tax-jurisdiction-mcp",
+   "url": "https://api.m2mcent.com/corporate-tax-jurisdiction-mcp/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "io.github.gigsoul/x402-api",
+   "url": "https://gig-x402-api.jayson-be1.workers.dev",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.dinequickly/gphub",
+   "url": "https://gphub.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.subsquid-labs/portal-mcp-server",
+   "url": "https://portal.sqd.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "dev.cz-agents/payqr",
+   "url": "https://payqr.cz-agents.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.marcosnovo/lexvibe",
+   "url": "https://golexvibe.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.dropwatchhq/compliance-radar",
+   "url": "https://compliance.dropwatchhq.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.blendduck/blendduck",
+   "url": "https://blendduck.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.CSOAI-ORG/meok-stripe-acp-checkout-mcp",
+   "url": "https://api.meok.ai/v1/a2a/stripe-acp-checkout",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.IDTitanium/clippy",
+   "url": "https://useclippy.cc/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Evozim/anti-sandwich-slippage-mcp",
+   "url": "https://api.m2mcent.com/anti-sandwich-slippage-mcp/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "io.github.LIONMASTER20/lion-mcp",
+   "url": "https://gleaming-cassata-d41682.netlify.app/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.aggreigator/pro",
+   "url": "https://aggreigator.com/api/mcp/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "store.dacix/store",
+   "url": "https://dacix.store/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.SynapseNetworkAI/synapse-network-mcp-server",
+   "url": "https://mcp.synapse-network.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.therealMrFunGuy/cron-pilot",
+   "url": "https://cron.rjctdlabs.xyz/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "io.github.ebrunet001/mcp-server-lol",
+   "url": "https://mrbridge--lol-mcp-server.apify.actor/mcp",
+   "rtype": "sse"
+  },
+  {
+   "name": "io.github.Deep-Identity-Inc/agent-skill",
+   "url": "https://mcp.deepidv.com/v1/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Atenkai/smasher-studio",
+   "url": "https://www.smasher.studio/mcp/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "xyz.quillen/quillen",
+   "url": "https://www.quillen.xyz/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.rankworker/mcp",
+   "url": "https://mcp.rankworker.com/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.thedeskmonitor/mcp",
+   "url": "https://api.thedeskmonitor.com/api/mcp/v1",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "us.artificl/deawatch",
+   "url": "https://deawatch.artificl.us/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.gustavoatar/remodeleriq",
+   "url": "https://remodeleriq.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.mcpgatepro/costpilot",
+   "url": "https://api.mcpgatepro.com/mcp/costpilot",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.OctoPerf/octoperf",
+   "url": "https://api.octoperf.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.0rkz/byte-protocol",
+   "url": "https://mcp.payperbyte.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.cyanheads/cpsc-recalls-mcp-server",
+   "url": "https://cpsc-recalls.caseyjhand.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.thenextgennexus/social-content-mcp-server",
+   "url": "https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/social-content-mcp-server/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/arcgis-neworleans",
+   "url": "https://gateway.pipeworx.io/arcgis-neworleans/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.adtao/mcp",
+   "url": "https://mcp.adtao.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/mpt_rn_cnf-mcp",
+   "url": "https://api.mcp.ai/p_mpt_rn_cnf",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/nass",
+   "url": "https://gateway.pipeworx.io/nass/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.tachyo/tachyo",
+   "url": "https://mcp.tachyo.ai/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.mcpbundles/uk-hansard",
+   "url": "https://mcp.mcpbundles.com/bundle/uk-hansard/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.AAAZZZR/stockfacts",
+   "url": "https://trading-agent-mcp.zeabur.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.cre8techdev/mini-pricer-mcp",
+   "url": "https://mp-mcp.cre8techdev.com/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "trade.rubin/exchange",
+   "url": "https://mcp.mainnet.rubin.trade/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.gocontentflow/mcp",
+   "url": "https://api.gocontentflow.com/mcp/",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.ripostiq/ripostiq",
+   "url": "https://ripostiq.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.dropwatchhq/grant-finder",
+   "url": "https://qualify.dropwatchhq.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.mactechsolutionsllc.www/cmmc",
+   "url": "https://www.mactechsolutionsllc.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.sophymarine/openregistry",
+   "url": "https://openregistry.sophymarine.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/opencollective",
+   "url": "https://gateway.pipeworx.io/opencollective/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/api-football",
+   "url": "https://gateway.pipeworx.io/api-football/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/cnj_seeu_processos-mcp",
+   "url": "https://api.mcp.ai/p_cnj_seeu_processos",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.xpaysh/web-scraping",
+   "url": "https://scraping.mcp.xpay.sh/mcp?key={api_key}",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.vybenetwork/vybe-solana-api",
+   "url": "https://docs.vybenetwork.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.muninx/mcp",
+   "url": "https://api.muninx.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "de.fakturai/erechnung",
+   "url": "https://fakturai.de/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.martc03/public-health",
+   "url": "https://public-health-mcp.apify.actor/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Taru0208/crossref-mcp-server",
+   "url": "https://aligned-kettledrum--crossref-mcp-server.apify.actor/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/portal_transparencia_safra-mcp",
+   "url": "https://api.mcp.ai/p_portal_transparencia_safra",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.mino-yakking/good-wook",
+   "url": "https://good-wook.mino-yakking.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.whensport/sailing",
+   "url": "https://whensport.com/mcp/sailing",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.altoviz/mcp",
+   "url": "https://mcp.altoviz.com",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "land.moss/alpha-mcp",
+   "url": "https://alpha.moss.land/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/detran_mg_emissao_dae-mcp",
+   "url": "https://api.mcp.ai/p_detran_mg_emissao_dae",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.JustinBStrong/agent-push-kit",
+   "url": "https://api.chatdna.co/agent-push-kit/v1/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.datadoe/amazon-seller-mcp",
+   "url": "https://mcp.datadoe.com/mcp/v1",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.ainetcafe/netcafe-memory",
+   "url": "https://ainetcafe.com/mcp/memory?s=registry",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.cyanheads/hn-mcp-server",
+   "url": "https://hn.caseyjhand.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.Ansvar-Systems/uk-livestock",
+   "url": "https://mcp.ansvar.eu/uk-livestock/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mayankjanmejay/bopmarket",
+   "url": "https://bopmarket.store/mcp/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "net.gepuro.mcp-company-lens-v1/company-lens-mcp-registry",
+   "url": "https://mcp-company-lens-v1.gepuro.net/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.whensport/wc-2026",
+   "url": "https://whensport.com/mcp/wc",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "co.webhook/webhook",
+   "url": "https://mcp.webhook.co/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.molkex/openflow",
+   "url": "https://openflowmcp.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.stayce/partd-mcp",
+   "url": "https://partd-mcp-server.staycek.workers.dev/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/detran_rr_gravame-mcp",
+   "url": "https://api.mcp.ai/p_detran_rr_gravame",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.VermontForest/auctiontrace",
+   "url": "https://api.auctiontrace.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.trendsapi/market-research",
+   "url": "https://market-research.api.trendsapi.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.PKaldone/substrate",
+   "url": "https://substrate.garmolabs.com/mcp-server/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.danboabes/mcpdomain",
+   "url": "https://mcpdomain.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/l2beat",
+   "url": "https://gateway.pipeworx.io/l2beat/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.gitlumen-team/gitlumen-mcp",
+   "url": "https://mcp-github-screen.gitlumen.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/tribunal_trt8_ceat-mcp",
+   "url": "https://api.mcp.ai/p_tribunal_trt8_ceat",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.jacobfunch/usefillo",
+   "url": "https://fillo.so/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/sancoes_onu-mcp",
+   "url": "https://api.mcp.ai/p_sancoes_onu",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pipeworx-io/pubmed",
+   "url": "https://gateway.pipeworx.io/pubmed/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.andrewsfreebies/mcp",
+   "url": "https://andrewsfreebies.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "ai.cnaps/studio",
+   "url": "https://mcp.cnaps.ai/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.rodeldoria/savor-dish",
+   "url": "https://savordish.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.youdotcom-oss/mcp",
+   "url": "https://api.you.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.kindrat86/voicelogpro",
+   "url": "https://voicelogpro.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.junoventures/itaimbibi-sampa-br",
+   "url": "https://itaimbibi.sampa.br/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "app.wishpool/italy-payments-mcp",
+   "url": "https://mcp-it.wishpool.app/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "fr.verifier-ma-facture/validateur",
+   "url": "https://mcp.verifier-ma-facture.fr/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.apished/pesel-nip-regon-validator",
+   "url": "https://apished.com/mcp/v1/idvalidate",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.pirumpi/kiosk-builder",
+   "url": "https://ai-elevation.azurewebsites.net/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.lenz/fact-check",
+   "url": "https://lenz.io/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "com.postrippl/postrippl",
+   "url": "https://postrippl.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.edjacarmona-cmd/ekopump-mcp",
+   "url": "https://ekopump.es/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.therealMrFunGuy/uptime-probe",
+   "url": "https://uptime.rjctdlabs.xyz/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "cc.wealthos/mcp",
+   "url": "https://mcp.wealthos.cc",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.selflabbs/filings-intel-mcp",
+   "url": "https://filings.selflabbs.com/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.riverliu8/pptogo-mcp",
+   "url": "https://pptogo.com/api/mcp",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.mcp-dir/sefaz_ap_certidao_debitos-mcp",
+   "url": "https://api.mcp.ai/p_sefaz_ap_certidao_debitos",
+   "rtype": "streamable-http"
+  },
+  {
+   "name": "io.github.carruda-Global/ecosystem-aec-erp",
+   "url": "https://engenheiro-producao-ai.onrender.com/mcp/erp/sse",
+   "rtype": "sse"
+  },
+  {
+   "name": "io.github.junct-bot/binance-mcp",
+   "url": "https://binance.mcp.junct.dev/mcp",
+   "rtype": "streamable-http"
+  }
+ ]
+}

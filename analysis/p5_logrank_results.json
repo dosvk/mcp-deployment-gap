@@ -1,0 +1,11 @@
+{
+  "preliminary": true,
+  "generated": "2026-08-24",
+  "test": "npm vs go log-rank",
+  "chi2": 289.42,
+  "O_npm": 6.0,
+  "E_npm": 89.16,
+  "asymptotic_p": "6.66e-65",
+  "publisher_block_permutation_p": 0.0005,
+  "n_perm": 2000
+}

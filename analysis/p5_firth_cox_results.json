@@ -1,0 +1,53 @@
+{
+ "preliminary": true,
+ "generated": "2026-08-25",
+ "method": "Firth-penalized Cox (Heinze-Schemper), Breslow ties, numeric trace adjustment",
+ "reference": "go ecosystem",
+ "n": 3600,
+ "events": 256,
+ "events_by_eco": {
+  "rust": 134,
+  "go": 116,
+  "npm": 6
+ },
+ "coef": {
+  "eco_npm": {
+   "HR": 0.0211,
+   "beta": -3.8566,
+   "se": 0.4049,
+   "profile_CI95_HR": [
+    0.0086,
+    0.043
+   ],
+   "p_value": "OMITTED \u2014 sparse stratum (6 events); HR + profile-likelihood CI reported instead (review F1)"
+  },
+  "eco_rust": {
+   "HR": 1.1657,
+   "beta": 0.1533,
+   "se": 0.1274
+  },
+  "org": {
+   "HR": 1.0903,
+   "beta": 0.0865,
+   "se": 0.1482
+  },
+  "log_stars": {
+   "HR": 1.0595,
+   "beta": 0.0578,
+   "se": 0.0346
+  },
+  "age_yrs": {
+   "HR": 0.8439,
+   "beta": -0.1697,
+   "se": 0.0825
+  }
+ },
+ "n_provenance": "3,600 = go+rust+npm sampled repos with hydration; maven (666) excluded (no adoption possible, structural zero); 256 events",
+ "light_ridge_check_HR": {
+  "eco_npm": 0.1636,
+  "eco_rust": 1.4838,
+  "org": 1.1238,
+  "log_stars": 1.0497,
+  "age_yrs": 0.8819
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "built": "2026-08-22",
+ "version": "dev-2",
+ "note": "presence-only lower bounds; freeze 2026-09-19",
+ "ecosystems": {
+  "npm": {
+   "n_manifests": 2000,
+   "DS-P_hits": 5,
+   "DS-P_examples": [
+    {
+     "repo": "bohdanbirdie/cloudstash",
+     "new": [
+      "@modelcontextprotocol/server"
+     ],
+     "legacy": [
+      "@modelcontextprotocol/sdk"
+     ]
+    },
+    {
+     "repo": "danactive/history",
+     "new": [
+      "@modelcontextprotocol/server"
+     ],
+     "legacy": [
+      "@modelcontextprotocol/sdk"
+     ]
+    },
+    {
+     "repo": "Jonghakseo/pi-extension",
+     "new": [
+      "@modelcontextprotocol/node",
+      "@modelcontextprotocol/server"
+     ],
+     "legacy": [
+      "@modelcontextprotocol/sdk"
+     ]
+    },
+    {
+     "repo": "adrian-d-hidalgo/nestjs-mcp-server",
+     "new": [
+      "@modelcontextprotocol/node",
+      "@modelcontextprotocol/server"
+     ],
+     "legacy": [
+      "@modelcontextprotocol/sdk"
+     ]
+    },
+    {
+     "repo": "olaservo/skilljack-mcp",
+     "new": [
+      "@modelcontextprotocol/node",
+      "@modelcontextprotocol/server"
+     ],
+     "legacy": [
+      "@modelcontextprotocol/sdk"
+     ]
+    }
+   ],
+   "HC_cut_signatures": 3,
+   "HC_examples": [
+    "Jonghakseo/pi-extension",
+    "adrian-d-hidalgo/nestjs-mcp-server",
+    "olaservo/skilljack-mcp"
+   ]
+  },
+  "rust": {
+   "n_manifests": 800,
+   "DS-P_hits": 0,
+   "DS-P_examples": [],
+   "HC_cut_signatures": 21,
+   "HC_examples": [
+    "agentgateway/agentgateway",
+    "sednalabs/keycloak-admin-mcp",
+    "lauterbach-mirror/t32mcp",
+    "Weekendsuperhero-io/eventkit-rs",
+    "lx-industries/rmcp-actix-web"
+   ]
+  },
+  "go": {
+   "n_manifests": 800,
+   "DS-P_hits": 0,
+   "DS-P_examples": [],
+   "HC_cut_signatures": 42,
+   "HC_examples": [
+    "cadenya/mcp-grpc-gateway",
+    "projectsveltos/ui-backend",
+    "project-mikan/umi.mikan",
+    "envoyproxy/ai-gateway",
+    "SCGIS-Wales/helm-mcp"
+   ]
+  }
+ }
+}

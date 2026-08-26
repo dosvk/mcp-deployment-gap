@@ -1,0 +1,94 @@
+{
+ "built": "2026-08-21",
+ "method": "git grep '2026-07-28' in code files at release tags since 2026-05-01, chronological, first hit",
+ "caveat": "tag-based first pass; PA-5 requires verification against PUBLISHED artifacts before these dates enter the paper",
+ "sdks": {
+  "csharp-sdk": {
+   "tags_since_2026_05": 11,
+   "first_supporting_tag": "v2.0.0-preview.1",
+   "first_supporting_date": "2026-06-25 14:07:52 -0700",
+   "checked": 3,
+   "hit_files": [
+    "v2.0.0-preview.1:src/Common/McpHttpHeaders.cs",
+    "v2.0.0-preview.1:src/Common/Obsoletions.cs",
+    "v2.0.0-preview.1:src/ModelContextProtocol.AspNetCore/HttpServerTransportOptions.cs",
+    "v2.0.0-preview.1:src/ModelContextProtocol.AspNetCore/StreamableHttpHandler.cs",
+    "v2.0.0-preview.1:src/ModelContextProtocol.Core/Client/McpClient.Methods.cs"
+   ]
+  },
+  "go-sdk": {
+   "tags_since_2026_05": 5,
+   "first_supporting_tag": "v1.7.0-pre.1",
+   "first_supporting_date": "2026-06-24 12:58:25 +0000",
+   "checked": 2,
+   "hit_files": [
+    "v1.7.0-pre.1:mcp/client.go",
+    "v1.7.0-pre.1:mcp/content.go",
+    "v1.7.0-pre.1:mcp/logging.go",
+    "v1.7.0-pre.1:mcp/protocol.go",
+    "v1.7.0-pre.1:mcp/server.go"
+   ]
+  },
+  "java-sdk": {
+   "tags_since_2026_05": 10,
+   "first_supporting_tag": null,
+   "first_supporting_date": null,
+   "checked": 10
+  },
+  "kotlin-sdk": {
+   "tags_since_2026_05": 3,
+   "first_supporting_tag": null,
+   "first_supporting_date": null,
+   "checked": 3
+  },
+  "php-sdk": {
+   "tags_since_2026_05": 3,
+   "first_supporting_tag": null,
+   "first_supporting_date": null,
+   "checked": 3
+  },
+  "python-sdk": {
+   "tags_since_2026_05": 12,
+   "first_supporting_tag": "v2.0.0a1",
+   "first_supporting_date": "2026-06-11 09:41:19 +0100",
+   "checked": 3,
+   "hit_files": [
+    "v2.0.0a1:src/mcp/server/runner.py"
+   ]
+  },
+  "ruby-sdk": {
+   "tags_since_2026_05": 14,
+   "first_supporting_tag": "v0.23.0",
+   "first_supporting_date": "2026-07-07 13:48:23 +0000",
+   "checked": 9,
+   "hit_files": [
+    "v0.23.0:lib/mcp/server.rb",
+    "v0.23.0:lib/mcp/server_context.rb",
+    "v0.23.0:lib/mcp/server_session.rb"
+   ]
+  },
+  "rust-sdk": {
+   "tags_since_2026_05": 36,
+   "first_supporting_tag": "rmcp-macros-v1.8.0",
+   "first_supporting_date": "2026-06-23 12:28:37 +0000",
+   "checked": 5,
+   "hit_files": [
+    "rmcp-macros-v1.8.0:crates/rmcp/src/handler/server.rs",
+    "rmcp-macros-v1.8.0:crates/rmcp/src/model.rs"
+   ]
+  },
+  "typescript-sdk": {
+   "tags_since_2026_05": 65,
+   "first_supporting_tag": "@modelcontextprotocol/server-legacy@2.0.0-alpha.3",
+   "first_supporting_date": "2026-06-25 19:52:32 +0000",
+   "checked": 1,
+   "hit_files": [
+    "@modelcontextprotocol/server-legacy@2.0.0-alpha.3:.changeset/pre.json",
+    "@modelcontextprotocol/server-legacy@2.0.0-alpha.3:packages/client/src/client/client.ts",
+    "@modelcontextprotocol/server-legacy@2.0.0-alpha.3:packages/core-internal/src/shared/protocol.ts",
+    "@modelcontextprotocol/server-legacy@2.0.0-alpha.3:packages/core-internal/src/types/constants.ts",
+    "@modelcontextprotocol/server-legacy@2.0.0-alpha.3:packages/core-internal/src/types/enums.ts"
+   ]
+  }
+ }
+}

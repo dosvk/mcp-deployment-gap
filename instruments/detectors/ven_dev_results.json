@@ -1,0 +1,52 @@
+{
+ "built": "2026-08-23",
+ "detector": "VEN",
+ "version": "dev-1",
+ "n_scanned": 200,
+ "n_with_vendor_dirs": 7,
+ "hits": [
+  {
+   "repo": "AgenticEconomics/webuild",
+   "ven_dirs": [
+    "third_party"
+   ]
+  },
+  {
+   "repo": "julesklord/bucket-agent",
+   "ven_dirs": [
+    "third_party"
+   ]
+  },
+  {
+   "repo": "t8y2/dbx",
+   "ven_dirs": [
+    "vendor"
+   ]
+  },
+  {
+   "repo": "Shra1V32/grok-build",
+   "ven_dirs": [
+    "third_party"
+   ]
+  },
+  {
+   "repo": "jamon8888/hacienda-engine",
+   "ven_dirs": [
+    "vendor"
+   ]
+  },
+  {
+   "repo": "Athelesh-7G/AtheCode",
+   "ven_dirs": [
+    "third_party"
+   ]
+  },
+  {
+   "repo": "canxin121/agena",
+   "ven_dirs": [
+    "third_party"
+   ]
+  }
+ ],
+ "caveat": "top-level dirs only (dev); deep-path + SDK-signature scan at production"
+}

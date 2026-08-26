@@ -1,0 +1,373 @@
+{
+ "built": "2026-08-22",
+ "needle": "2026-07-28",
+ "since": "2026-05-01",
+ "cap_per_line": 40,
+ "lines": {
+  "npm:@modelcontextprotocol/sdk": {
+   "scanned": 1,
+   "supporting": [],
+   "first_supporting": null,
+   "versions": {
+    "1.30.0": {
+     "published": "2026-07-27",
+     "supports": false
+    }
+   }
+  },
+  "npm:@modelcontextprotocol/server": {
+   "scanned": 8,
+   "supporting": [
+    "2.0.0-alpha.3",
+    "2.0.0-alpha.4",
+    "2.0.0-beta.1",
+    "2.0.0-beta.2",
+    "2.0.0-beta.3",
+    "2.0.0-beta.4",
+    "2.0.0-beta.5",
+    "2.0.0"
+   ],
+   "first_supporting": "2.0.0-alpha.3",
+   "versions": {
+    "2.0.0-alpha.3": {
+     "published": "2026-06-25",
+     "supports": true
+    },
+    "2.0.0-alpha.4": {
+     "published": "2026-06-30",
+     "supports": true
+    },
+    "2.0.0-beta.1": {
+     "published": "2026-06-30",
+     "supports": true
+    },
+    "2.0.0-beta.2": {
+     "published": "2026-07-02",
+     "supports": true
+    },
+    "2.0.0-beta.3": {
+     "published": "2026-07-09",
+     "supports": true
+    },
+    "2.0.0-beta.4": {
+     "published": "2026-07-13",
+     "supports": true
+    },
+    "2.0.0-beta.5": {
+     "published": "2026-07-21",
+     "supports": true
+    },
+    "2.0.0": {
+     "published": "2026-07-27",
+     "supports": true
+    }
+   }
+  },
+  "npm:@modelcontextprotocol/server-legacy": {
+   "scanned": 8,
+   "supporting": [
+    "2.0.0-alpha.2",
+    "2.0.0-alpha.3",
+    "2.0.0-alpha.4",
+    "2.0.0-beta.1",
+    "2.0.0-beta.2",
+    "2.0.0-beta.4",
+    "2.0.0-beta.5",
+    "2.0.0"
+   ],
+   "first_supporting": "2.0.0-alpha.2",
+   "versions": {
+    "2.0.0-alpha.2": {
+     "published": "2026-06-25",
+     "supports": true
+    },
+    "2.0.0-alpha.3": {
+     "published": "2026-06-25",
+     "supports": true
+    },
+    "2.0.0-alpha.4": {
+     "published": "2026-06-30",
+     "supports": true
+    },
+    "2.0.0-beta.1": {
+     "published": "2026-06-30",
+     "supports": true
+    },
+    "2.0.0-beta.2": {
+     "published": "2026-07-02",
+     "supports": true
+    },
+    "2.0.0-beta.4": {
+     "published": "2026-07-13",
+     "supports": true
+    },
+    "2.0.0-beta.5": {
+     "published": "2026-07-21",
+     "supports": true
+    },
+    "2.0.0": {
+     "published": "2026-07-27",
+     "supports": true
+    }
+   }
+  },
+  "npm:@modelcontextprotocol/node": {
+   "scanned": 8,
+   "supporting": [],
+   "first_supporting": null,
+   "versions": {
+    "2.0.0-alpha.3": {
+     "published": "2026-06-25",
+     "supports": false
+    },
+    "2.0.0-alpha.4": {
+     "published": "2026-06-30",
+     "supports": false
+    },
+    "2.0.0-beta.1": {
+     "published": "2026-06-30",
+     "supports": false
+    },
+    "2.0.0-beta.2": {
+     "published": "2026-07-02",
+     "supports": false
+    },
+    "2.0.0-beta.3": {
+     "published": "2026-07-09",
+     "supports": false
+    },
+    "2.0.0-beta.4": {
+     "published": "2026-07-13",
+     "supports": false
+    },
+    "2.0.0-beta.5": {
+     "published": "2026-07-21",
+     "supports": false
+    },
+    "2.0.0": {
+     "published": "2026-07-27",
+     "supports": false
+    }
+   }
+  },
+  "npm:@modelcontextprotocol/hono": {
+   "scanned": 8,
+   "supporting": [],
+   "first_supporting": null,
+   "versions": {
+    "2.0.0-alpha.3": {
+     "published": "2026-06-25",
+     "supports": false
+    },
+    "2.0.0-alpha.4": {
+     "published": "2026-06-30",
+     "supports": false
+    },
+    "2.0.0-beta.1": {
+     "published": "2026-06-30",
+     "supports": false
+    },
+    "2.0.0-beta.2": {
+     "published": "2026-07-02",
+     "supports": false
+    },
+    "2.0.0-beta.3": {
+     "published": "2026-07-09",
+     "supports": false
+    },
+    "2.0.0-beta.4": {
+     "published": "2026-07-13",
+     "supports": false
+    },
+    "2.0.0-beta.5": {
+     "published": "2026-07-21",
+     "supports": false
+    },
+    "2.0.0": {
+     "published": "2026-07-27",
+     "supports": false
+    }
+   }
+  },
+  "npm:@modelcontextprotocol/fastify": {
+   "scanned": 8,
+   "supporting": [],
+   "first_supporting": null,
+   "versions": {
+    "2.0.0-alpha.3": {
+     "published": "2026-06-25",
+     "supports": false
+    },
+    "2.0.0-alpha.4": {
+     "published": "2026-06-30",
+     "supports": false
+    },
+    "2.0.0-beta.1": {
+     "published": "2026-06-30",
+     "supports": false
+    },
+    "2.0.0-beta.2": {
+     "published": "2026-07-02",
+     "supports": false
+    },
+    "2.0.0-beta.3": {
+     "published": "2026-07-09",
+     "supports": false
+    },
+    "2.0.0-beta.4": {
+     "published": "2026-07-13",
+     "supports": false
+    },
+    "2.0.0-beta.5": {
+     "published": "2026-07-21",
+     "supports": false
+    },
+    "2.0.0": {
+     "published": "2026-07-27",
+     "supports": false
+    }
+   }
+  },
+  "crates:rmcp": {
+   "scanned": 18,
+   "supporting": [
+    "1.8.0",
+    "2.0.0",
+    "2.1.0",
+    "2.2.0",
+    "3.0.0-beta.1",
+    "3.0.0-beta.2",
+    "3.0.0-beta.3",
+    "3.0.0-beta.4",
+    "3.0.0-beta.5",
+    "3.0.0",
+    "3.0.1",
+    "3.1.0",
+    "3.1.1",
+    "3.1.2",
+    "3.1.3",
+    "3.1.4"
+   ],
+   "first_supporting": "1.8.0",
+   "versions": {
+    "1.6.0": {
+     "published": "2026-05-01",
+     "supports": false
+    },
+    "1.7.0": {
+     "published": "2026-05-13",
+     "supports": false
+    },
+    "1.8.0": {
+     "published": "2026-06-23",
+     "supports": true
+    },
+    "2.0.0": {
+     "published": "2026-06-29",
+     "supports": true
+    },
+    "2.1.0": {
+     "published": "2026-07-02",
+     "supports": true
+    },
+    "2.2.0": {
+     "published": "2026-07-08",
+     "supports": true
+    },
+    "3.0.0-beta.1": {
+     "published": "2026-07-23",
+     "supports": true
+    },
+    "3.0.0-beta.2": {
+     "published": "2026-07-24",
+     "supports": true
+    },
+    "3.0.0-beta.3": {
+     "published": "2026-07-27",
+     "supports": true
+    },
+    "3.0.0-beta.4": {
+     "published": "2026-07-28",
+     "supports": true
+    },
+    "3.0.0-beta.5": {
+     "published": "2026-07-28",
+     "supports": true
+    },
+    "3.0.0": {
+     "published": "2026-07-28",
+     "supports": true
+    },
+    "3.0.1": {
+     "published": "2026-07-29",
+     "supports": true
+    },
+    "3.1.0": {
+     "published": "2026-07-31",
+     "supports": true
+    },
+    "3.1.1": {
+     "published": "2026-08-05",
+     "supports": true
+    },
+    "3.1.2": {
+     "published": "2026-08-07",
+     "supports": true
+    },
+    "3.1.3": {
+     "published": "2026-08-17",
+     "supports": true
+    },
+    "3.1.4": {
+     "published": "2026-08-20",
+     "supports": true
+    }
+   }
+  },
+  "go:go-sdk": {
+   "scanned": 5,
+   "supporting": [
+    "v1.7.0",
+    "v1.7.0-pre.3",
+    "v1.7.0-pre.1",
+    "v1.7.0-pre.2"
+   ],
+   "first_supporting": "v1.7.0-pre.1",
+   "versions": {
+    "v1.7.0": {
+     "published": "2026-07-27",
+     "supports": true
+    },
+    "v1.7.0-pre.3": {
+     "published": "2026-07-17",
+     "supports": true
+    },
+    "v1.7.0-pre.1": {
+     "published": "2026-06-24",
+     "supports": true
+    },
+    "v1.7.0-pre.2": {
+     "published": "2026-07-09",
+     "supports": true
+    },
+    "v1.6.1": {
+     "published": "2026-05-22",
+     "supports": false
+    }
+   },
+   "note": "goproxy.io mirror; re-verify canonical at freeze"
+  },
+  "maven:io.modelcontextprotocol.sdk:mcp": {
+   "scanned": 0,
+   "supporting": [],
+   "first_supporting": null,
+   "note": "verified-negative via artifact grep incl. submodules (D-008); re-scan at freeze"
+  },
+  "maven:io.modelcontextprotocol:kotlin-sdk": {
+   "scanned": 0,
+   "supporting": [],
+   "first_supporting": null,
+   "note": "verified-negative (D-008); re-scan at freeze"
+  }
+ }
+}

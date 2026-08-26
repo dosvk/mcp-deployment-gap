@@ -1,0 +1,2433 @@
+{
+ "wave_date": "2026-08-21",
+ "frame_created": "2026-08-21",
+ "n": 400,
+ "outcomes": {
+  "negotiated": 193,
+  "auth-wall": 105,
+  "http-400": 27,
+  "conn-error:URLError": 27,
+  "http-404": 20,
+  "http-502": 5,
+  "http-308": 4,
+  "http-402": 4,
+  "http-307": 3,
+  "http-500": 2,
+  "jsonrpc-error:-32602": 2,
+  "unparseable": 2,
+  "conn-error:TimeoutError": 2,
+  "http-405": 1,
+  "http-421": 1,
+  "no-protocolVersion": 1,
+  "jsonrpc-error:-32603": 1
+ },
+ "negotiated_versions": {
+  "2025-11-25": 87,
+  "2026-07-28": 43,
+  "2024-11-05": 31,
+  "2025-06-18": 20,
+  "2025-03-26": 12
+ },
+ "results": [
+  {
+   "name": "ai.smithery/arjunkmrm-mango-sago",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "fr.edivia/lexia-juris",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.tcador/787daily",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "nl.nationalevacaturebank.www/jobs",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 403
+  },
+  {
+   "name": "com.enigma/enigma-mcp-server",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.guptaprakhariitr/sec-edgar-mcp",
+   "outcome": "http-500",
+   "negotiated": null,
+   "http": 500
+  },
+  {
+   "name": "io.github.MeMikko/hoodgrow-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.rabyavalla/glp-companion",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "io.github.therealMrFunGuy/github-insights",
+   "outcome": "http-502",
+   "negotiated": null,
+   "http": 502
+  },
+  {
+   "name": "work.agentexchange.planets/agent-planets",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "com.101soundboards/search",
+   "outcome": "jsonrpc-error:-32602",
+   "negotiated": null,
+   "http": 200
+  },
+  {
+   "name": "io.github.findimitrov/fintel-discovery",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/bored",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.manuelrmz123/chiwawa",
+   "outcome": "http-405",
+   "negotiated": null,
+   "http": 405
+  },
+  {
+   "name": "io.github.pipeworx-io/data-mo",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "ai.korey/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.mcp-dir/detran_am_multas-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.corporatelad/promptscan",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "io.github.nirajagarwal/bible-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.NanaKabu/qnevt",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "io.github.pipeworx-io/greenhouse",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/sefaz_mt_dec_caixa_postal-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "money.candor/candor-finance",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.cyanheads/bls-labor-mcp-server",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.Vohlsyr/trading-strategy-data",
+   "outcome": "http-421",
+   "negotiated": null,
+   "http": 421
+  },
+  {
+   "name": "com.llmabacus/pricing",
+   "outcome": "http-308",
+   "negotiated": null,
+   "http": 308
+  },
+  {
+   "name": "ai.wizideo/wizideo",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.apiscreenshot/screenshot",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "com.clauxel.copilotcliswitchgate/copilotcliswitchgate-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.OrbisAPI/orbis-marketplace",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "com.getfreedomos/freedom-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "co.whooshly/whooshly-mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.hergertsynthora/synthora-x402",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/cro_se_cadastro-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.lorenestinfinite-maker/tool-factory",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.complianceautomator/public-mcp",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "pe.xi/xipe",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.StructLabs-io/runitonai-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/bart",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/cfmv_cadastro-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "dev.oleander/oleander",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.newrelic-partners/mcp-server",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.mcpbundles/uk-property-business",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.Patent-PreCheck/patent-precheck",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "app.getdialer/dialer",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "ai.taskive/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.ogasurfproject-jpg/hs-audit-app",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "app.crawlie/crawlie",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.mireye/earth",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "app.dealermax/public-search",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.iwebdevelopment/twinfield",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.brainfile/brainfile",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "dev.scrapenest/scrapenest",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "app.wishpool/luxembourg-invoice-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.mcp-dir/ibama_regularidade-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/google_calendar",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "com.ainetcafe/netcafe-china",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "io.github.pduggusa/dugganusa-threat-intel",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/simap",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/reddit",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.sbanerjee1875/financegenius",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "app.contendeo/contendeo",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "co.pentatrail/ctem",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.pipeworx-io/github_private",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.getcutpro/cutpro",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "to.funn/funnel-generator",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/pombase",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.lumind/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.Evozim/ai-fleet-cards",
+   "outcome": "http-402",
+   "negotiated": null,
+   "http": 402
+  },
+  {
+   "name": "io.github.Evozim/aegis-policy-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/paguevelozserasa-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/watchmode",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.tomba-io/tomba-mcp-server",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.dalyaka/helisoma",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.jmiszewicz/mcp",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "com.clauxel.safetyreplay/safetyreplay-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "app.wishpool/uruguay-invoice-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "site.jiebang.www/tools",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.CSOAI-ORG/agent-handoff-certified-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "ai.tickerscout/ticker-scout",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.pipeworx-io/arcgis-glynncounty",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "dev.eqbuilder/marz-greta-lock-network",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.MCFLAMINGO/local-intel",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.scanbimlabs/revit",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.minddory/brain",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.raditotev/agent-marketplace",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/coordinates",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "app.selis.mcp/pmo",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.mcp-dir/senatran_meus_veiculos_comp-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/useragent",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "com.bidsparq/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.cloudpepper/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.livetennisapi/livetennisapi-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "sh.glim/glim",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.scanbimlabs/twinmotion",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.JdPG23/market-data-toolkit-mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.xataio/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.cyanheads/aviation-weather-mcp-server",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "ai.smithery/feeefapp-mcp",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "io.github.jdhart81/agent-surety",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.arcadia-finance/mcp-server",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/china-stocks",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "pro.namesniper/namesniper",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "bio.lnk/lnkbio",
+   "outcome": "unparseable",
+   "negotiated": null,
+   "http": 200
+  },
+  {
+   "name": "io.github.IDNSIDNS/tenderapi-mcp",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "com.clauxel.webmcpactionreceipt/webmcpactionreceipt-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.pipeworx-io/pangaea",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "ca.oathready/citizenship-test",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/wikidata-sparql",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.studiomeyer/meetmyagent",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.getsapiens/sapiens",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.navshainc/noshup",
+   "outcome": "http-307",
+   "negotiated": null,
+   "http": 307
+  },
+  {
+   "name": "io.github.AndreuSerraSastre/fivecoins-validation-plan",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "com.aribadernatal/sideways",
+   "outcome": "conn-error:TimeoutError",
+   "negotiated": null,
+   "http": 200
+  },
+  {
+   "name": "io.github.srotzin/hive-mcp-credit",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "io.github.mcp-dir/pref_rj_rio_janeiro_cnd-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.byimprint/intelligence",
+   "outcome": "http-308",
+   "negotiated": null,
+   "http": 308
+  },
+  {
+   "name": "io.github.disclose/lookup-disclose-io",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/acled",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "ai.smithery/arjunkmrm-brave-search-mcp-server",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "com.factanker/factanker",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "ai.alpic.test/test-mcp-server",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "com.alpinedataworks/adw-intelligence-server",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "us.artificl/liftlog",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.clauxel.codegraphcontext/codegraphcontext-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "com.clauxel.playwrightselectorguard/playwrightselectorguard-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.tooloracle/newsoracle",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "ai.hypernatural/hypernatural",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "pl.prawmi/legal-research",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "site.chatgpt.cursoraikk.agent-arcade-ai/agent-arcade",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.Evozim/bulk-shipping-negotiator-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "com.cannonvoip/ask",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "io.github.ym2629/lavela",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.mcp-dir/pref_go_morrinhos_cnd-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.mangoappstudio/mdedit",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.zylalabs/api-hub",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "me.in-context/portfolio",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.troyhunt/hibp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.gaiabio12-design/quantumscan-pqc-scanner",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.Evozim/cloudscale-sim",
+   "outcome": "http-402",
+   "negotiated": null,
+   "http": 402
+  },
+  {
+   "name": "io.github.Spacemandomains/library-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "cc.deplion/deplion",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.webios2026-byte/solradar-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "ai.signal8/mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "co.gleanit/gleanit",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.yukihamada/tokkyo-maru",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "com.predictasiax/mcp",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "io.github.ramakrishnanhulk20/patina",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.Zero-nium/project-substitute-arena",
+   "outcome": "no-protocolVersion",
+   "negotiated": null,
+   "http": 200
+  },
+  {
+   "name": "com.nvidia.ngc.nsight.copilot.api/cuda-docs",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.siddharthsinghal/uk-global-talent-visa",
+   "outcome": "unparseable",
+   "negotiated": null,
+   "http": 200
+  },
+  {
+   "name": "io.github.nexus-mcp-infra/similarity-search-api-sdk",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.XianDAO-Labs/huangting-flux",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "de.agundur/geo-scanner",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/arcgis-puyallup",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.phwizard/mcp-agrus-ai",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.ahmedEid1/thoth",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.Distribea/distribea-mcp",
+   "outcome": "http-402",
+   "negotiated": null,
+   "http": 402
+  },
+  {
+   "name": "io.github.Wxt-ai/delivery-update-ledger",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.Evozim/domain-dnssec-trust-verifier-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "ai.trendsapi/tiktok",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "com.microsoft/workiq-wordserver",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.mcp-dir/pref_sp_sao_paulo_ait_listagem-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.lumethic/verify",
+   "outcome": "http-307",
+   "negotiated": null,
+   "http": 307
+  },
+  {
+   "name": "st.demo/demost",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.moltlinestudio/merchant",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.varvararatta/dictionary_lexicon_mcp",
+   "outcome": "jsonrpc-error:-32603",
+   "negotiated": null,
+   "http": 200
+  },
+  {
+   "name": "io.usefulapi/census",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "ai.trendsapi/crypto",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.ptrinh/freeport-nostr",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.talarion/talarion",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.eraser/eraser",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.setfork/setfork",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.Evozim/defi-sentinel-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "run.fcapp.cn-shanghai.x-api-zhiji-signal-fblfayyeas/zhiji-signal",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 403
+  },
+  {
+   "name": "com.ryxell/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.Shreyas-Profile/docs-mcp",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "io.github.Termi24/eyeot-erp",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "com.sleekplan/sleekplan",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "app.certman/server",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.gigshow/decker",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/agora-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "app.creatordb/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "coach.marian/mentoring-inquiry-builder",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "ai.plero/plero",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "ai.note1/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.mcp-dir/sefaz_go_produtor_rural-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/devdocs-io",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/crf_sp_cadastro-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/bacen_proibidos-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/caixatem-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.ayurak/aribot-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.oathlayer/oathlayer",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.Evozim/defillama-tvl-tracker-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "dev.agent-module/mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "com.sendifai/platform",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.costbench/mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "io.github.eltociear/repo-security-scanner",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "nz.phos/analytics-engine",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.Trainzilla/trainzilla-mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.getvaletparking/valet-parking-directory",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.vaadin/docs-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "ai.biddeed/biddeed-mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.arcaneforecasting/world-sense",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "io.github.theserverlessdev/wsc",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "com.sendameal/storefront",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.metamorphosis-sre/devdrops-property",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.pipeworx-io/gets-nz",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.aristiun/aribot",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "com.papayapay.consumer-production.mcp-agent/bill-payment",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.Parisi-Labs/askthegrid",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.cabbageandtea/sqlguard",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.almured/marketplace",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "ai.fluxink/fci-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.mobbin/mobbin",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.PLANIT-TECH/lawbster",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.braincloudservers/braincloud-mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.Elnora-AI/elnora-mcp-server",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.Br0ski777/color-palette",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "de.honestdog/honestdog",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/pref_sp_sao_paulo_iptu-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.datakoot/domain-intel-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/receita_federal_simei_mei_eg-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.funding-radar/radar",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.srotzin/simpson-strong-agent-service",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "com.tokenofesteem/token-of-esteem",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "com.oshyn/mcp",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "com.thecrowdspace/crowdspace",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "ai.smithery/mfukushim-map-traveler-mcp",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "cloud.spider/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "dev.eusend/eusend",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.jrainsberger/orthotomeo",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.thgun2yerhed/base-mcp-resolver",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "dev.provinglab/browser-citation-capture",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/predicthq",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "xyz.conc-exe/concierge-intel",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "app.wishpool/brazil-invoice-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.junoventures/moema-sampa-br",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "io.github.tryflask/flask",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.Evozim/cleancode-ai",
+   "outcome": "http-402",
+   "negotiated": null,
+   "http": 402
+  },
+  {
+   "name": "com.ecoexperten/energieausweis",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.CSOAI-ORG/agent-prompt-injection-firewall-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "com.sidecardata/sidecar",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "ai.conveo/conveo",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.simulis/brain",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.profitpather/analytics",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.jghiglia2380/0latency",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "io.github.pipeworx-io/odds-api",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "com.foundryims/foundry-ims",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "fr.custom-digital-services/parsedoc",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.mixall11/botcorpus",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.primoliquors/beacon",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.doc2mcp/opencode",
+   "outcome": "http-308",
+   "negotiated": null,
+   "http": 308
+  },
+  {
+   "name": "io.domainium/domainium-search",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.kortexio/memory",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.junoventures/belavista-sampa-br",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "io.github.doc2mcp/langchain",
+   "outcome": "http-308",
+   "negotiated": null,
+   "http": 308
+  },
+  {
+   "name": "io.github.Ansvar-Systems/uk-farm-planning",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "lv.city24/real-estate",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "life.pjq/pjq",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/sefaz_pi_visualizar_cert-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.kiranz38/aristocles-data-api",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.mcp-dir/sefaz_rj_ipva_darj-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/data-rennes",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.cesteral/linkedin-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.mcp-marketplace/search",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.curlymolelabs/supericons",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/detran_rs_guia_pagamento-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.nevent-dev/mcp-nevent",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "app.sentinelx/sentinelx",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.riverscript/mcp",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.pipeworx-io/disease",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.thomasjumper/agentbay-mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.pipeworx-io/npm",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.pm-33/mcp-server",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.pipeworx-io/dane-gov-pl",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "jp.softglow/storycanon",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "ai.onzero/creative-studio",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.pipeworx-io/pipeworx-faq",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "com.appraisily/mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/ncbi-eutils",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.threadsnoop/reddit",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "ch.immoswipe/immoswipe-ai",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "org.orivox/website-builder",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.pipeworx-io/sefaria",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "com.stratyfix/mcp-server",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.moltlinestudio/personal",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.olyport/va-healthcare",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/data-tours",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "world.jobo/job-search",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.sociality/sociality-mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.mcp-dir/detran_pb_licenciamento-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "app.busymail/busymail",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.worldairfares/flights-mcp",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "com.jojapi/twitter-x-aio",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.kimnchai/korea-flight-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.guptaprakhariitr/fda-approvals-mcp",
+   "outcome": "http-500",
+   "negotiated": null,
+   "http": 500
+  },
+  {
+   "name": "io.github.baronsengir007/trust-scorer",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.coachsync/coachsync-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "app.hinducalendar/hinducalendar",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.Evozim/corporate-tax-jurisdiction-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.gigsoul/x402-api",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "io.github.dinequickly/gphub",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.subsquid-labs/portal-mcp-server",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "dev.cz-agents/payqr",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.marcosnovo/lexvibe",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.dropwatchhq/compliance-radar",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "com.blendduck/blendduck",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.CSOAI-ORG/meok-stripe-acp-checkout-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.IDTitanium/clippy",
+   "outcome": "jsonrpc-error:-32602",
+   "negotiated": null,
+   "http": 200
+  },
+  {
+   "name": "io.github.Evozim/anti-sandwich-slippage-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.LIONMASTER20/lion-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "com.aggreigator/pro",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "store.dacix/store",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "io.github.SynapseNetworkAI/synapse-network-mcp-server",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.therealMrFunGuy/cron-pilot",
+   "outcome": "http-502",
+   "negotiated": null,
+   "http": 502
+  },
+  {
+   "name": "io.github.ebrunet001/mcp-server-lol",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.Deep-Identity-Inc/agent-skill",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.Atenkai/smasher-studio",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "xyz.quillen/quillen",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.rankworker/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.thedeskmonitor/mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "us.artificl/deawatch",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.gustavoatar/remodeleriq",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "com.mcpgatepro/costpilot",
+   "outcome": "http-307",
+   "negotiated": null,
+   "http": 307
+  },
+  {
+   "name": "io.github.OctoPerf/octoperf",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.0rkz/byte-protocol",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.cyanheads/cpsc-recalls-mcp-server",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "com.thenextgennexus/social-content-mcp-server",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/arcgis-neworleans",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.adtao/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.mcp-dir/mpt_rn_cnf-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/nass",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "ai.tachyo/tachyo",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.mcpbundles/uk-hansard",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.AAAZZZR/stockfacts",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.cre8techdev/mini-pricer-mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "trade.rubin/exchange",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "com.gocontentflow/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.ripostiq/ripostiq",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.dropwatchhq/grant-finder",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "com.mactechsolutionsllc.www/cmmc",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.sophymarine/openregistry",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.pipeworx-io/opencollective",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/api-football",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/cnj_seeu_processos-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.xpaysh/web-scraping",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.vybenetwork/vybe-solana-api",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "com.muninx/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "de.fakturai/erechnung",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.martc03/public-health",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.Taru0208/crossref-mcp-server",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.mcp-dir/portal_transparencia_safra-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.mino-yakking/good-wook",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "com.whensport/sailing",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "com.altoviz/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "land.moss/alpha-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "io.github.mcp-dir/detran_mg_emissao_dae-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.JustinBStrong/agent-push-kit",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.datadoe/amazon-seller-mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.ainetcafe/netcafe-memory",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "io.github.cyanheads/hn-mcp-server",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.Ansvar-Systems/uk-livestock",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.mayankjanmejay/bopmarket",
+   "outcome": "http-502",
+   "negotiated": null,
+   "http": 502
+  },
+  {
+   "name": "net.gepuro.mcp-company-lens-v1/company-lens-mcp-registry",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "com.whensport/wc-2026",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "co.webhook/webhook",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.molkex/openflow",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.stayce/partd-mcp",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "io.github.mcp-dir/detran_rr_gravame-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.VermontForest/auctiontrace",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "ai.trendsapi/market-research",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.PKaldone/substrate",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.danboabes/mcpdomain",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/l2beat",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "io.github.gitlumen-team/gitlumen-mcp",
+   "outcome": "http-502",
+   "negotiated": null,
+   "http": 502
+  },
+  {
+   "name": "io.github.mcp-dir/tribunal_trt8_ceat-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.jacobfunch/usefillo",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.mcp-dir/sancoes_onu-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.pipeworx-io/pubmed",
+   "outcome": "negotiated",
+   "negotiated": "2026-07-28",
+   "http": 200
+  },
+  {
+   "name": "com.andrewsfreebies/mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-06-18",
+   "http": 200
+  },
+  {
+   "name": "ai.cnaps/studio",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.rodeldoria/savor-dish",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.youdotcom-oss/mcp",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.kindrat86/voicelogpro",
+   "outcome": "negotiated",
+   "negotiated": "2024-11-05",
+   "http": 200
+  },
+  {
+   "name": "io.github.junoventures/itaimbibi-sampa-br",
+   "outcome": "negotiated",
+   "negotiated": "2025-03-26",
+   "http": 200
+  },
+  {
+   "name": "app.wishpool/italy-payments-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "fr.verifier-ma-facture/validateur",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "com.apished/pesel-nip-regon-validator",
+   "outcome": "http-400",
+   "negotiated": null,
+   "http": 400
+  },
+  {
+   "name": "io.github.pirumpi/kiosk-builder",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 403
+  },
+  {
+   "name": "io.lenz/fact-check",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "com.postrippl/postrippl",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.edjacarmona-cmd/ekopump-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.therealMrFunGuy/uptime-probe",
+   "outcome": "http-502",
+   "negotiated": null,
+   "http": 502
+  },
+  {
+   "name": "cc.wealthos/mcp",
+   "outcome": "auth-wall",
+   "negotiated": null,
+   "http": 401
+  },
+  {
+   "name": "io.github.selflabbs/filings-intel-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.riverliu8/pptogo-mcp",
+   "outcome": "conn-error:TimeoutError",
+   "negotiated": null,
+   "http": null
+  },
+  {
+   "name": "io.github.mcp-dir/sefaz_ap_certidao_debitos-mcp",
+   "outcome": "negotiated",
+   "negotiated": "2025-11-25",
+   "http": 200
+  },
+  {
+   "name": "io.github.carruda-Global/ecosystem-aec-erp",
+   "outcome": "http-404",
+   "negotiated": null,
+   "http": 404
+  },
+  {
+   "name": "io.github.junct-bot/binance-mcp",
+   "outcome": "conn-error:URLError",
+   "negotiated": null,
+   "http": null
+  }
+ ]
+}

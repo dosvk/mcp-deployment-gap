@@ -1,0 +1,56 @@
+{
+ "preliminary": true,
+ "generated": "2026-08-25",
+ "origins": {
+  "rust": "2026-06-23",
+  "go": "2026-06-24",
+  "npm": "2026-06-25"
+ },
+ "km": {
+  "rust": {
+   "n": 800,
+   "events": 134,
+   "adopted_by_30d": 0.1261,
+   "adopted_by_60d": 0.1728,
+   "q25_days": null
+  },
+  "go": {
+   "n": 800,
+   "events": 116,
+   "adopted_by_30d": 0.0652,
+   "adopted_by_60d": 0.1533,
+   "q25_days": null
+  },
+  "npm": {
+   "n": 2000,
+   "events": 6,
+   "adopted_by_30d": 0.001,
+   "adopted_by_60d": 0.0031,
+   "q25_days": null
+  }
+ },
+ "maven": "excluded \u2014 no supporting SDK exists (structural zero, reported separately)",
+ "cox": {
+  "org": {
+   "HR": 1.088,
+   "p": 0.582
+  },
+  "log_stars": {
+   "HR": 1.059,
+   "p": 0.109
+  },
+  "age_yrs": {
+   "HR": 0.829,
+   "p": 0.156
+  },
+  "eco_npm": {
+   "HR": 0.02,
+   "p": 4.33e-21
+  },
+  "eco_rust": {
+   "HR": 1.168,
+   "p": 0.229
+  }
+ },
+ "cox_note": "owner-clustered robust SEs (A2); npm = reference ecosystem"
+}

@@ -1,0 +1,25 @@
+{
+ "detector": "DS-P",
+ "version": "dev-0.1",
+ "generated": "2026-08-22",
+ "dev_corpus": "registry_2026-08-20.jsonl.gz",
+ "n_package_identifiers": 21875,
+ "suffix_rules": [
+  "-legacy",
+  "_legacy",
+  "-old",
+  "-v1",
+  "-classic",
+  "-compat",
+  "-stable"
+ ],
+ "n_pairs": 0,
+ "pairs": [],
+ "known_true_positive_check": false,
+ "caveats": [
+  "suffix heuristic only (dev); npm scope/dist-tag variants pending",
+  "publisher-level linking pending hydration",
+  "presence-only, lower bound"
+ ],
+ "dev_finding": "DEV ITERATION 1 RESULT: registry package identifiers contain NO parallel-line pairs (21,875 identifiers, 0 pairs; known TP @modelcontextprotocol/server-legacy absent because the registry indexes SERVERS, not SDK helper packages). CONSEQUENCE for spec: DS-P detection corpus = dependent-repo manifests (which line a repo depends on) + SDK package-line census, NOT registry identifiers. In-the-wild corroboration via GH code search: package.json files referencing server-legacy=18 vs current server line=3872 \u2014 the wild DS-P population exists at manifest level as predicted."
+}

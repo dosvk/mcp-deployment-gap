@@ -1,0 +1,126 @@
+{
+ "instrument": "P2-1 version-aware capability resolver (T1 direct / T2 one-hop / T3 artifact-scan)",
+ "estimand": "A7 deployment gap Delta(t); behavior per A8 (new = new-only|dual-stack)",
+ "wave": "2026-08-25",
+ "registry_dump": "registry_2026-08-25.jsonl.gz",
+ "behavior_verification": "probe_v2_validation_2026-08-25.json",
+ "server_capability_counts": {
+  "not-capable": 730,
+  "unresolved": 272,
+  "capable": 230
+ },
+ "resolution_tiers_note": "counts are per-server EVIDENCE tiers incl. unresolved attempts; resolved-only totals are in server_capability_counts",
+ "resolution_tiers": {
+  "T1-direct": 835,
+  "T3-artifact": 244,
+  "T2-onehop": 90,
+  "opaque-artifact-type:mcpb": 27,
+  "opaque-artifact-type:oci": 25,
+  "npm-manifest-http-404": 7,
+  "no-packages-in-registry-entry": 2,
+  "no-sdk-dep-found": 1,
+  "pypi-manifest-http-404": 1
+ },
+ "delta_server": {
+  "n_point": 390,
+  "strata": {
+   "n_units": 1232,
+   "behavior": {
+    "new": 11,
+    "legacy": 481,
+    "auth": 378,
+    "unreachable": 362
+   },
+   "capability": {
+    "capable": 230,
+    "not-capable": 730,
+    "unresolved": 272
+   },
+   "capable_by_behavior": {
+    "new": 3,
+    "legacy": 37,
+    "auth": 33,
+    "unreachable": 157
+   },
+   "resolved_by_behavior": {
+    "new": 6,
+    "legacy": 384,
+    "auth": 291,
+    "unreachable": 279
+   }
+  },
+  "paired": {
+   "cap&new": 3,
+   "cap&legacy": 37,
+   "notcap&new": 3,
+   "notcap&legacy": 347
+  },
+  "P_capable": 0.10256410256410256,
+  "P_new": 0.015384615384615385,
+  "delta_point": 0.08717948717948718,
+  "discordant_b_c": [
+   37,
+   3
+  ],
+  "mcnemar_exact_p": 1.946500560734421e-08,
+  "n_bounds": 870,
+  "delta_lo": -0.3632183908045977,
+  "delta_hi": 0.2885057471264368,
+  "n_fullpanel": 1232,
+  "delta_lo_fullpanel": -0.42288961038961037,
+  "delta_hi_fullpanel": 0.398538961038961
+ },
+ "delta_publisher_PRIMARY": {
+  "n_point": 360,
+  "strata": {
+   "n_units": 966,
+   "behavior": {
+    "new": 10,
+    "legacy": 436,
+    "auth": 321,
+    "unreachable": 199
+   },
+   "capability": {
+    "capable": 108,
+    "not-capable": 638,
+    "unresolved": 220
+   },
+   "capable_by_behavior": {
+    "new": 3,
+    "legacy": 36,
+    "auth": 31,
+    "unreachable": 38
+   },
+   "resolved_by_behavior": {
+    "new": 6,
+    "legacy": 354,
+    "auth": 251,
+    "unreachable": 135
+   }
+  },
+  "paired": {
+   "cap&new": 3,
+   "cap&legacy": 36,
+   "notcap&new": 3,
+   "notcap&legacy": 318
+  },
+  "P_capable": 0.10833333333333334,
+  "P_new": 0.016666666666666666,
+  "delta_point": 0.09166666666666667,
+  "discordant_b_c": [
+   36,
+   3
+  ],
+  "mcnemar_exact_p": 3.608874976634979e-08,
+  "n_bounds": 767,
+  "delta_lo": -0.34028683181225555,
+  "delta_hi": 0.2816166883963494,
+  "n_fullpanel": 966,
+  "delta_lo_fullpanel": -0.43685300207039335,
+  "delta_hi_fullpanel": 0.32919254658385094
+ },
+ "n_servers": 1232,
+ "n_publishers": 966,
+ "preliminary": true,
+ "marker": "[PW] corrected A8 series; regenerate at 2026-10-10 freeze"
+}

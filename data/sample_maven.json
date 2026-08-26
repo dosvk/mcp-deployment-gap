@@ -1,0 +1,4005 @@
+{
+ "eco": "maven",
+ "seed": 53,
+ "drawn": "2026-08-22",
+ "eligible": 666,
+ "n": 666,
+ "members": [
+  {
+   "repo": "0382633/campus-mcp-assignment",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-27T17:50:35Z"
+  },
+  {
+   "repo": "11e11/Stu-RAG",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-15T15:01:46Z"
+  },
+  {
+   "repo": "16680183383/Diet_Planner",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-14T08:25:27Z"
+  },
+  {
+   "repo": "16680183383/mcp-neo4j-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-02T07:24:14Z"
+  },
+  {
+   "repo": "32kda/heap_mcp_nb",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-04T17:29:40Z"
+  },
+  {
+   "repo": "32kda/java_code_model_mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-07T03:03:53Z"
+  },
+  {
+   "repo": "5557667857/ragent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-02T05:10:04Z"
+  },
+  {
+   "repo": "59799517/simple_sq_music_plus",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2022-08-12T08:14:35Z"
+  },
+  {
+   "repo": "AM-Portfolio/am-core-services",
+   "path": "services/am-mcp-server/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-02-10T21:59:12Z"
+  },
+  {
+   "repo": "APEX-Standard/protocol",
+   "path": "reference-implementation/java/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-03-20T00:34:08Z"
+  },
+  {
+   "repo": "ASJordi/whois-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-24T17:26:29Z"
+  },
+  {
+   "repo": "Ab3y/workiq-mcp-enablement",
+   "path": "examples/java-mcp-client/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-28T21:48:29Z"
+  },
+  {
+   "repo": "Achootrain/MCP_sever",
+   "path": "mcp-common/pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-24T10:27:47Z"
+  },
+  {
+   "repo": "Albera0/travel-platform-final",
+   "path": "agent-draw-io/agent-draw-io-domain/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-28T19:53:23Z"
+  },
+  {
+   "repo": "Alibadaraguindo/Travaux_pratique6",
+   "path": "mcp-client/pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-10T21:26:44Z"
+  },
+  {
+   "repo": "AmbujJauhari/database-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-19T03:22:38Z"
+  },
+  {
+   "repo": "Apex-CS/apex-ai-trainings-v3",
+   "path": "session_4/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-07-02T23:49:47Z"
+  },
+  {
+   "repo": "ArchLift/remodern-java",
+   "path": "remodern-java/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-07-21T13:16:14Z"
+  },
+  {
+   "repo": "Architekt-Jutra/architekt-jutra-code",
+   "path": "mcp-server/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-04-01T15:52:57Z"
+  },
+  {
+   "repo": "ArulPrakas/freshservice-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-25T15:29:44Z"
+  },
+  {
+   "repo": "Arvato-Systems/t9t",
+   "path": "t9t-gateway-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2019-08-19T08:57:54Z"
+  },
+  {
+   "repo": "Atmosphere/atmosphere",
+   "path": "modules/mcp-client/pom.xml",
+   "owner_type": "Organization",
+   "created": "2010-06-30T14:26:23Z"
+  },
+  {
+   "repo": "Azure-Samples/remote-mcp-functions-java",
+   "path": "samples/FunctionsMcpTool/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-04-08T20:28:54Z"
+  },
+  {
+   "repo": "Azure/azure-functions-java-additions",
+   "path": "azure-functions-java-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2022-01-07T22:20:31Z"
+  },
+  {
+   "repo": "AzureCosmosDB/azure-cosmos-mcp-server-samples",
+   "path": "java/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-03-12T16:48:43Z"
+  },
+  {
+   "repo": "B0t1234/dodo-agent",
+   "path": "LLMentor-master-0c2db2352a6121c58c91fb5438a26ab6efcfb23f/agent/dodo-agent/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-13T09:36:57Z"
+  },
+  {
+   "repo": "BfShaik/oci-mcp-server-install-handoff",
+   "path": "mcp/src/oracle-db-mcp-java-toolkit/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-10T23:26:52Z"
+  },
+  {
+   "repo": "BharanitharanR/ForgeX",
+   "path": "ingestor/ingestor/pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-19T00:21:34Z"
+  },
+  {
+   "repo": "BhavyaWritesCode/java-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-02T09:29:17Z"
+  },
+  {
+   "repo": "Biswajeet-Mohapatra2004/MCP_IMS",
+   "path": "mcpClient/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-18T05:27:16Z"
+  },
+  {
+   "repo": "Boughzala-ayoub/cubemx-tools",
+   "path": "cubemx-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-15T09:27:07Z"
+  },
+  {
+   "repo": "BruceTraining/MCP-Oreilly-1",
+   "path": "java/pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-24T18:50:47Z"
+  },
+  {
+   "repo": "Bytedesk/bytedesk",
+   "path": "modules/ai/pom.xml",
+   "owner_type": "User",
+   "created": "2023-10-12T00:31:36Z"
+  },
+  {
+   "repo": "CDataSoftware/airtable-mcp-server-by-cdata",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-29T20:40:11Z"
+  },
+  {
+   "repo": "CDataSoftware/cdata-jdbc-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-04-28T20:34:07Z"
+  },
+  {
+   "repo": "CDataSoftware/csv-files-mcp-server-by-cdata",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-20T22:10:13Z"
+  },
+  {
+   "repo": "CDataSoftware/google-calendars-mcp-server-by-cdata",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-01T23:39:31Z"
+  },
+  {
+   "repo": "CDataSoftware/kintone-mcp-server-by-cdata",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-29T20:40:28Z"
+  },
+  {
+   "repo": "CDataSoftware/quickbooks-online-mcp-server-by-cdata",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-01T23:39:26Z"
+  },
+  {
+   "repo": "CDataSoftware/salesforce-mcp-server-by-cdata",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-01T23:39:11Z"
+  },
+  {
+   "repo": "Cantara/knowledge-context-protocol",
+   "path": "bridge/java/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-02-25T10:12:36Z"
+  },
+  {
+   "repo": "CaoAlexlearn/ruoyi-dify",
+   "path": "ruoyi-ai/ruoyi-modules-api/ruoyi-chat-api/pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-13T03:58:11Z"
+  },
+  {
+   "repo": "CdC-SI/copilot-backend",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-06-14T09:38:27Z"
+  },
+  {
+   "repo": "CdC-SI/zia-translation",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-04-08T13:38:03Z"
+  },
+  {
+   "repo": "ChanlerDev/shortlink",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-10T12:48:08Z"
+  },
+  {
+   "repo": "Chinazhouwy/advancedJava",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2018-06-18T01:56:00Z"
+  },
+  {
+   "repo": "CodeTeng/KnowFlow-",
+   "path": "bootstrap/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-11T13:59:00Z"
+  },
+  {
+   "repo": "Convex-Dev/convex",
+   "path": "convex-restapi/pom.xml",
+   "owner_type": "Organization",
+   "created": "2020-07-15T04:15:52Z"
+  },
+  {
+   "repo": "DMaster76/tanzu-genai-showcase",
+   "path": "java-spring-ai-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-05T19:56:49Z"
+  },
+  {
+   "repo": "DataSQRL/sqrl",
+   "path": "sqrl-testing/sqrl-testing-container/pom.xml",
+   "owner_type": "Organization",
+   "created": "2021-07-17T04:11:30Z"
+  },
+  {
+   "repo": "David-Li0406/meta-skill-evloving",
+   "path": "skill-flow/data/skills-refined-autoskill-36k/skillsmp/agentscope-java/agentscope-extensions/agentscope-extensions-higress/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-18T07:30:59Z"
+  },
+  {
+   "repo": "Decathlon/tzatziki",
+   "path": "tzatziki-test-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2021-12-27T16:19:50Z"
+  },
+  {
+   "repo": "DiegoSS14/mcp-instagram-downloader-java",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-09T02:06:08Z"
+  },
+  {
+   "repo": "DonggemaSorry/LavenderCode",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-15T15:05:26Z"
+  },
+  {
+   "repo": "Doubly-Linked-List-Man/AgentScope-Java-Learning",
+   "path": "agentscope-extensions/agentscope-extensions-higress/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-25T06:25:13Z"
+  },
+  {
+   "repo": "EBISPOT/GrEBI",
+   "path": "webapp/grebi_api/pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-12-31T04:12:08Z"
+  },
+  {
+   "repo": "EBISPOT/ols4",
+   "path": "apitester4/pom.xml",
+   "owner_type": "Organization",
+   "created": "2022-05-25T22:00:16Z"
+  },
+  {
+   "repo": "ECF/Py4j-RemoteServicesProvider",
+   "path": "examples/example-arithmetic-mcp-client/pom.xml",
+   "owner_type": "Organization",
+   "created": "2016-06-29T15:37:53Z"
+  },
+  {
+   "repo": "ESSI-Lab/DAB",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2021-12-07T13:32:32Z"
+  },
+  {
+   "repo": "EchoEnv/semanticdf",
+   "path": "semanticdf-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-07-14T19:28:02Z"
+  },
+  {
+   "repo": "EdwinLry/ILP-CW",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-07T10:50:08Z"
+  },
+  {
+   "repo": "EstherBQ/ragent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-08T11:03:15Z"
+  },
+  {
+   "repo": "EvanLeung08/evan-spring-ai-examples",
+   "path": "evan-ai-decision-engine/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-19T03:03:41Z"
+  },
+  {
+   "repo": "FTurleque/minos-code-intelligence",
+   "path": "minos-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-18T21:27:06Z"
+  },
+  {
+   "repo": "FTurleque/morpheus-engine",
+   "path": "morpheus-integration-minos/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-21T22:02:19Z"
+  },
+  {
+   "repo": "FTurleque/nexus-context-engine",
+   "path": "adapters/mcp-java/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-18T14:55:35Z"
+  },
+  {
+   "repo": "FeatureCreepEAP/crashdetector",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-06-14T00:38:18Z"
+  },
+  {
+   "repo": "Firasbaklouti1/spring-generator",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-25T23:20:39Z"
+  },
+  {
+   "repo": "Fj-ivy/claude-mcp-examples",
+   "path": "mysql/mysql-mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-02-23T11:41:02Z"
+  },
+  {
+   "repo": "FlyAIBox/mcp-in-action",
+   "path": "mcp-rag/tablestore-mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-27T03:01:05Z"
+  },
+  {
+   "repo": "ForeverGreenDam/minimum-java-agent-loop",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-23T06:55:44Z"
+  },
+  {
+   "repo": "FrankieLiu04/netagent-benchmark",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-19T08:12:25Z"
+  },
+  {
+   "repo": "GT-ARC/opaca-core",
+   "path": "opaca-platform/pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-11-23T11:06:10Z"
+  },
+  {
+   "repo": "GTyingzi/SpringAI-Alibaba-Quickstart",
+   "path": "Mcp/mcp-client-webflux/pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-21T12:18:48Z"
+  },
+  {
+   "repo": "GabrielBBaldez/Notify-Hub",
+   "path": "notify-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-24T16:43:36Z"
+  },
+  {
+   "repo": "Gentoro-HQ/mcpagent",
+   "path": "src/mcpagent/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-10-09T21:56:10Z"
+  },
+  {
+   "repo": "Gentoro-OneMCP/onemcp",
+   "path": "packages/server/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-11-04T06:19:37Z"
+  },
+  {
+   "repo": "GiskardB/gargantua",
+   "path": "agent-mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2018-01-22T18:15:21Z"
+  },
+  {
+   "repo": "GoogleCloudPlatform/serverless-production-readiness-java-gcp",
+   "path": "blogs/spring-ai-gcp/scheduler/pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-06-16T14:47:22Z"
+  },
+  {
+   "repo": "GopherSecurity/gopher-mcp",
+   "path": "sdk/java/examples/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-08-02T05:34:36Z"
+  },
+  {
+   "repo": "Gravity-SDOHCC/gravity-sdoh-cp-server",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-03-22T13:35:06Z"
+  },
+  {
+   "repo": "Gravity-SDOHCC/gravity-sdoh-ehr-server",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-02-17T02:46:10Z"
+  },
+  {
+   "repo": "Graylog2/graylog2-server",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2010-05-17T21:27:02Z"
+  },
+  {
+   "repo": "HHong214/campus-mcp-assignment",
+   "path": "campus-booking-client/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-03T10:56:58Z"
+  },
+  {
+   "repo": "Har4oo/Java-MCP-STDIO-Server",
+   "path": "dependency-reduced-pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-24T13:51:53Z"
+  },
+  {
+   "repo": "Helger-IT/phoss-peppol-mcp",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-04-13T11:37:53Z"
+  },
+  {
+   "repo": "Hoang-23021560/Demo-MCP-Sever-",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-25T08:02:06Z"
+  },
+  {
+   "repo": "Husain70/on-map-real-estate",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-12-06T22:53:43Z"
+  },
+  {
+   "repo": "Hyperkid123/testing-http-mcp",
+   "path": "java/pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-26T08:24:52Z"
+  },
+  {
+   "repo": "InnoBridge/ModelContextProtocolServer",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-02-25T01:50:19Z"
+  },
+  {
+   "repo": "JackyST0/github-ai-assistant",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-26T07:21:16Z"
+  },
+  {
+   "repo": "Jahia/jahia-mcp-community-server",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-04-06T12:17:13Z"
+  },
+  {
+   "repo": "JanssenProject/jans",
+   "path": "demos/mcp/config-api/mcp-config-api-server/pom.xml",
+   "owner_type": "Organization",
+   "created": "2020-11-03T15:00:37Z"
+  },
+  {
+   "repo": "Jason-Clark-FG/OpenMetadata-FG",
+   "path": "openmetadata-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2023-07-18T19:42:39Z"
+  },
+  {
+   "repo": "Jason-Clark-FG/OpenMetadata-Mirror",
+   "path": "openmetadata-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2023-07-13T23:12:40Z"
+  },
+  {
+   "repo": "JavaAIDev/easy-llm-tools",
+   "path": "integration/mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-02-11T07:20:30Z"
+  },
+  {
+   "repo": "JavaAIDev/easy-mcp-client",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-08T11:36:32Z"
+  },
+  {
+   "repo": "JavaProgrammerLB/mcp_hello_world",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-17T01:48:37Z"
+  },
+  {
+   "repo": "Jaysong2012/js-agent",
+   "path": "js-agent-framework/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-10T02:11:18Z"
+  },
+  {
+   "repo": "Kaliveya/Linker",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-16T02:00:49Z"
+  },
+  {
+   "repo": "Kehrlann/securing-mcp-servers",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-03T13:01:17Z"
+  },
+  {
+   "repo": "Kehrlann/spring-ai-mcp-authorization-demo",
+   "path": "mcp-sse-servlet-http-client/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-17T08:26:56Z"
+  },
+  {
+   "repo": "KevinBarrus/my-ragent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-26T00:35:04Z"
+  },
+  {
+   "repo": "Kilsme/travel_assistant_Kilsme",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-02T09:15:40Z"
+  },
+  {
+   "repo": "Kjeff24/ai-agent-chat-system",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-28T10:57:58Z"
+  },
+  {
+   "repo": "Koopa103/MCP",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-03T16:57:01Z"
+  },
+  {
+   "repo": "LAIJiangFeng/resume-builder",
+   "path": "spring-ai-backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-04T19:48:09Z"
+  },
+  {
+   "repo": "LB21goto/Mango",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-09T07:09:40Z"
+  },
+  {
+   "repo": "LLhamster/reading_assistant",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-02T15:00:05Z"
+  },
+  {
+   "repo": "Lamborghini-lambort/Lamborghini-lambort-Mul-Agent-demo",
+   "path": "mcp-tools/pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-08T06:04:14Z"
+  },
+  {
+   "repo": "Leavesfly/Jimi",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-04T08:38:05Z"
+  },
+  {
+   "repo": "Leewwp/health_agent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-09T06:41:01Z"
+  },
+  {
+   "repo": "LianjiaTech/bella-assistants",
+   "path": "api/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-16T04:10:42Z"
+  },
+  {
+   "repo": "LiaoEnYi/LLM-SUSE-agent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-26T08:59:40Z"
+  },
+  {
+   "repo": "Lin-sist/RAG",
+   "path": "rag-admin/pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-26T15:48:11Z"
+  },
+  {
+   "repo": "LingLingcj/relics-preservation",
+   "path": "relics-preservation-types/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-26T14:04:19Z"
+  },
+  {
+   "repo": "LiteVar/LiteAgent",
+   "path": "lite_agent_backend/lite-agent-support/lite-agent-core/pom.xml",
+   "owner_type": "User",
+   "created": "2024-11-28T07:56:06Z"
+  },
+  {
+   "repo": "LordierClaw/cre",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-26T00:17:06Z"
+  },
+  {
+   "repo": "Lori888/mcp-java-sdk-examples",
+   "path": "mcp-server-jdk8-example/pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-10T02:02:54Z"
+  },
+  {
+   "repo": "LyubimoVV/deepseek-cli",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-16T20:25:38Z"
+  },
+  {
+   "repo": "Macaldente/edifact-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-01T18:03:00Z"
+  },
+  {
+   "repo": "ManawatuCoder/AIConvenienceAPI",
+   "path": "JavaConnector/pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-22T06:57:28Z"
+  },
+  {
+   "repo": "MartinDai/linux-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-12T04:05:29Z"
+  },
+  {
+   "repo": "Metrakit/hytale-MCP-plugin",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-01T22:14:26Z"
+  },
+  {
+   "repo": "MimicHunterZ/PocketMind",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-29T15:40:10Z"
+  },
+  {
+   "repo": "MistryDev09/SQL-query-extractor",
+   "path": "nl-sql-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-13T18:25:22Z"
+  },
+  {
+   "repo": "ModelEngine-Group/fit-framework",
+   "path": "framework/fel/java/plugins/tool-mcp-client/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-02-22T08:20:15Z"
+  },
+  {
+   "repo": "Morain-Miao/example",
+   "path": "spring-ai-alibaba-mcp-example/spring-ai-alibaba-mcp-starter-example/client/mcp-webflux-client-example/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-18T13:22:34Z"
+  },
+  {
+   "repo": "MuhammadAhmadUworx/spring-projects-cummulative",
+   "path": "spring-ai/mcp/common/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-11T12:33:59Z"
+  },
+  {
+   "repo": "NaGe325/agentscope_java_demo",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-09T00:50:19Z"
+  },
+  {
+   "repo": "Nasdanika/ai",
+   "path": "mcp/pom.xml.versionsBackup",
+   "owner_type": "Organization",
+   "created": "2025-03-04T13:21:51Z"
+  },
+  {
+   "repo": "NoumenaDigital/npl-cli",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-12-20T11:30:16Z"
+  },
+  {
+   "repo": "OpenElementsLabs/open-crm",
+   "path": "backend/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-03-27T07:46:42Z"
+  },
+  {
+   "repo": "OpenElementsLabs/spring-services",
+   "path": "spring-services-core/pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-09-22T17:18:46Z"
+  },
+  {
+   "repo": "OpenLiberty/sample-langchain4j",
+   "path": "mcp/server/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-06-25T14:48:05Z"
+  },
+  {
+   "repo": "Phischi/Generic-Debate-Bros",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-07T17:31:34Z"
+  },
+  {
+   "repo": "PhonePe/sentinel-ai",
+   "path": "sentinel-ai-toolbox-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-03-09T17:46:24Z"
+  },
+  {
+   "repo": "PradeepLoganathan/spov-mcp-logs-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-14T05:01:40Z"
+  },
+  {
+   "repo": "Prasannagirish/RAG",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-24T09:51:46Z"
+  },
+  {
+   "repo": "Project-Env/project-env-cli",
+   "path": "code/cli/pom.xml",
+   "owner_type": "Organization",
+   "created": "2020-12-20T07:25:35Z"
+  },
+  {
+   "repo": "Puleesha/Java-MCP-Server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-05T11:54:52Z"
+  },
+  {
+   "repo": "QRun-IO/qbit-middleware-mcp",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-03-03T17:30:49Z"
+  },
+  {
+   "repo": "Raajkr07/blinxAI",
+   "path": "chat-service/pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-12T23:19:21Z"
+  },
+  {
+   "repo": "RayenMalouche/AI-Agents-Performance-Testing-MCP-Client",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-25T10:24:41Z"
+  },
+  {
+   "repo": "RayenMalouche/AI-Agents-Performance-Testing-MCP-Server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-25T10:09:45Z"
+  },
+  {
+   "repo": "RayenMalouche/Folder-Structure-MCP-Server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-13T19:22:30Z"
+  },
+  {
+   "repo": "RayenMalouche/Java-MCP-Server-For-SMTP-Mailing",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-25T09:04:23Z"
+  },
+  {
+   "repo": "RayenMalouche/MCP-Client-Dataset-Creating-Assisstant",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-25T09:46:50Z"
+  },
+  {
+   "repo": "RayenMalouche/MCP-Fetch-Server-Java-version",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-03T15:52:54Z"
+  },
+  {
+   "repo": "RayenMalouche/MCP-PDF-Extractor-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-29T12:59:31Z"
+  },
+  {
+   "repo": "RayenMalouche/MCP-PDF-Extractor-server-v2",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-29T14:10:01Z"
+  },
+  {
+   "repo": "RayenMalouche/Performance-Test-MCP-Server-java-",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-24T18:09:18Z"
+  },
+  {
+   "repo": "RobinHelsen/Vaultspeed-CI-CD-UI",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-20T14:51:49Z"
+  },
+  {
+   "repo": "RolleRocker/mcp-demo-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-18T16:02:34Z"
+  },
+  {
+   "repo": "RunkyZhang/rz-java",
+   "path": "demo/spring-ai-mcp-demo/web-client/pom.xml",
+   "owner_type": "User",
+   "created": "2020-06-13T00:39:26Z"
+  },
+  {
+   "repo": "S3S3L/agentmemory-java",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-05-19T09:47:45Z"
+  },
+  {
+   "repo": "SAP/ai-sdk-java",
+   "path": "sample-code/spring-app/pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-07-16T13:42:44Z"
+  },
+  {
+   "repo": "SEMOSS/Semoss",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2013-05-30T16:00:17Z"
+  },
+  {
+   "repo": "SamuraiMDR/ollamadrama",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-08-09T16:50:45Z"
+  },
+  {
+   "repo": "Saurabh3516/codeforces-ai-assistant",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-14T13:18:54Z"
+  },
+  {
+   "repo": "Semilore317/MCP-Server-with-Java",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-12T21:51:44Z"
+  },
+  {
+   "repo": "SerpstatGlobal/serpstat-mcp-server-java",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-06-12T19:59:53Z"
+  },
+  {
+   "repo": "Smurflurf/idea-originality",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-18T15:51:05Z"
+  },
+  {
+   "repo": "Sprinkle-zzz/Sprinkle-Loom",
+   "path": "sprinkle-loom-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-20T13:48:33Z"
+  },
+  {
+   "repo": "SteveCGC/OryxOS",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-24T02:46:48Z"
+  },
+  {
+   "repo": "StigLau/ffmpeg-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-15T07:46:28Z"
+  },
+  {
+   "repo": "SunJiFengPlus/aiops-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-16T03:04:56Z"
+  },
+  {
+   "repo": "Surfer12/java-sdk-main-mcp-protocol",
+   "path": "mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-03T19:20:52Z"
+  },
+  {
+   "repo": "Swing-G/LuminaGraph",
+   "path": "bootstrap/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-15T13:47:10Z"
+  },
+  {
+   "repo": "Taler97/ccAgent-pc",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-31T01:30:53Z"
+  },
+  {
+   "repo": "TheEterna/api2mcp4j",
+   "path": "server2mcp-core/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-15T02:32:31Z"
+  },
+  {
+   "repo": "ThePlenkov/eclipse-agents",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-12-12T09:03:30Z"
+  },
+  {
+   "repo": "TheWitcherish/sample-agents-and-dragons-java",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-12T14:35:14Z"
+  },
+  {
+   "repo": "Thesis-MCP-Project/MCP",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-06-14T22:33:38Z"
+  },
+  {
+   "repo": "Tiegue/MCPDemo",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-27T09:44:07Z"
+  },
+  {
+   "repo": "URSoftware/IgnisEngine",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-12-24T02:07:39Z"
+  },
+  {
+   "repo": "UnDer-7/sanjy-client-web",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-18T20:11:39Z"
+  },
+  {
+   "repo": "UnDer-7/sanjy-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-09T04:47:47Z"
+  },
+  {
+   "repo": "UsmanovMahmudkhan/javuk-code",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-12T13:21:59Z"
+  },
+  {
+   "repo": "V1endr3/JavaProjects",
+   "path": "SpringAI/pom.xml",
+   "owner_type": "User",
+   "created": "2024-11-11T03:16:50Z"
+  },
+  {
+   "repo": "VlSePr/OnPremJiraMcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-07T09:20:49Z"
+  },
+  {
+   "repo": "WoodsCumming/claude-code-java",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-02T09:29:49Z"
+  },
+  {
+   "repo": "YYH2913/PortMate",
+   "path": "scripts/mcp-kotlin-client-check/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-27T03:40:29Z"
+  },
+  {
+   "repo": "Yanick-Salzmann/open-bgr-search",
+   "path": "es-mcp-client/pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-12T12:06:16Z"
+  },
+  {
+   "repo": "Yishuen0223/AP-Project",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-08T09:21:59Z"
+  },
+  {
+   "repo": "Yu-hk/SmartAssistant",
+   "path": "smart-assistant-tool-registry/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-24T08:27:01Z"
+  },
+  {
+   "repo": "Yufeng0918/webfluex-sse-scalable",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-25T01:36:11Z"
+  },
+  {
+   "repo": "ZachGerman/first-mcp-java-sdk-shttp-transport",
+   "path": "mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-26T07:35:04Z"
+  },
+  {
+   "repo": "ZhanhongLiang/ArugsRagent",
+   "path": "bootstrap/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-02T14:34:53Z"
+  },
+  {
+   "repo": "Zhu1Li/li-code",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-08T07:52:37Z"
+  },
+  {
+   "repo": "a-rookie-of-C-language/JavaEEDesgin",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-28T02:51:23Z"
+  },
+  {
+   "repo": "aLeenomay/ragent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-08T11:55:05Z"
+  },
+  {
+   "repo": "aaryanXcode/mcp-server-java-sdk",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-21T07:54:18Z"
+  },
+  {
+   "repo": "accentureshark/mentor",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-07-20T21:16:25Z"
+  },
+  {
+   "repo": "adamw7/tools",
+   "path": "code/context/pom.xml",
+   "owner_type": "User",
+   "created": "2022-12-20T15:39:57Z"
+  },
+  {
+   "repo": "adobe/cq-quickstart-mcp-server",
+   "path": "bundles/mcp-server-contribs/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-04-06T16:36:51Z"
+  },
+  {
+   "repo": "adrianco/retort",
+   "path": "experiments/adrianco/experiment-14/runs/language=java_model=sonnet_prompt=TDD/rep1/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-10T17:19:05Z"
+  },
+  {
+   "repo": "adrianferrandis/javarepo-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-07T15:21:11Z"
+  },
+  {
+   "repo": "agentrun-ai/agentrun-browser-assistant-with-agentscope",
+   "path": "src/code/agentrun_browser_demo_backend/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-01-22T03:29:19Z"
+  },
+  {
+   "repo": "agents-flex/agents-flex",
+   "path": "agents-flex-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-01-12T08:23:40Z"
+  },
+  {
+   "repo": "agentscope-ai/agentscope-java",
+   "path": "agentscope-core/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-09-23T04:37:43Z"
+  },
+  {
+   "repo": "agonzalorena/mcp-clima",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-20T23:11:49Z"
+  },
+  {
+   "repo": "ahmedmuhsin/functions-mcp-java",
+   "path": "spring-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-06T22:02:50Z"
+  },
+  {
+   "repo": "ai-cqut/advisor-ai-platform",
+   "path": "backend/student-service/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-04-10T15:11:27Z"
+  },
+  {
+   "repo": "ai-mcpx/mcpx.jenkins",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-10-31T00:44:31Z"
+  },
+  {
+   "repo": "air237/java-patterns-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-22T07:35:26Z"
+  },
+  {
+   "repo": "airlift/airlift",
+   "path": "mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2012-06-16T00:33:13Z"
+  },
+  {
+   "repo": "ajshedivy/ibmi-mcp-server-lite",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-17T18:03:03Z"
+  },
+  {
+   "repo": "akumosstl/ai-suite",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-07T12:42:34Z"
+  },
+  {
+   "repo": "albonidrizi/event-management",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-19T11:39:22Z"
+  },
+  {
+   "repo": "alibaba/arthas",
+   "path": "arthas-mcp-integration-test/pom.xml",
+   "owner_type": "Organization",
+   "created": "2018-08-29T17:15:57Z"
+  },
+  {
+   "repo": "alibaba/nacos",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2018-06-15T06:49:27Z"
+  },
+  {
+   "repo": "alibaba/open-agent-auth",
+   "path": "open-agent-auth-mcp-adapter/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-02-14T02:46:55Z"
+  },
+  {
+   "repo": "alibaba/spring-ai-alibaba",
+   "path": "spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-09-09T01:35:50Z"
+  },
+  {
+   "repo": "aliyun/alibabacloud-tablestore-mcp-server",
+   "path": "tablestore-java-mcp-server-rag/tablestore-mcp-server/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-03-19T03:10:51Z"
+  },
+  {
+   "repo": "anastasiia-peleshok/new-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-05T18:19:47Z"
+  },
+  {
+   "repo": "andreasmartin/lagacy-spring-boot-mcp-demo",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-20T19:16:03Z"
+  },
+  {
+   "repo": "ankitranjan5/governed-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-05T17:38:38Z"
+  },
+  {
+   "repo": "apache/camel",
+   "path": "components/camel-ai/camel-openai/pom.xml",
+   "owner_type": "Organization",
+   "created": "2009-05-21T00:25:36Z"
+  },
+  {
+   "repo": "apache/cayenne",
+   "path": "cayenne-mcp-server/pom.xml",
+   "owner_type": "Organization",
+   "created": "2009-05-21T01:05:37Z"
+  },
+  {
+   "repo": "apache/dubbo",
+   "path": "dubbo-plugin/dubbo-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2012-06-19T07:56:02Z"
+  },
+  {
+   "repo": "apache/flink-agents",
+   "path": "integrations/mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-06-08T11:45:47Z"
+  },
+  {
+   "repo": "apache/pulsar-java-contrib",
+   "path": "pulsar-admin-mcp-contrib/pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-08-20T12:26:05Z"
+  },
+  {
+   "repo": "apache/shardingsphere",
+   "path": "mcp/bootstrap/pom.xml",
+   "owner_type": "Organization",
+   "created": "2016-01-18T12:49:26Z"
+  },
+  {
+   "repo": "apache/shenyu",
+   "path": "shenyu-plugin/shenyu-plugin-mcp-server/pom.xml",
+   "owner_type": "Organization",
+   "created": "2018-07-11T08:17:45Z"
+  },
+  {
+   "repo": "apache/sling-org-apache-sling-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-01-15T14:30:45Z"
+  },
+  {
+   "repo": "apache/sling-org-apache-sling-mcp-server-contributions",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-05-04T09:31:25Z"
+  },
+  {
+   "repo": "appleaa00/teamproject-edu",
+   "path": "SourceCode/backend/ruoyi-modules-api/ruoyi-chat-api/pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-13T16:50:57Z"
+  },
+  {
+   "repo": "arvindand/maven-tools-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-06T22:34:05Z"
+  },
+  {
+   "repo": "asaikali/remote-mcp-protocol",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-07T03:56:25Z"
+  },
+  {
+   "repo": "ashish-gehani/SPADE",
+   "path": "pkg/java/pom.xml",
+   "owner_type": "User",
+   "created": "2015-06-04T23:36:31Z"
+  },
+  {
+   "repo": "ashishsaranshakya/random-researcher",
+   "path": "content-mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-12T18:58:41Z"
+  },
+  {
+   "repo": "askeita/atomic-context",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-06T21:37:39Z"
+  },
+  {
+   "repo": "avishek-sen-gupta/tape-z",
+   "path": "java/tapez-mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-06T12:44:24Z"
+  },
+  {
+   "repo": "aws-samples/java-on-aws",
+   "path": "samples/security/oauth/authorization-server/META-INF/maven/org.springframework.ai/spring-ai-autoconfigure-mcp-client/pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-08-04T07:27:49Z"
+  },
+  {
+   "repo": "aws-samples/sample-agentic-ai-demos",
+   "path": "modules/java-mcp-bedrock-agent/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-04-01T05:33:22Z"
+  },
+  {
+   "repo": "aws-samples/sample-once-upon-spring-ai",
+   "path": "chapter5-maven/gamemaster/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-03-04T13:34:30Z"
+  },
+  {
+   "repo": "axonivy/vscode-designer",
+   "path": "aitest/ai-tests/pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-05-02T14:06:34Z"
+  },
+  {
+   "repo": "axymthr/notebook",
+   "path": "spring/purejava-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2020-05-31T18:03:57Z"
+  },
+  {
+   "repo": "bakingpotatoes/AP_GROUP_ASSIGNMENT",
+   "path": "campus-mcp-assignment/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-02T04:52:02Z"
+  },
+  {
+   "repo": "bakingpotatoes/campus-mcp-assignment",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-14T10:36:05Z"
+  },
+  {
+   "repo": "balabalaOVO/LoveApp",
+   "path": "yu-image-search-mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-07T06:31:34Z"
+  },
+  {
+   "repo": "bambooww/iot-tree",
+   "path": "ext-basic/pom.xml",
+   "owner_type": "User",
+   "created": "2021-05-11T01:40:19Z"
+  },
+  {
+   "repo": "bbonnin/mcpd-sdk-java",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-16T13:52:15Z"
+  },
+  {
+   "repo": "beyonai/ByClaw",
+   "path": "byclaw-be/pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-17T06:18:43Z"
+  },
+  {
+   "repo": "bhxch/jlens",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-26T20:13:29Z"
+  },
+  {
+   "repo": "bitovi/temporal-ai-agents-workshop",
+   "path": "4-mcp/java/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-06-02T20:02:56Z"
+  },
+  {
+   "repo": "bjorndecraemer/bjornsfilemcpserver",
+   "path": "dependency-reduced-pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-21T13:08:36Z"
+  },
+  {
+   "repo": "bonigarcia/context-engineering",
+   "path": "ch02/java/pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-16T19:48:04Z"
+  },
+  {
+   "repo": "bugsmith452/maven-deps-inspector-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-05T18:39:48Z"
+  },
+  {
+   "repo": "bytesbyankit/Stock-Management-MCP-Server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-12T11:21:41Z"
+  },
+  {
+   "repo": "callibrity/mocapi",
+   "path": "mocapi-apps/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-07-09T14:52:22Z"
+  },
+  {
+   "repo": "camelbee/camelbee",
+   "path": "dependencies/quarkus/pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-11-06T16:15:38Z"
+  },
+  {
+   "repo": "camelbee/camelbee-examples",
+   "path": "mcp-servers/product-catalog-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-10-29T07:26:57Z"
+  },
+  {
+   "repo": "camunda/camunda",
+   "path": "gateways/gateway-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2016-03-20T03:38:04Z"
+  },
+  {
+   "repo": "camunda/connectors",
+   "path": "connectors/agentic-ai/connector-agentic-ai/pom.xml",
+   "owner_type": "Organization",
+   "created": "2022-09-30T11:56:23Z"
+  },
+  {
+   "repo": "casehubio/engine",
+   "path": "mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-02-11T21:36:17Z"
+  },
+  {
+   "repo": "categolj/entry-api",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-09-19T15:14:22Z"
+  },
+  {
+   "repo": "categolj/entry-api-gemfire",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-12-31T04:36:42Z"
+  },
+  {
+   "repo": "catools2/CATools",
+   "path": "mcp.core/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-08-22T19:00:10Z"
+  },
+  {
+   "repo": "cccjhhhh/codemind",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-01T03:23:51Z"
+  },
+  {
+   "repo": "cerberustesting/cerberus-core",
+   "path": "source/pom.xml",
+   "owner_type": "Organization",
+   "created": "2013-08-29T20:46:33Z"
+  },
+  {
+   "repo": "cf-toolsuite/tanzu-genai-showcase",
+   "path": "java-spring-ai-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-04-03T13:01:16Z"
+  },
+  {
+   "repo": "changAnn3/changan-ai-agent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-25T07:29:46Z"
+  },
+  {
+   "repo": "chaosxingxc-orion/spring-ai-ascend",
+   "path": "spring-ai-ascend-dependencies/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-07T00:00:38Z"
+  },
+  {
+   "repo": "chenggangpro/reactive-ai-agent-playground",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-30T03:08:13Z"
+  },
+  {
+   "repo": "chenggangpro/reactive-ai-lite",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-21T13:40:27Z"
+  },
+  {
+   "repo": "chickenlj/as-demo",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-26T03:25:36Z"
+  },
+  {
+   "repo": "ciechanowiec/sling_rocket",
+   "path": "src/2_rocket-instance/maven-project/feature/pom.xml",
+   "owner_type": "User",
+   "created": "2024-06-26T22:53:22Z"
+  },
+  {
+   "repo": "cj-murillo/smartinventory",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-15T01:37:30Z"
+  },
+  {
+   "repo": "cklinker/emf",
+   "path": "kelta-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-04T02:50:16Z"
+  },
+  {
+   "repo": "clarenced/junit-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-03T22:59:06Z"
+  },
+  {
+   "repo": "clseven/webagent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-09T18:10:01Z"
+  },
+  {
+   "repo": "cmming/cm-agent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-19T15:45:29Z"
+  },
+  {
+   "repo": "cmoellmann/satsim",
+   "path": "mcp-gateway/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-12T11:47:28Z"
+  },
+  {
+   "repo": "codacy-open-source-projects-scans/camel",
+   "path": "components/camel-ai/camel-openai/pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-05-16T13:27:33Z"
+  },
+  {
+   "repo": "codesakshi/openapi-mcp-hub",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-27T06:05:05Z"
+  },
+  {
+   "repo": "complexsimplcitymedia/Wolf-Logic-Congnitive-Memory-Layer",
+   "path": "SERVER-wolf-mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-24T09:34:18Z"
+  },
+  {
+   "repo": "confluentinc/agent_proxy",
+   "path": "shell/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-04-18T20:17:52Z"
+  },
+  {
+   "repo": "cookiespiggy/biz-agent-01",
+   "path": "spring-ai-alibaba-1.1.2.2/spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-10T01:28:23Z"
+  },
+  {
+   "repo": "creattt840/Hify",
+   "path": "hify-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-17T07:38:33Z"
+  },
+  {
+   "repo": "cromoteca/bfts",
+   "path": "mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2018-12-16T13:40:07Z"
+  },
+  {
+   "repo": "curtcox/Monorepo-Crufty-Parts",
+   "path": "java-sdk/mcp-spring/mcp-spring-webflux/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-29T14:43:01Z"
+  },
+  {
+   "repo": "cyl-castillo/mas-mvp",
+   "path": "agent-analyst/pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-29T22:21:56Z"
+  },
+  {
+   "repo": "daizaiaibailan/safesight",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-16T06:19:47Z"
+  },
+  {
+   "repo": "danvega/javaone-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-15T10:41:20Z"
+  },
+  {
+   "repo": "databufflabs/databuff",
+   "path": "ai-apm-web/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-18T02:06:27Z"
+  },
+  {
+   "repo": "datacline/secure-mcp-gateway",
+   "path": "server-java/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-10-17T11:10:32Z"
+  },
+  {
+   "repo": "datavane/tis",
+   "path": "tis-console/pom.xml",
+   "owner_type": "Organization",
+   "created": "2019-01-23T13:44:33Z"
+  },
+  {
+   "repo": "davidparry/tdd-bdd-agentic",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-07T18:08:59Z"
+  },
+  {
+   "repo": "daydayup-zyn/DataExploration-MCP",
+   "path": "mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-18T03:28:30Z"
+  },
+  {
+   "repo": "daydayup-zyn/Playwright-MCP",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-11T10:30:14Z"
+  },
+  {
+   "repo": "dbbaskette/herald",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-09T17:26:00Z"
+  },
+  {
+   "repo": "ddobrin/ai-patterns-ui",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-01-16T20:30:54Z"
+  },
+  {
+   "repo": "ddobrin/spring-ai-gcp",
+   "path": "scheduler/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-08T16:28:14Z"
+  },
+  {
+   "repo": "ddobrin/spring-ai-local-exp",
+   "path": "auto-configurations/mcp/spring-ai-autoconfigure-mcp-client-common/pom.xml",
+   "owner_type": "User",
+   "created": "2024-11-04T15:34:07Z"
+  },
+  {
+   "repo": "deemkeen/mbotmcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-31T12:25:54Z"
+  },
+  {
+   "repo": "deepdistillation/java-sdk",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-07-23T12:27:36Z"
+  },
+  {
+   "repo": "denniskawurek/java-mcp-playground",
+   "path": "server-from-sdk/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-22T17:36:51Z"
+  },
+  {
+   "repo": "descope/ai",
+   "path": "examples/java-spring-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-04-11T18:43:17Z"
+  },
+  {
+   "repo": "devnomad-byte/EvolveHub",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-08T05:25:58Z"
+  },
+  {
+   "repo": "devops-thiago/mcp-easy4j",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-14T15:10:59Z"
+  },
+  {
+   "repo": "devscale-ds-tn/spring-ai-alibaba",
+   "path": "spring-ai-alibaba-admin/spring-ai-alibaba-admin-server-core/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-07-17T04:48:37Z"
+  },
+  {
+   "repo": "dhyansraj/mcp-mesh",
+   "path": "src/runtime/java/mcp-mesh-spring-boot-starter/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-02T13:06:49Z"
+  },
+  {
+   "repo": "diffusiondata/diffusion-mcp-server",
+   "path": "dependency-reduced-pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-10-08T09:13:46Z"
+  },
+  {
+   "repo": "dinhminhtien/leadora",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-27T07:51:56Z"
+  },
+  {
+   "repo": "dkstivnu/mcp-tarot",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-08T05:57:59Z"
+  },
+  {
+   "repo": "doindev/code-graph",
+   "path": "code-graph-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-02T10:00:31Z"
+  },
+  {
+   "repo": "dokimos-dev/dokimos",
+   "path": "dokimos-mcp-server/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-12-13T21:20:12Z"
+  },
+  {
+   "repo": "drafael/chat4j",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-26T22:51:16Z"
+  },
+  {
+   "repo": "dsp/mcp-server-steam",
+   "path": "pom.xml.versionsBackup",
+   "owner_type": "User",
+   "created": "2025-02-16T00:09:01Z"
+  },
+  {
+   "repo": "dstibbe/todo-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-15T08:12:07Z"
+  },
+  {
+   "repo": "durgaprbehera/test_durga",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2022-04-01T03:44:10Z"
+  },
+  {
+   "repo": "duyngo91/mcp-selenium-tools",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-09T13:28:01Z"
+  },
+  {
+   "repo": "dztyykxx/LoreDock",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-29T12:53:52Z"
+  },
+  {
+   "repo": "e4c5/antikythera-examples",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-31T09:04:38Z"
+  },
+  {
+   "repo": "ebasanez/anthropic-courses",
+   "path": "chat/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-12T16:30:00Z"
+  },
+  {
+   "repo": "edoigtrd/SymjaMCP",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-30T22:25:26Z"
+  },
+  {
+   "repo": "edurbs/sybase-sqlanywhere-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-09T17:18:18Z"
+  },
+  {
+   "repo": "emaayan/MCPClientScratch",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-08T06:25:55Z"
+  },
+  {
+   "repo": "embabel/embabel-agent-experimental",
+   "path": "embabel-agent-claude-code/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-01-27T19:48:03Z"
+  },
+  {
+   "repo": "embabel/embabel-build",
+   "path": "embabel-build-dependencies/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-03-30T02:48:38Z"
+  },
+  {
+   "repo": "emilianbold/claude-code-netbeans",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-03T10:22:11Z"
+  },
+  {
+   "repo": "enrichmeai/cistern",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-07-17T20:46:33Z"
+  },
+  {
+   "repo": "erauner12/kagent-detached",
+   "path": "go/core/cli/internal/mcp/frameworks/java/templates/pom.xml.tmpl",
+   "owner_type": "User",
+   "created": "2026-05-17T22:05:37Z"
+  },
+  {
+   "repo": "esa/nanosat-mo-framework",
+   "path": "sdk/mcp-adapter/pom.xml",
+   "owner_type": "Organization",
+   "created": "2018-03-26T20:42:42Z"
+  },
+  {
+   "repo": "ethanling123/TransForm",
+   "path": "java-sdk/mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-12T21:39:56Z"
+  },
+  {
+   "repo": "eugenp/tutorials",
+   "path": "java-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2013-04-29T18:26:36Z"
+  },
+  {
+   "repo": "eventhorizonsky/AniLinkService",
+   "path": "api/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-14T13:59:35Z"
+  },
+  {
+   "repo": "evil-tim/SLDownloader",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2017-02-25T12:53:14Z"
+  },
+  {
+   "repo": "evizitei/llm-playground",
+   "path": "java/pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-24T12:19:50Z"
+  },
+  {
+   "repo": "fansanelli/JosmMCP",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-03T15:04:36Z"
+  },
+  {
+   "repo": "fanzhongwei/mcp-gateway",
+   "path": "mcp-gateway-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-08T08:22:05Z"
+  },
+  {
+   "repo": "feuyeux/hello-mcp",
+   "path": "hello-mcp-java/mcp-client/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-07T06:11:43Z"
+  },
+  {
+   "repo": "ffffyhffff/loveAgent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-02T13:00:39Z"
+  },
+  {
+   "repo": "fiji/fiji-llm",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-08-27T14:18:56Z"
+  },
+  {
+   "repo": "firerainky/spring-ai-demo",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-21T18:38:58Z"
+  },
+  {
+   "repo": "fluxzero-io/fluxzero-dev-server",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-07-19T08:23:21Z"
+  },
+  {
+   "repo": "foggy-projects/foggy-data-mcp-bridge",
+   "path": "foggy-dataset-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2025-12-17T04:11:33Z"
+  },
+  {
+   "repo": "fujitsu/app_blog",
+   "path": "agent-mcp-ocx2026/bank/pom.xml",
+   "owner_type": "Organization",
+   "created": "2019-07-25T00:18:40Z"
+  },
+  {
+   "repo": "fulL549/CourseNotes",
+   "path": "SoftwareEngineering/\u4f5c\u4e1a/\u6797\u5b8f\u5b87-23320093-\u5927\u4f5c\u4e1a/\uff081\uff09\u9879\u76ee\u6e90\u4ee3\u7801\u548c\u76f8\u5173\u6587\u6863/aiedumate/aiedumate-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-16T06:53:37Z"
+  },
+  {
+   "repo": "gazolla/JCli",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-25T14:35:17Z"
+  },
+  {
+   "repo": "gazolla/JavaCLI",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-08T00:18:14Z"
+  },
+  {
+   "repo": "gazolla/JavaChatAI",
+   "path": "target/classes/META-INF/maven/com.gazapps/JavaChatAI/pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-19T22:34:45Z"
+  },
+  {
+   "repo": "gazolla/JavaMCPClient",
+   "path": "ChatMCPGroq4J/pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-24T20:19:24Z"
+  },
+  {
+   "repo": "geboai/Gebo.ai",
+   "path": "gebo.architecture.parent/gebo.architecture.mcp-clients/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-23T14:22:35Z"
+  },
+  {
+   "repo": "geelato-projects/geelato-community-backend",
+   "path": "geelato-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-07-10T05:33:58Z"
+  },
+  {
+   "repo": "genkit-ai/genkit-java",
+   "path": "plugins/mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-12-22T16:01:31Z"
+  },
+  {
+   "repo": "ggbond-2025/interview-agent",
+   "path": "app/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-28T08:31:58Z"
+  },
+  {
+   "repo": "glaforge/ai-agent-protocols",
+   "path": "adk/pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-01T08:16:36Z"
+  },
+  {
+   "repo": "gnl00/one-novelist",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-30T08:38:36Z"
+  },
+  {
+   "repo": "gnl00/one-spring-ai",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-14T07:02:16Z"
+  },
+  {
+   "repo": "goldmansachsinnovationcenter/ai-project-assistant",
+   "path": "spring-ai-project/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-03-25T12:57:29Z"
+  },
+  {
+   "repo": "google/adk-java",
+   "path": "core/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-05T17:16:25Z"
+  },
+  {
+   "repo": "gpad1234/spring-ai-prompt-s1",
+   "path": ".version-backups/20251125_091005/model-context-protocol/weather/manual-webflux-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-24T17:23:04Z"
+  },
+  {
+   "repo": "grayward-hq/grayward-api",
+   "path": "worker-java/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-08-15T07:57:31Z"
+  },
+  {
+   "repo": "gtonic/fastmail-caldav-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-01T08:29:08Z"
+  },
+  {
+   "repo": "gumorty/mcp-server-github-app",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-10T02:16:31Z"
+  },
+  {
+   "repo": "halimchaibi/cheshire-prototype",
+   "path": "cheshire-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-07T09:00:43Z"
+  },
+  {
+   "repo": "handsomestWei/mybatis-mapper2sql-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-25T09:32:07Z"
+  },
+  {
+   "repo": "hanzhongxing/agent",
+   "path": "agent-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-30T11:46:02Z"
+  },
+  {
+   "repo": "haotangyuan/shortlink",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-17T12:01:36Z"
+  },
+  {
+   "repo": "haoxpdp/db-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-23T14:34:51Z"
+  },
+  {
+   "repo": "harshithrao07/voyager",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-28T09:52:59Z"
+  },
+  {
+   "repo": "hassan-ghanem/c7-wanaku-mcp-example",
+   "path": "cib-seven-wanaku-worker/pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-05T10:34:05Z"
+  },
+  {
+   "repo": "heerdev/self-healing-app",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-11T19:08:14Z"
+  },
+  {
+   "repo": "helidon-io/helidon-mcp",
+   "path": "tests/2025-11-25/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-08-06T14:40:03Z"
+  },
+  {
+   "repo": "helloworldhelloworld/runner",
+   "path": "agent-web/pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-03T16:03:59Z"
+  },
+  {
+   "repo": "hetzge/eclipse-ai-coder",
+   "path": "maven-dependencies/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-11T20:18:35Z"
+  },
+  {
+   "repo": "hhhey-lw/Coding-AI",
+   "path": "coding-ai-backend/pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-08T15:48:27Z"
+  },
+  {
+   "repo": "huangdihd/MovementMCP",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-17T11:08:42Z"
+  },
+  {
+   "repo": "hubgitub/My-simple-mcp-client-and-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-18T22:37:14Z"
+  },
+  {
+   "repo": "iantjones/equinix-java-sdk",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2021-08-21T16:16:53Z"
+  },
+  {
+   "repo": "idem-finance/idem-examples",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-07-08T19:14:46Z"
+  },
+  {
+   "repo": "igolovan81/techmix",
+   "path": "ai/mcp-repo-explorer/mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2019-07-17T21:02:41Z"
+  },
+  {
+   "repo": "ihongs/HongsMagpie",
+   "path": "hongs-serv-magpie/pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-01T09:19:32Z"
+  },
+  {
+   "repo": "infobip/infobip-shift-2025-aws-agents-workshop",
+   "path": "mcp/whatsapp-mcp-client/META-INF/maven/org.springframework.ai/spring-ai-autoconfigure-mcp-client/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-09-13T18:22:11Z"
+  },
+  {
+   "repo": "intrigsoft/prathya",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-03-06T06:17:17Z"
+  },
+  {
+   "repo": "ishii-yo/drsum-java-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-15T01:57:10Z"
+  },
+  {
+   "repo": "iunera/druid-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-06-27T15:02:26Z"
+  },
+  {
+   "repo": "ivanmolanski/adk-java",
+   "path": "contrib/langchain4j/pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-09T17:47:51Z"
+  },
+  {
+   "repo": "jaguarliuu/jaguarclaw",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-08T01:57:12Z"
+  },
+  {
+   "repo": "janak-dev2002/java-system-info-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-25T06:00:09Z"
+  },
+  {
+   "repo": "javahongxi/jaws",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2020-05-22T02:15:04Z"
+  },
+  {
+   "repo": "javaside/springai-agentdemo",
+   "path": "springai-code-tui/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-23T09:28:17Z"
+  },
+  {
+   "repo": "jbiao520/coderhino",
+   "path": "coderhino-services/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-15T15:19:05Z"
+  },
+  {
+   "repo": "jd-opensource/JDOxyGent4J",
+   "path": "oxygent-core/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-12-22T05:07:57Z"
+  },
+  {
+   "repo": "jdbcx/jdbcx",
+   "path": "third-party-libs/io.modelcontextprotocol/pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-06-29T00:08:43Z"
+  },
+  {
+   "repo": "jefrrygiggy/my-knowledge-project",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-13T11:08:02Z"
+  },
+  {
+   "repo": "jegun19/java-dependency-analyzer",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-05T14:37:46Z"
+  },
+  {
+   "repo": "jenkinsci/mcp-server-plugin",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-27T11:26:43Z"
+  },
+  {
+   "repo": "jesuino/java-ml-projects",
+   "path": "mcp-client-test/pom.xml",
+   "owner_type": "User",
+   "created": "2017-04-15T03:03:24Z"
+  },
+  {
+   "repo": "jialiawu/langchain4j-springboot-example",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-18T13:55:21Z"
+  },
+  {
+   "repo": "jingyier/nailong",
+   "path": "nailong-service/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-13T07:53:56Z"
+  },
+  {
+   "repo": "johnidm/youtube-videos-code-examples",
+   "path": "mcp-labs/java/pom.xml",
+   "owner_type": "User",
+   "created": "2025-01-10T16:56:09Z"
+  },
+  {
+   "repo": "jonbertelsen/mcp-demo",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-21T22:36:52Z"
+  },
+  {
+   "repo": "jones-chris/eel",
+   "path": "engine/engine-core/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-18T10:08:49Z"
+  },
+  {
+   "repo": "jooby-project/jooby",
+   "path": "modules/jooby-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2014-10-20T02:03:16Z"
+  },
+  {
+   "repo": "joordonezo/SimpleBalanceMCPClient",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-18T18:03:46Z"
+  },
+  {
+   "repo": "joshlong-attic/2025-05-09-devoxx-uk-bootiful-spring-apps",
+   "path": "assistant/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-09T10:47:07Z"
+  },
+  {
+   "repo": "jouzi5/agentscope-java-1.0.3",
+   "path": "agentscope-distribution/agentscope-all/pom.xml",
+   "owner_type": "User",
+   "created": "2025-12-20T05:49:38Z"
+  },
+  {
+   "repo": "juliepy/AI-Engineer-from-scrach",
+   "path": "06-harnes/ragent/bootstrap/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-11T09:39:15Z"
+  },
+  {
+   "repo": "justvork/vork-server",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-06-09T16:28:08Z"
+  },
+  {
+   "repo": "kagent-dev/kagent",
+   "path": "go/core/cli/internal/mcp/frameworks/java/templates/pom.xml.tmpl",
+   "owner_type": "Organization",
+   "created": "2025-01-21T17:03:23Z"
+  },
+  {
+   "repo": "kagent-dev/kmcp",
+   "path": "pkg/cli/internal/frameworks/java/templates/pom.xml.tmpl",
+   "owner_type": "Organization",
+   "created": "2025-07-02T13:17:25Z"
+  },
+  {
+   "repo": "kartik1998/youtube-transcript-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-30T06:01:03Z"
+  },
+  {
+   "repo": "kenken64/mcp-server-java",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-28T05:13:40Z"
+  },
+  {
+   "repo": "kevinten10/Ring",
+   "path": "Tool/MCP/demo_java/pom.xml",
+   "owner_type": "User",
+   "created": "2023-05-08T14:35:54Z"
+  },
+  {
+   "repo": "khatibtamal/java-model-context-protocol",
+   "path": "http-sse-transport-sync-webmvc/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-19T17:31:50Z"
+  },
+  {
+   "repo": "kiddogreed/adc-knowledge-base",
+   "path": "springboot-rag/rag/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-03T12:18:53Z"
+  },
+  {
+   "repo": "kim57uak/smart-supervisor-sub-agent",
+   "path": "scratch/spring-ai-mcp-sources/META-INF/maven/org.springframework.ai/spring-ai-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-25T02:20:41Z"
+  },
+  {
+   "repo": "kkaduk/MultiagentExamples",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-09T18:44:02Z"
+  },
+  {
+   "repo": "kliushnichenko/jooby-mcp",
+   "path": "jooby-mcp-apt/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-13T14:31:33Z"
+  },
+  {
+   "repo": "kolipakakondal/esp-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-10T17:38:17Z"
+  },
+  {
+   "repo": "kpavlov/tachyon",
+   "path": "examples/weather-mcp-kotlin/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-15T16:59:19Z"
+  },
+  {
+   "repo": "krisha735/ConsulatationProject",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-03T08:52:43Z"
+  },
+  {
+   "repo": "krrr/mcp-java8-sdk",
+   "path": "mcp-bom/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-03T05:38:57Z"
+  },
+  {
+   "repo": "kubemq-io/kubemq-mcp",
+   "path": "examples/java/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-04-06T06:28:01Z"
+  },
+  {
+   "repo": "kwseeker/ai-mcp",
+   "path": "sdk-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-24T04:04:02Z"
+  },
+  {
+   "repo": "kyleyyds6/my-ragent",
+   "path": "bootstrap/pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-06T13:09:33Z"
+  },
+  {
+   "repo": "kyn-317/qna",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-27T12:02:07Z"
+  },
+  {
+   "repo": "laeubi/mcp_osgi",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-12T04:59:30Z"
+  },
+  {
+   "repo": "lcoudy/ragent",
+   "path": "bootstrap/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-08T11:38:04Z"
+  },
+  {
+   "repo": "leeqi10/digital-human",
+   "path": "ruoyi-ai/ruoyi-modules-api/ruoyi-chat-api/pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-22T06:30:53Z"
+  },
+  {
+   "repo": "leeyazhou/manus4j",
+   "path": "manus4j/pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-24T11:57:05Z"
+  },
+  {
+   "repo": "leeyazhou/trip-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-12T02:22:42Z"
+  },
+  {
+   "repo": "leonarduk/allotmint-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-19T15:55:16Z"
+  },
+  {
+   "repo": "lijianlong123/dbc-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-23T02:40:49Z"
+  },
+  {
+   "repo": "lindong0456-svg/cloud-ops-ai-assistant",
+   "path": "cloud-ops-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-02T02:09:30Z"
+  },
+  {
+   "repo": "ling0214/mini-Project",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-13T05:13:58Z"
+  },
+  {
+   "repo": "liuwenkai01/spring-ai-mcp-demo",
+   "path": "spring-ai-mcp-client-demo/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-06T06:32:25Z"
+  },
+  {
+   "repo": "liuyeye611/Leave-Request-Analysis-project",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-09T11:39:50Z"
+  },
+  {
+   "repo": "llwx2324/OpsMind",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-06T01:16:28Z"
+  },
+  {
+   "repo": "lmccay/knox-mcp-proxy",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-06T21:09:30Z"
+  },
+  {
+   "repo": "louisburroughs/durion-positivity-backend",
+   "path": "pos-mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-23T15:21:40Z"
+  },
+  {
+   "repo": "lshuai1900/KnowledgeFlow",
+   "path": "bootstrap/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-10T08:30:04Z"
+  },
+  {
+   "repo": "lskun/spring-boot-ai-cloudflare-r2-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-23T14:51:47Z"
+  },
+  {
+   "repo": "luckyHuangShuang/dynamic-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-24T05:54:53Z"
+  },
+  {
+   "repo": "lucloner/mcp-stream",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-09T15:01:34Z"
+  },
+  {
+   "repo": "lunar-landing/qualia",
+   "path": "qualia-core/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-08-02T21:52:05Z"
+  },
+  {
+   "repo": "luopc/springboot3.5-learn",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2018-05-27T03:34:38Z"
+  },
+  {
+   "repo": "luoye783/claude-demo",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-21T09:38:46Z"
+  },
+  {
+   "repo": "lyingparachute/ai-assistant",
+   "path": "assistant-app/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-15T15:27:12Z"
+  },
+  {
+   "repo": "lys1313013/aio-life-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-28T14:34:16Z"
+  },
+  {
+   "repo": "machanism-org/machai",
+   "path": "machai-mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-22T08:28:55Z"
+  },
+  {
+   "repo": "makbn/mcp_mediator",
+   "path": "mcp-mediator-core/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-11T06:26:54Z"
+  },
+  {
+   "repo": "man-mu/M-agent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-20T01:35:44Z"
+  },
+  {
+   "repo": "manba-code/RAGcode",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-22T06:35:40Z"
+  },
+  {
+   "repo": "marsaviator-blip/woodchuck",
+   "path": "META-INF/maven/org.springframework.ai/spring-ai-mcp-annotations/pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-08T14:34:54Z"
+  },
+  {
+   "repo": "martinezFisi/mcp-server-yugioh",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-29T06:04:51Z"
+  },
+  {
+   "repo": "mauro-mura/agenor",
+   "path": "agenor-adapters/pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-16T21:39:17Z"
+  },
+  {
+   "repo": "mcprol/mcp-weather",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-26T10:37:48Z"
+  },
+  {
+   "repo": "meowrain/ragent-rebuild",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-14T14:43:16Z"
+  },
+  {
+   "repo": "mercari/pipeline",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2020-12-04T08:30:37Z"
+  },
+  {
+   "repo": "metadatacenter/cedar-artifact-mcp",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-05-26T21:23:59Z"
+  },
+  {
+   "repo": "mfietz/msr-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-02T21:51:45Z"
+  },
+  {
+   "repo": "mfrancime/trident-archive",
+   "path": "repos/trident_kagent_cloud_native_agentic_k8s/go/core/cli/internal/mcp/frameworks/java/templates/pom.xml.tmpl",
+   "owner_type": "User",
+   "created": "2026-06-13T11:26:27Z"
+  },
+  {
+   "repo": "mindcrime/MCPSandbox",
+   "path": "javamcp/javamcpclient/pom.xml",
+   "owner_type": "User",
+   "created": "2024-12-28T08:19:42Z"
+  },
+  {
+   "repo": "mirenqinggege/mcp-server-spring-boot-starter",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-19T10:10:00Z"
+  },
+  {
+   "repo": "mirkosertic/MCPLuceneServer",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-27T15:47:57Z"
+  },
+  {
+   "repo": "moacyrricardo/compute-admin",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-10T15:47:18Z"
+  },
+  {
+   "repo": "mochen555/mcp_server",
+   "path": "mcp_server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-06T08:47:37Z"
+  },
+  {
+   "repo": "modelcontextprotocol/java-sdk",
+   "path": "mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-01-20T17:52:58Z"
+  },
+  {
+   "repo": "moguyn/deepdesk",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-03-02T13:42:42Z"
+  },
+  {
+   "repo": "moonlight-create/ai-soulmate-chat-public",
+   "path": "ai-soulmate-chat/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-18T09:22:35Z"
+  },
+  {
+   "repo": "mortalreminderpt/whiteboard-app-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-07T12:36:43Z"
+  },
+  {
+   "repo": "moxingwang/llm-java",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-13T05:53:01Z"
+  },
+  {
+   "repo": "mrkhachaturov/confluence-mcp-plugin",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-06T22:57:39Z"
+  },
+  {
+   "repo": "mrkhachaturov/jira-mcp-plugin",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-06T11:45:52Z"
+  },
+  {
+   "repo": "mschreinerhaw/Langchain4j-Chatchat",
+   "path": "chatchat-integration/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-06T01:58:16Z"
+  },
+  {
+   "repo": "mtwn105/mcp-server-spring-java",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-18T14:37:27Z"
+  },
+  {
+   "repo": "muhammadallee/dc-platform",
+   "path": "tooling/platform-mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-27T15:07:26Z"
+  },
+  {
+   "repo": "nacos-group/agentscope-extensions-nacos",
+   "path": "java/agentscope-extensions-mcp-nacos/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-11-05T09:56:43Z"
+  },
+  {
+   "repo": "naftiko/ikanos",
+   "path": "modules/ikanos-engine/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-01-16T03:00:06Z"
+  },
+  {
+   "repo": "naftiko/polychro",
+   "path": "modules/polychro-capability/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-05-01T15:40:11Z"
+  },
+  {
+   "repo": "nageoffer/ragent",
+   "path": "mcp-server/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-11-20T07:22:53Z"
+  },
+  {
+   "repo": "namei32/java-agent",
+   "path": "adapter-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-12T14:28:27Z"
+  },
+  {
+   "repo": "ndexbio/ndex-rest",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2013-11-18T22:31:29Z"
+  },
+  {
+   "repo": "nembutal-sw/kubernetes-cluster-infra-rca-platform",
+   "path": "web-console/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-09T19:42:28Z"
+  },
+  {
+   "repo": "nergal-perm/fpf-governance-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-12-31T04:48:52Z"
+  },
+  {
+   "repo": "nergal-perm/fpf-thinker-assistant",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-06T09:23:45Z"
+  },
+  {
+   "repo": "netuno-org/platform",
+   "path": "netuno.tritao/pom.xml",
+   "owner_type": "Organization",
+   "created": "2021-08-04T21:56:29Z"
+  },
+  {
+   "repo": "neurogeom/CopilotJ",
+   "path": "plugin/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-03-09T13:06:44Z"
+  },
+  {
+   "repo": "nick-bai/SparkX",
+   "path": "server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-12T03:20:14Z"
+  },
+  {
+   "repo": "nicolagramegna/mcp-java",
+   "path": "mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-12T10:36:59Z"
+  },
+  {
+   "repo": "niculacristina1205/agentic-supply-chain",
+   "path": "agentic_ai/pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-21T11:25:51Z"
+  },
+  {
+   "repo": "nikhilpeshwe/docuspace-backend",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-09T08:37:20Z"
+  },
+  {
+   "repo": "nimbly-dev/mcp-java-dev-tools",
+   "path": "mcp-server/core/pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-15T03:19:01Z"
+  },
+  {
+   "repo": "niranjansyamala/agent-orchestration-blueprint",
+   "path": "execution-service/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-20T06:15:20Z"
+  },
+  {
+   "repo": "nitinkc/springAI-MCPServer",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-13T17:12:53Z"
+  },
+  {
+   "repo": "nolaurence/mcp-java8-maven",
+   "path": "mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-25T01:14:29Z"
+  },
+  {
+   "repo": "normalform3/voice-note",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-31T08:06:03Z"
+  },
+  {
+   "repo": "nouscow/memory-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-06T13:49:32Z"
+  },
+  {
+   "repo": "nuwax-ai/nuwax-backend",
+   "path": "app-platform-modules/app-platform-mcp/app-platform-mcp-infra/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-03-14T11:18:58Z"
+  },
+  {
+   "repo": "nydia/java-advanced-train",
+   "path": "04fx/springboot-ai/springboot-mcp/springboot-mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2021-05-10T14:47:23Z"
+  },
+  {
+   "repo": "oaplatform/oap",
+   "path": "oap-mcp/oap-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2015-01-15T12:52:57Z"
+  },
+  {
+   "repo": "ohraineri/my-detective",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-13T16:53:34Z"
+  },
+  {
+   "repo": "oldmanpushcart/dashscope4j",
+   "path": "dashscope4j-agent/pom.xml",
+   "owner_type": "User",
+   "created": "2024-02-13T14:50:47Z"
+  },
+  {
+   "repo": "oleghailenko/todo-list-ai-agent",
+   "path": "todo-agent/pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-18T20:35:20Z"
+  },
+  {
+   "repo": "ollama4j/ollama4j",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-10-26T19:12:14Z"
+  },
+  {
+   "repo": "ollama4j/ollama4j-examples",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-03-08T05:46:56Z"
+  },
+  {
+   "repo": "omnaest/RaspberryPi4J",
+   "path": "pi-server/pom.xml",
+   "owner_type": "User",
+   "created": "2024-02-04T19:31:48Z"
+  },
+  {
+   "repo": "open-metadata/OpenMetadata",
+   "path": "openmetadata-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2021-08-01T21:17:17Z"
+  },
+  {
+   "repo": "openJiuwen-ai/agent-core-java",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-04-09T08:35:43Z"
+  },
+  {
+   "repo": "openJiuwen-ai/agent-studio",
+   "path": "backend/studio-manager-service/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-02-26T08:52:48Z"
+  },
+  {
+   "repo": "openMF/mcp-mifosx",
+   "path": "plugin/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-03-26T18:04:18Z"
+  },
+  {
+   "repo": "openhab/openhab-addons",
+   "path": "bundles/org.openhab.io.mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2014-05-13T19:41:58Z"
+  },
+  {
+   "repo": "openquartz/spring-ai-jmanus-ollama",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-13T12:16:02Z"
+  },
+  {
+   "repo": "oracle/graalpy-extensions",
+   "path": "graalpy-sandboxed-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-19T16:59:21Z"
+  },
+  {
+   "repo": "oracle/mcp",
+   "path": "src/oracle-db-mcp-java-toolkit/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-07-27T08:02:34Z"
+  },
+  {
+   "repo": "order-management123/newforked_converted_tomy_original",
+   "path": "spring-ai-alibaba-graph/spring-ai-alibaba-graph-example/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-06-12T10:24:32Z"
+  },
+  {
+   "repo": "oshea00/mcpdemo-streaming-spring",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-21T18:30:53Z"
+  },
+  {
+   "repo": "partme-ai/spring-ai-examples",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-04-06T04:00:14Z"
+  },
+  {
+   "repo": "pcnfernando/openapi-to-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-26T01:36:37Z"
+  },
+  {
+   "repo": "pedrocarrijo95/MultiCloudInfraAI",
+   "path": "MultiCloudInfraAI - Client/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-02T22:13:11Z"
+  },
+  {
+   "repo": "phaseshift-studio/metatron",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-08-22T09:32:40Z"
+  },
+  {
+   "repo": "phax/meta",
+   "path": "deps/pom.xml",
+   "owner_type": "User",
+   "created": "2014-09-09T14:31:15Z"
+  },
+  {
+   "repo": "phodal-archive/archlift-old",
+   "path": "remodern-java/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-07-20T23:53:19Z"
+  },
+  {
+   "repo": "pkmuru/wq-test",
+   "path": "workiq-transcript-java/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-15T11:21:31Z"
+  },
+  {
+   "repo": "platonai/Browser4",
+   "path": "browser4-agentic/pom.xml",
+   "owner_type": "User",
+   "created": "2018-03-12T12:00:26Z"
+  },
+  {
+   "repo": "pram/mcp-async-example",
+   "path": "mcp-client/pom.xml",
+   "owner_type": "User",
+   "created": "2025-02-26T13:14:53Z"
+  },
+  {
+   "repo": "prashantprakashhh/SemanticContextEngine",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-07T14:13:56Z"
+  },
+  {
+   "repo": "priyanshuN/kafka-agent",
+   "path": "servers/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-23T14:07:49Z"
+  },
+  {
+   "repo": "putuwaw/multi-mcp",
+   "path": "server/java/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-14T05:28:05Z"
+  },
+  {
+   "repo": "qianchao555/aidemo",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-01T03:07:56Z"
+  },
+  {
+   "repo": "qingfeng899/miniHermes",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-12T04:56:21Z"
+  },
+  {
+   "repo": "quanyu-1995/qy-framework-ai",
+   "path": "qy-framework-ai-mcp-client/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-28T13:34:50Z"
+  },
+  {
+   "repo": "quarkus-qe/quarkus-test-suite",
+   "path": "ai/langchain4j/pom.xml",
+   "owner_type": "Organization",
+   "created": "2021-04-19T09:37:26Z"
+  },
+  {
+   "repo": "qwer-car/wechat-ai-assistant",
+   "path": "wechat-ai-tool/pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-16T15:47:31Z"
+  },
+  {
+   "repo": "qxbyte/agentx",
+   "path": "agentx-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-12T17:35:15Z"
+  },
+  {
+   "repo": "qy-liuhuo/IrisRPC",
+   "path": "Iris-spring-boot-starter/pom.xml",
+   "owner_type": "User",
+   "created": "2025-02-01T13:13:47Z"
+  },
+  {
+   "repo": "raalzate/static-inference",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-08T14:58:52Z"
+  },
+  {
+   "repo": "rafalwizen/plugin-architecture-test",
+   "path": "mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-11T17:09:43Z"
+  },
+  {
+   "repo": "rajashashankmuppirala/mcp-poc",
+   "path": "report-gateway/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-06T21:04:40Z"
+  },
+  {
+   "repo": "ralscha/blog2025",
+   "path": "codemode-java/demo/pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-02T08:53:19Z"
+  },
+  {
+   "repo": "rameshcharykotha/Java_AI_Practice",
+   "path": "mcp-filesystem-project/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-19T03:16:08Z"
+  },
+  {
+   "repo": "raviksha/core-projects",
+   "path": "ai/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-16T00:25:53Z"
+  },
+  {
+   "repo": "rcantore/studybuddy-cli",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-04T18:13:17Z"
+  },
+  {
+   "repo": "read424/walrex-contable",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-12-14T18:26:34Z"
+  },
+  {
+   "repo": "rhixecompany/sandbox",
+   "path": "projects/mcp-servers/java/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-25T03:30:09Z"
+  },
+  {
+   "repo": "rifkimaulana05/onemcp",
+   "path": "packages/server/pom.xml",
+   "owner_type": "User",
+   "created": "2024-02-01T00:57:39Z"
+  },
+  {
+   "repo": "rjourdan/Agentic-Gateway",
+   "path": "mcp-edge-gateway/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-05T01:36:07Z"
+  },
+  {
+   "repo": "rostilos/CodeCrow",
+   "path": "java-ecosystem/services/pipeline-agent/pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-27T10:29:00Z"
+  },
+  {
+   "repo": "roz-labs/jfrdoctor-plugin",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-08-15T21:14:15Z"
+  },
+  {
+   "repo": "rtdickerson/JPA4ApiServerTemplateProject",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-11T13:32:19Z"
+  },
+  {
+   "repo": "ruanrongman/IntelliConnect",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2024-02-04T05:26:06Z"
+  },
+  {
+   "repo": "rzmt/nfse-java-mcp",
+   "path": "nfse-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-23T19:23:52Z"
+  },
+  {
+   "repo": "s3915185/untitled",
+   "path": "mcp-untitled-client-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-31T12:50:04Z"
+  },
+  {
+   "repo": "sR5mSym6xBw3Oil22im7/shogun-sakura-demo",
+   "path": "backend/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-06T04:55:03Z"
+  },
+  {
+   "repo": "saikiran2143/tutorials",
+   "path": "java-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-22T15:38:11Z"
+  },
+  {
+   "repo": "sankar1v/mcp",
+   "path": "payments/pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-05T13:20:11Z"
+  },
+  {
+   "repo": "sathwik2007/job-search-assistant",
+   "path": "assistant/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-25T06:38:29Z"
+  },
+  {
+   "repo": "sebge2/mcp-hands-on",
+   "path": "mcp-core-service/pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-19T05:35:42Z"
+  },
+  {
+   "repo": "see-quick/strimzi-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-17T16:45:50Z"
+  },
+  {
+   "repo": "sergmain/metaheuristic",
+   "path": "apps/metaheuristic/pom.xml",
+   "owner_type": "User",
+   "created": "2017-05-15T14:50:52Z"
+  },
+  {
+   "repo": "shai-almog/cn1-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-06T07:58:28Z"
+  },
+  {
+   "repo": "shannah/jdeploy-desktop-gui",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2024-10-28T20:38:07Z"
+  },
+  {
+   "repo": "shashank524/TransForm",
+   "path": "java-sdk/mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-22T04:59:42Z"
+  },
+  {
+   "repo": "sheng198298/ragent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-15T08:12:48Z"
+  },
+  {
+   "repo": "shibicr93/performance-test-generation-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-18T17:30:37Z"
+  },
+  {
+   "repo": "shootercheng/streamable-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-21T10:56:34Z"
+  },
+  {
+   "repo": "shy20057/RAGWorker",
+   "path": "bootstrap/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-29T10:17:31Z"
+  },
+  {
+   "repo": "shzlw/lightflare",
+   "path": "server/lightflare-mcp-client/pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-26T00:21:34Z"
+  },
+  {
+   "repo": "sikt-no/graphitron",
+   "path": "graphitron-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-12T07:36:56Z"
+  },
+  {
+   "repo": "simpleobj/ruoyi-ai",
+   "path": "ruoyi-modules-api/ruoyi-chat-api/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-07T11:23:19Z"
+  },
+  {
+   "repo": "singulart/dcpass",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-04T21:28:51Z"
+  },
+  {
+   "repo": "siyukio/spring-siyukio",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-19T21:44:28Z"
+  },
+  {
+   "repo": "slhaf/Partner",
+   "path": "Partner-Core/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-12T07:28:20Z"
+  },
+  {
+   "repo": "slieer/javaworks",
+   "path": "simple-spring/pom.xml",
+   "owner_type": "User",
+   "created": "2012-12-05T15:11:35Z"
+  },
+  {
+   "repo": "slonikmak/javafx-debug",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-09T21:45:08Z"
+  },
+  {
+   "repo": "sobryan/seedwright",
+   "path": "server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-01T06:52:44Z"
+  },
+  {
+   "repo": "socutes/hify",
+   "path": "hify-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-18T02:15:46Z"
+  },
+  {
+   "repo": "socutes/robustmq-hify",
+   "path": "hify-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-22T02:46:22Z"
+  },
+  {
+   "repo": "solacese/solace-pubsub-mcp",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-04-01T11:46:54Z"
+  },
+  {
+   "repo": "spectrayan/spector",
+   "path": "synapse/spector-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2026-05-13T17:25:31Z"
+  },
+  {
+   "repo": "spring-ai-alibaba/Lynxe",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-09-12T09:28:02Z"
+  },
+  {
+   "repo": "spring-ai-alibaba/copilot",
+   "path": "copilot-modules/copilot-context/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-06-25T03:44:27Z"
+  },
+  {
+   "repo": "spring-ai-alibaba/examples",
+   "path": "spring-ai-alibaba-graph-example/multiagent-openmanus/pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-12-12T02:37:35Z"
+  },
+  {
+   "repo": "spring-ai-alibaba/spring-ai-alibaba-agui",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-11-10T02:54:41Z"
+  },
+  {
+   "repo": "spring-ai-alibaba/spring-ai-alibaba-graph-community",
+   "path": "spring-ai-alibaba-graph-nodes/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-10-23T07:04:18Z"
+  },
+  {
+   "repo": "spring-ai-alibaba/spring-ai-alibaba-multi-agent-demo",
+   "path": "consult-sub-agent/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-09-23T11:49:54Z"
+  },
+  {
+   "repo": "spring-ai-alibaba/spring-ai-extensions",
+   "path": "mcp/spring-ai-alibaba-mcp-router/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-09-12T09:31:08Z"
+  },
+  {
+   "repo": "spring-ai-community/agent-client",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-08-25T00:05:40Z"
+  },
+  {
+   "repo": "spring-ai-community/claude-agent-sdk-java",
+   "path": "claude-code-sdk/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-12-11T00:57:26Z"
+  },
+  {
+   "repo": "spring-ai-community/mcp-annotations",
+   "path": "mcp-annotations/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-05-03T17:58:36Z"
+  },
+  {
+   "repo": "spring-ai-community/mcp-security",
+   "path": "mcp-client-security/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-08-01T14:05:03Z"
+  },
+  {
+   "repo": "spring-projects/spring-ai",
+   "path": "mcp/common/pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-06-27T18:57:29Z"
+  },
+  {
+   "repo": "spring-projects/spring-ai-examples",
+   "path": "model-context-protocol/weather/manual-webflux-server/pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-10-18T18:43:36Z"
+  },
+  {
+   "repo": "springdoc/springdoc-openapi",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2019-07-11T23:08:20Z"
+  },
+  {
+   "repo": "sshailabh/antlr4-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-04T01:50:29Z"
+  },
+  {
+   "repo": "stantonk/mcp-server-java-sse-http-demo",
+   "path": "mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-24T04:41:07Z"
+  },
+  {
+   "repo": "star362/ai-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-08T13:23:13Z"
+  },
+  {
+   "repo": "stephanj/LSP4J-MCP",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-05T10:09:50Z"
+  },
+  {
+   "repo": "steveteoh/campus-mcp-assignment",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-23T01:00:32Z"
+  },
+  {
+   "repo": "sumant2000/mcp-examples",
+   "path": "calculator-time-date-tool-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-02T16:54:22Z"
+  },
+  {
+   "repo": "sverze/aws-bedrock-mcp-client-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-26T00:57:15Z"
+  },
+  {
+   "repo": "swcstudiospace/supercompute",
+   "path": "060_applications/60_warp-speed/spring-ai/auto-configurations/mcp/spring-ai-autoconfigure-mcp-server-webmvc/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-09-01T00:54:15Z"
+  },
+  {
+   "repo": "swgee/BurpMCP",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-02T00:25:10Z"
+  },
+  {
+   "repo": "sycophant21/promptium",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-17T13:30:59Z"
+  },
+  {
+   "repo": "symbol-systems/iq",
+   "path": "iq-mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-04-15T15:11:05Z"
+  },
+  {
+   "repo": "tabforgeai/claude-architect-workshop-mcp",
+   "path": "workshop-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-01T13:53:31Z"
+  },
+  {
+   "repo": "tabforgeai/mainframe-architect-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-27T15:31:06Z"
+  },
+  {
+   "repo": "takaakit/astah-pro-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-10-16T08:11:03Z"
+  },
+  {
+   "repo": "techtown-fr/training-mcp",
+   "path": "java-simple-demo/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-12-02T15:47:17Z"
+  },
+  {
+   "repo": "tersePrompts/fastMCP4J",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-24T09:40:28Z"
+  },
+  {
+   "repo": "texttechnologylab/UCE",
+   "path": "uce.portal/uce.web/pom.xml",
+   "owner_type": "Organization",
+   "created": "2024-01-31T14:36:34Z"
+  },
+  {
+   "repo": "tfll37/CLDGeminiPDF-Analyzer",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-03T14:19:59Z"
+  },
+  {
+   "repo": "thevpc/naru",
+   "path": "extensions/naru-tools-fs/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-13T23:06:56Z"
+  },
+  {
+   "repo": "thezmmm/hello-agents-java",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-11T19:15:09Z"
+  },
+  {
+   "repo": "thomasm1/app-kafka-elasticsearch-tweets",
+   "path": "mapl-intelligence-artificielle/pom.xml",
+   "owner_type": "User",
+   "created": "2020-07-01T01:47:45Z"
+  },
+  {
+   "repo": "thomasm1/bitcoinBuyer1_CryptoMaven.xyz",
+   "path": "cryptomaven-intelligence-artificielle/pom.xml",
+   "owner_type": "User",
+   "created": "2019-09-19T02:42:22Z"
+  },
+  {
+   "repo": "thought2code/mcp-annotated-java-sdk",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-04-04T07:40:24Z"
+  },
+  {
+   "repo": "thought2code/mcp-java-sdk-examples",
+   "path": "mcp-server-mysql/mcp-server-mysql-official-sdk-impl/pom.xml",
+   "owner_type": "Organization",
+   "created": "2025-03-28T15:55:06Z"
+  },
+  {
+   "repo": "tmseidel/ai-git-bot",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-03-31T17:04:19Z"
+  },
+  {
+   "repo": "tomas-samek/tiko-di",
+   "path": "tiko-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-23T15:44:16Z"
+  },
+  {
+   "repo": "tommimarkus/dediren",
+   "path": "mcp-server/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-08T11:22:22Z"
+  },
+  {
+   "repo": "trellisframework/boot",
+   "path": "mcp/pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-04-22T06:50:08Z"
+  },
+  {
+   "repo": "tyboss7/spring",
+   "path": "model-context-protocol/mcp-weather-server-quickstart/pom.xml",
+   "owner_type": "User",
+   "created": "2025-02-10T13:03:34Z"
+  },
+  {
+   "repo": "tzolov/observability-extensions",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-15T11:21:58Z"
+  },
+  {
+   "repo": "ucpdh23/Servant",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2017-02-17T20:54:36Z"
+  },
+  {
+   "repo": "umeshbatra13/mcp-jdk",
+   "path": "mcp-bom/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-29T22:12:04Z"
+  },
+  {
+   "repo": "upintasingh/mcp-server-ai",
+   "path": "untitled/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-13T10:45:43Z"
+  },
+  {
+   "repo": "vaquarkhan/aegis-mcp-gateway",
+   "path": "mcp-gateway-core/pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-03T06:47:01Z"
+  },
+  {
+   "repo": "vespa-engine/vespa",
+   "path": "fat-model-dependencies/pom.xml",
+   "owner_type": "Organization",
+   "created": "2016-06-03T20:54:20Z"
+  },
+  {
+   "repo": "vijayakumars6/langgraph-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-27T02:45:10Z"
+  },
+  {
+   "repo": "vinodjayachandran/mono-repo-learn",
+   "path": "sample-maven-project/pom.xml",
+   "owner_type": "User",
+   "created": "2025-12-22T06:19:14Z"
+  },
+  {
+   "repo": "vipi-n/dice-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-24T20:16:48Z"
+  },
+  {
+   "repo": "voyageour/llm-rag-with-spring-ai",
+   "path": "mcp-server-spring-java/pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-18T18:55:51Z"
+  },
+  {
+   "repo": "waabox/domain-mcp-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-10T01:12:48Z"
+  },
+  {
+   "repo": "wangx-wx/spring-mcp",
+   "path": "snake/snake-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-20T09:39:18Z"
+  },
+  {
+   "repo": "warmuuh/milkman",
+   "path": "milkman-mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2019-03-27T13:42:47Z"
+  },
+  {
+   "repo": "webforj/webforj",
+   "path": "webforj-mcp-apps/pom.xml",
+   "owner_type": "Organization",
+   "created": "2022-02-06T10:57:17Z"
+  },
+  {
+   "repo": "whthomas/mcp-example",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-03-18T09:56:16Z"
+  },
+  {
+   "repo": "widoriezebos/descartes-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-17T10:30:43Z"
+  },
+  {
+   "repo": "will8ug/mcpwithspring-server",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-08-10T08:48:03Z"
+  },
+  {
+   "repo": "wldst/rag",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-18T02:44:13Z"
+  },
+  {
+   "repo": "wmxl/spring-ai-mcp",
+   "path": "mcp-sse-server/pom.xml",
+   "owner_type": "User",
+   "created": "2025-04-25T12:51:41Z"
+  },
+  {
+   "repo": "woaibiancheng111/Shixi-Code",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-08-14T03:03:07Z"
+  },
+  {
+   "repo": "wowmarcomei/openjiuwen_agent_studio",
+   "path": "backend/studio-runtime-service/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-09T13:20:13Z"
+  },
+  {
+   "repo": "wwx441476/mcp-jdk8-sdk",
+   "path": "mcp-bom/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-04T05:50:12Z"
+  },
+  {
+   "repo": "wwx441476/mcp-sdk-demo",
+   "path": "mcp-client-demo/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-03T12:16:06Z"
+  },
+  {
+   "repo": "xhlye/mcp-rest-adapter-app",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-05-19T02:24:29Z"
+  },
+  {
+   "repo": "xiaoli123/agentscope-core",
+   "path": "agentscope-extensions/agentscope-extensions-higress/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-17T12:07:06Z"
+  },
+  {
+   "repo": "xiaozhug/ai-mcp-bridge",
+   "path": "auto-configurations/ai-mcp-bridge-autoconfigure-mcp-server-expose/pom.xml",
+   "owner_type": "User",
+   "created": "2025-12-13T07:16:03Z"
+  },
+  {
+   "repo": "xinruzhi/DataAgent",
+   "path": "spring-ai-alibaba-studio/pom.xml",
+   "owner_type": "User",
+   "created": "2025-11-11T08:02:28Z"
+  },
+  {
+   "repo": "xk664/group-buy-market-xk",
+   "path": "group-buy-market-xk-ai/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-05T12:40:46Z"
+  },
+  {
+   "repo": "xtyooo/Kimo-Agent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-07T11:06:29Z"
+  },
+  {
+   "repo": "xwc199305/crm-staff-agent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-07-12T15:08:59Z"
+  },
+  {
+   "repo": "xwiki-contrib/ai-llm",
+   "path": "pom.xml",
+   "owner_type": "Organization",
+   "created": "2023-05-09T14:38:03Z"
+  },
+  {
+   "repo": "xxsdnol/qqwer-log",
+   "path": "log-analysis-backend/log-analysis-app/pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-13T13:27:26Z"
+  },
+  {
+   "repo": "yali325/network-intent-agent-system",
+   "path": "mac-tav-agent-core/pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-14T10:54:31Z"
+  },
+  {
+   "repo": "yangchg8/pai-agent-j",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-26T11:27:05Z"
+  },
+  {
+   "repo": "yangchuangfu11/35-nacos-3.1.1",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-20T01:27:21Z"
+  },
+  {
+   "repo": "yashs33244/devops-agent",
+   "path": "agents/kagent/go/core/cli/internal/mcp/frameworks/java/templates/pom.xml.tmpl",
+   "owner_type": "User",
+   "created": "2026-05-21T09:43:10Z"
+  },
+  {
+   "repo": "youvegotnigel/selenide-mcp",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-12T14:46:00Z"
+  },
+  {
+   "repo": "yuanyuekejiJN/LLM-Algorithm-Safety-Monitoring-Platform",
+   "path": "yuanyueLLM-ai/ruoyi-modules-api/ruoyi-chat-api/pom.xml",
+   "owner_type": "User",
+   "created": "2025-09-03T03:17:36Z"
+  },
+  {
+   "repo": "z1131/agentoz",
+   "path": "agentoz-starter/pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-05T05:11:30Z"
+  },
+  {
+   "repo": "zhangtc33333/langchain4j-java",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2025-07-07T09:43:18Z"
+  },
+  {
+   "repo": "zhengxiaosong/mcp-java-sdk",
+   "path": "mcp/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-19T03:34:48Z"
+  },
+  {
+   "repo": "zhijunio/once-upon-spring-ai",
+   "path": "chapter5-maven/gamemaster/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-12T10:16:22Z"
+  },
+  {
+   "repo": "zhijunio/spring-ai-mcp-samples",
+   "path": "weather-server-webmvc-manaul/pom.xml",
+   "owner_type": "User",
+   "created": "2026-02-10T03:07:32Z"
+  },
+  {
+   "repo": "zhwang1990/poc-ops-agent",
+   "path": "backend/control-plane/modules/agentruntime/pom.xml",
+   "owner_type": "User",
+   "created": "2026-06-07T09:24:21Z"
+  },
+  {
+   "repo": "ztyfeibi/personal-ragent",
+   "path": "bootstrap/pom.xml",
+   "owner_type": "User",
+   "created": "2026-04-20T04:22:37Z"
+  },
+  {
+   "repo": "zwl467135974/lumina",
+   "path": "lumina-agent-core/pom.xml",
+   "owner_type": "User",
+   "created": "2026-01-19T12:14:46Z"
+  },
+  {
+   "repo": "zxhbloomer/scm_backend",
+   "path": "scm-ai/pom.xml",
+   "owner_type": "User",
+   "created": "2025-06-26T13:42:06Z"
+  },
+  {
+   "repo": "zzy0522/no-code-agent",
+   "path": "pom.xml",
+   "owner_type": "User",
+   "created": "2026-05-02T07:44:38Z"
+  }
+ ]
+}

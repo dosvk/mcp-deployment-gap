@@ -1,0 +1,27 @@
+{
+ "generated": "2026-08-22",
+ "preliminary": true,
+ "ecosystems": {
+  "npm": {
+   "not-capable-old-line": 1964,
+   "unparseable": 15,
+   "no-mcp-dep-now": 15,
+   "capable": 6
+  },
+  "rust": {
+   "not-capable": 413,
+   "capable": 148,
+   "no-mcp-dep-now": 181,
+   "range-admits": 33,
+   "ambiguous": 25
+  },
+  "go": {
+   "not-capable": 643,
+   "capable": 151,
+   "no-mcp-dep-now": 6
+  },
+  "maven": {
+   "not-capable-structural": 666
+  }
+ }
+}

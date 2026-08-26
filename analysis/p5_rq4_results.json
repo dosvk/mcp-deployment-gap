@@ -1,0 +1,183 @@
+{
+ "preliminary": true,
+ "dump": "registry_2026-08-20.jsonl.gz",
+ "generated": "2026-08-21",
+ "note": "PRELIMINARY \u2014 regenerate at 2026-10-10 freeze; structure frozen",
+ "cohorts": {
+  "pre_RC": 10040,
+  "post_release": 5187,
+  "RC_era": 8704
+ },
+ "n_servers": 23931,
+ "n_publishers": 14624,
+ "publisher_concentration": {
+  "top5": [
+   {
+    "pub": "io.github.pipeworx-io",
+    "servers": 1312
+   },
+   {
+    "pub": "io.github.mcp-dir",
+    "servers": 1023
+   },
+   {
+    "pub": "io.github.Evozim",
+    "servers": 375
+   },
+   {
+    "pub": "io.github.CSOAI-ORG",
+    "servers": 330
+   },
+   {
+    "pub": "ai.smithery",
+    "servers": 213
+   }
+  ],
+  "hhi": 0.00572
+ },
+ "RQ4_ITS_release": {
+  "bins": [
+   {
+    "k": -4,
+    "start": "2026-06-02",
+    "n": 6205,
+    "post": 0
+   },
+   {
+    "k": -3,
+    "start": "2026-06-16",
+    "n": 5721,
+    "post": 0
+   },
+   {
+    "k": -2,
+    "start": "2026-06-30",
+    "n": 7247,
+    "post": 0
+   },
+   {
+    "k": -1,
+    "start": "2026-07-14",
+    "n": 9154,
+    "post": 0
+   },
+   {
+    "k": 0,
+    "start": "2026-07-28",
+    "n": 9833,
+    "post": 1
+   }
+  ],
+  "n_post_bins": 1,
+  "slope_estimable": false,
+  "coef": {
+   "level_b2": 158.0,
+   "slope_b3": null
+  },
+  "se_hac4": {
+   "level": 445.97,
+   "slope": null
+  },
+  "t": {
+   "level": 0.35,
+   "slope": null
+  }
+ },
+ "RQ4_ITS_placebo_2026-06-15": {
+  "bins": [
+   {
+    "k": -4,
+    "start": "2026-04-20",
+    "n": 4019,
+    "post": 0
+   },
+   {
+    "k": -3,
+    "start": "2026-05-04",
+    "n": 4467,
+    "post": 0
+   },
+   {
+    "k": -2,
+    "start": "2026-05-18",
+    "n": 4772,
+    "post": 0
+   },
+   {
+    "k": -1,
+    "start": "2026-06-01",
+    "n": 6179,
+    "post": 0
+   },
+   {
+    "k": 0,
+    "start": "2026-06-15",
+    "n": 5815,
+    "post": 1
+   },
+   {
+    "k": 1,
+    "start": "2026-06-29",
+    "n": 6846,
+    "post": 1
+   },
+   {
+    "k": 2,
+    "start": "2026-07-13",
+    "n": 9090,
+    "post": 1
+   },
+   {
+    "k": 3,
+    "start": "2026-07-27",
+    "n": 9788,
+    "post": 1
+   }
+  ],
+  "n_post_bins": 4,
+  "slope_estimable": true,
+  "coef": {
+   "level_b2": -795.2,
+   "slope_b3": 737.8
+  },
+  "se_hac4": {
+   "level": 229.32,
+   "slope": 75.43
+  },
+  "t": {
+   "level": -3.47,
+   "slope": 9.78
+  }
+ },
+ "RQ4_ITS_release_excl_release_week": {
+  "bins": [
+   {
+    "k": -4,
+    "start": "2026-06-02",
+    "n": 6205,
+    "post": 0
+   },
+   {
+    "k": -3,
+    "start": "2026-06-16",
+    "n": 5721,
+    "post": 0
+   },
+   {
+    "k": -2,
+    "start": "2026-06-30",
+    "n": 7247,
+    "post": 0
+   },
+   {
+    "k": -1,
+    "start": "2026-07-14",
+    "n": 9154,
+    "post": 0
+   }
+  ],
+  "n_post_bins": 0,
+  "slope_estimable": false,
+  "note": "no complete post bins under this specification yet \u2014 estimable at freeze"
+ }
+}

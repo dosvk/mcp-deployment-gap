@@ -1,0 +1,4809 @@
+{
+ "eco": "rust",
+ "seed": 53,
+ "drawn": "2026-08-22",
+ "eligible": 5352,
+ "n": 800,
+ "members": [
+  {
+   "repo": "yonk-labs/hector",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-29T21:13:43Z"
+  },
+  {
+   "repo": "blinkingbit-oss/execkit",
+   "path": "crates/execkit-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-05T12:31:59Z"
+  },
+  {
+   "repo": "os-tack/fcp-regex",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-05T22:51:52Z"
+  },
+  {
+   "repo": "rustic-ai/codeprism",
+   "path": "crates/codeprism-mcp-server/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-06-18T22:16:02Z"
+  },
+  {
+   "repo": "qompassai/qai",
+   "path": "land/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-03-31T03:54:50Z"
+  },
+  {
+   "repo": "shrimp-software/eoka-tools",
+   "path": "crates/eoka-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-03T18:56:48Z"
+  },
+  {
+   "repo": "indexable-inc/index",
+   "path": "packages/mcp/server-info/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-03T04:17:53Z"
+  },
+  {
+   "repo": "openworkers/openworkers-cli",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-11-22T19:52:11Z"
+  },
+  {
+   "repo": "Brainwires/thalora-web-browser",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-09-13T14:57:45Z"
+  },
+  {
+   "repo": "CenticMurcia/charla-mcp",
+   "path": "rust-mcp-sample/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-05-27T07:02:22Z"
+  },
+  {
+   "repo": "agentgateway/agentgateway",
+   "path": "crates/agentgateway/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-03-18T20:55:22Z"
+  },
+  {
+   "repo": "graphops/subgraph-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-03-29T17:19:39Z"
+  },
+  {
+   "repo": "SceneWorks/SceneWorks",
+   "path": "crates/sceneworks-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-16T22:44:00Z"
+  },
+  {
+   "repo": "crypto-com/cdcx-cli",
+   "path": "crates/cdcx-cli/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-07T14:05:01Z"
+  },
+  {
+   "repo": "Ephemeral-AI-Lab/ephemeral-sandbox",
+   "path": "crates/sandbox-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-04T21:39:21Z"
+  },
+  {
+   "repo": "CratorAI/picrust",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-14T06:42:06Z"
+  },
+  {
+   "repo": "impalasys/talon",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-14T00:56:00Z"
+  },
+  {
+   "repo": "butterflyskies/pali",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-10T21:38:19Z"
+  },
+  {
+   "repo": "o9nn/jancog",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-08T09:59:18Z"
+  },
+  {
+   "repo": "autopipe-org/autopipe",
+   "path": "crates/desktop/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-24T05:26:20Z"
+  },
+  {
+   "repo": "butterflyskies/mcp-session",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-23T09:24:13Z"
+  },
+  {
+   "repo": "Riparion/arium",
+   "path": "examples/rmcp_example/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-19T21:02:32Z"
+  },
+  {
+   "repo": "Stashpeak/Stashpeak-app",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-08T20:53:19Z"
+  },
+  {
+   "repo": "highflame-ai/ramparts",
+   "path": "common/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-07-23T00:03:49Z"
+  },
+  {
+   "repo": "second-state/echokit_server",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-02-26T12:40:07Z"
+  },
+  {
+   "repo": "femboyisp/kibble",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-25T00:52:29Z"
+  },
+  {
+   "repo": "sednalabs/keycloak-admin-mcp",
+   "path": "kc-admin-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-18T03:15:23Z"
+  },
+  {
+   "repo": "melodium-tech/melodium",
+   "path": "melodium-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-02-19T10:10:51Z"
+  },
+  {
+   "repo": "EntasisLabs/instrumenta",
+   "path": "src/sttp/sttp-mcp-rs/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-03T20:37:28Z"
+  },
+  {
+   "repo": "getigris/igris-memory",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-30T20:37:09Z"
+  },
+  {
+   "repo": "dcSpark/sovereign-sdk",
+   "path": "crates/utils/mcp-external-stress/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-10-03T16:51:06Z"
+  },
+  {
+   "repo": "VoidNullable/lific",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-03T03:58:52Z"
+  },
+  {
+   "repo": "LynxLabVN/office-agent",
+   "path": "optional-mcps/mcp-catalog/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-03T04:34:22Z"
+  },
+  {
+   "repo": "swcstudiospace/omegaloops",
+   "path": "crates/omega_infra/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-19T18:12:32Z"
+  },
+  {
+   "repo": "mikojs/notion",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-11T13:15:32Z"
+  },
+  {
+   "repo": "lauterbach-mirror/t32mcp",
+   "path": "t32mcp-rs/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-01T15:15:10Z"
+  },
+  {
+   "repo": "nwrx/nmcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-04-30T01:37:05Z"
+  },
+  {
+   "repo": "code0-tech/centaurus",
+   "path": "actions/mcp-action/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-17T20:50:55Z"
+  },
+  {
+   "repo": "Weekendsuperhero-io/eventkit-rs",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-15T20:57:04Z"
+  },
+  {
+   "repo": "Devolutions/windbg-tool",
+   "path": "crates/windbg-ttd/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-07T19:23:51Z"
+  },
+  {
+   "repo": "open-telemetry/weaver",
+   "path": "crates/weaver_mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2024-02-07T18:14:56Z"
+  },
+  {
+   "repo": "qbit-ai/qbit",
+   "path": "backend/crates/qbit-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-11-27T06:45:25Z"
+  },
+  {
+   "repo": "caliban-ai/caliban",
+   "path": "crates/caliban-mcp-client/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-24T15:41:08Z"
+  },
+  {
+   "repo": "vetcoders/vc-tui",
+   "path": "mux-agent/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-21T21:39:28Z"
+  },
+  {
+   "repo": "butterflyskies/fantrax-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-27T04:00:35Z"
+  },
+  {
+   "repo": "The-AI-Republic/workx",
+   "path": "tauri/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-10-16T03:21:15Z"
+  },
+  {
+   "repo": "Integration-Project-2026-Groep-2/mcp-master",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-04T15:03:44Z"
+  },
+  {
+   "repo": "BrokkAi/bifrost-extension-template",
+   "path": "adapters/mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-14T11:50:08Z"
+  },
+  {
+   "repo": "MoonshotAI/kimi-agent-rs",
+   "path": "kimi-agent/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-06T13:28:20Z"
+  },
+  {
+   "repo": "Devolutions/multi-pwsh",
+   "path": "crates/multi-pwsh/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2021-06-08T17:43:49Z"
+  },
+  {
+   "repo": "pubky/nexus-scout",
+   "path": "crates/nexus-scout/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-03T10:53:43Z"
+  },
+  {
+   "repo": "lx-industries/rmcp-actix-web",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-07-10T18:02:34Z"
+  },
+  {
+   "repo": "studiojin-dev/SyncWatcher",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-21T00:47:23Z"
+  },
+  {
+   "repo": "galaxio-labs/galaxy-ops",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-05-18T13:30:12Z"
+  },
+  {
+   "repo": "cq27-dev/ratatoskr",
+   "path": "crates/ratatoskr-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-02T21:03:14Z"
+  },
+  {
+   "repo": "cdesktop-ai/cdesktop",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-08T13:56:12Z"
+  },
+  {
+   "repo": "launchapp-dev/animus-cli",
+   "path": "crates/animus-mcp-oauth/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-24T17:14:48Z"
+  },
+  {
+   "repo": "modulewise/composable-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-07-08T13:47:34Z"
+  },
+  {
+   "repo": "SylphxAI/video-reader-mcp",
+   "path": "crates/video-reader-mcp-server/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-08T21:12:52Z"
+  },
+  {
+   "repo": "archestra-ai/OpenAPPA",
+   "path": "bench/corp-systems/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-18T10:58:50Z"
+  },
+  {
+   "repo": "autumn-foundation/egregore",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-16T21:37:55Z"
+  },
+  {
+   "repo": "specdog/leash",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-17T17:28:10Z"
+  },
+  {
+   "repo": "genomoncology/biomcp",
+   "path": "crates/biomcp-mcp-contract-client/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-04-01T21:44:02Z"
+  },
+  {
+   "repo": "inxm-ai/inxm-local",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-18T19:09:48Z"
+  },
+  {
+   "repo": "astrid-runtime/astrid",
+   "path": "crates/astrid-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-15T23:27:31Z"
+  },
+  {
+   "repo": "pointsav/pointsav-monorepo",
+   "path": "service-slm/crates/slm-mcp-server/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-15T22:45:42Z"
+  },
+  {
+   "repo": "branchwork/branchwork",
+   "path": "server-rs/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-12T18:27:22Z"
+  },
+  {
+   "repo": "sift-stack/sift",
+   "path": "rust/crates/sift_mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2024-04-02T18:11:16Z"
+  },
+  {
+   "repo": "agntcy/slim-mcp-rust",
+   "path": "slim-mcp-transport/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-08T13:59:46Z"
+  },
+  {
+   "repo": "querymt/querymt",
+   "path": "crates/querymt-mobile-ffi/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-04-28T11:28:45Z"
+  },
+  {
+   "repo": "aws-samples/sample-reusable-assets-toolkit",
+   "path": "packages/rat/crates/rat-cli/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-15T05:36:52Z"
+  },
+  {
+   "repo": "wickproject/wick",
+   "path": "rust/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-23T11:56:21Z"
+  },
+  {
+   "repo": "emo-crab/observer_ward",
+   "path": "observer_ward/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-11-23T13:14:17Z"
+  },
+  {
+   "repo": "Muvon/octobrain",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-24T13:34:45Z"
+  },
+  {
+   "repo": "msd-rs/msd",
+   "path": "msd/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-07T09:14:51Z"
+  },
+  {
+   "repo": "Govcraft/acton-ai",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-05-17T03:26:58Z"
+  },
+  {
+   "repo": "libra-tools/libra",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-09-12T14:23:27Z"
+  },
+  {
+   "repo": "knova-run/sigil",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-23T12:45:23Z"
+  },
+  {
+   "repo": "IlyaFedotov-IT-Consultion/dev-pipeline",
+   "path": "Origins/Windmill/backend/windmill-common/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-12-05T08:21:51Z"
+  },
+  {
+   "repo": "droidsaw/droidsaw",
+   "path": "fuzz/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-13T23:02:19Z"
+  },
+  {
+   "repo": "RikaiDev/toki",
+   "path": "crates/toki-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-12-26T10:53:03Z"
+  },
+  {
+   "repo": "maris-development/beacon",
+   "path": "beacon-server/beacon-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-01-22T13:53:22Z"
+  },
+  {
+   "repo": "ozzie-assistant/ozzie",
+   "path": "crates/ozzie-tools/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-07T09:13:05Z"
+  },
+  {
+   "repo": "vllora/vllora",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-01-27T05:49:35Z"
+  },
+  {
+   "repo": "chroma-core/chroma",
+   "path": "rust/foundation-api/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2022-10-05T17:58:44Z"
+  },
+  {
+   "repo": "ezekiellabs/opseclint",
+   "path": "crates/opseclint-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-22T23:37:26Z"
+  },
+  {
+   "repo": "causes-tracker/causes-tracker",
+   "path": "services/causes_cli/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2013-12-14T10:03:07Z"
+  },
+  {
+   "repo": "pinksundew/pinksundew",
+   "path": "mcp-server-rust/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-06T22:57:38Z"
+  },
+  {
+   "repo": "r3bl-org/r3bl-open-core",
+   "path": "vendored-crates/rust-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2022-02-23T21:35:10Z"
+  },
+  {
+   "repo": "napbat/semctl",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-15T00:23:58Z"
+  },
+  {
+   "repo": "alibaba/anolisa",
+   "path": "src/agent-memory/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-30T06:33:06Z"
+  },
+  {
+   "repo": "block/buzz",
+   "path": "crates/buzz-agent/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-06T21:00:56Z"
+  },
+  {
+   "repo": "syv-labs/contextpool",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-19T08:33:47Z"
+  },
+  {
+   "repo": "Sequins-dev/sequins",
+   "path": "crates/sequins-assistant/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-11-08T08:44:37Z"
+  },
+  {
+   "repo": "amadeusprotocol/aichain",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-11-28T17:53:28Z"
+  },
+  {
+   "repo": "ddps-lab/WasmMCP",
+   "path": "shared/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-14T03:57:40Z"
+  },
+  {
+   "repo": "flowforge-lab/FlowForge",
+   "path": "crates/ff-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-07T00:40:53Z"
+  },
+  {
+   "repo": "microsoft/mcp-for-beginners",
+   "path": "03-GettingStarted/samples/rust/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-04-04T20:46:17Z"
+  },
+  {
+   "repo": "AgenticEconomics/webuild",
+   "path": "crates/codegen/xai-webuild-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-18T00:26:02Z"
+  },
+  {
+   "repo": "clouatre-labs/aptu-coder",
+   "path": "crates/aptu-coder/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-27T20:53:09Z"
+  },
+  {
+   "repo": "takusu-dev/takusu",
+   "path": "crates/takusu-cli/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-12-13T11:20:02Z"
+  },
+  {
+   "repo": "IsMyPhonePwned/mobipwn",
+   "path": "mobipwn-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-04T07:44:49Z"
+  },
+  {
+   "repo": "spider-rs/spider",
+   "path": "spider_mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2018-01-07T18:49:20Z"
+  },
+  {
+   "repo": "kapwing/codex-sdk",
+   "path": "codex-rs/mcp-server/tests/common/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-25T20:04:10Z"
+  },
+  {
+   "repo": "immutlex/defuddle-rs",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-06T17:08:05Z"
+  },
+  {
+   "repo": "crust-gather/crust-gather",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2024-01-03T10:56:04Z"
+  },
+  {
+   "repo": "asimov-platform/asimov-sdk",
+   "path": "rust/lib/asimov-server/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2024-06-25T21:55:38Z"
+  },
+  {
+   "repo": "terraphim/terraphim-ai-gpu-experimental",
+   "path": "crates/terraphim_mcp_server/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-10T16:47:33Z"
+  },
+  {
+   "repo": "yonk-labs/abe",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-19T14:19:23Z"
+  },
+  {
+   "repo": "pleme-io/zoekt-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-16T18:57:27Z"
+  },
+  {
+   "repo": "getspur/spur",
+   "path": "crates/spur-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-15T08:44:08Z"
+  },
+  {
+   "repo": "visioncortex/ui-automata",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-03T11:01:38Z"
+  },
+  {
+   "repo": "ZSeven-W/openpencil",
+   "path": "crates/op-host-desktop/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-17T10:51:46Z"
+  },
+  {
+   "repo": "anomalyco/terminal-control",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-30T03:10:16Z"
+  },
+  {
+   "repo": "swedishembedded/sven",
+   "path": "crates/sven-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-10T21:53:34Z"
+  },
+  {
+   "repo": "guacsec/trustify-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-06-09T15:58:16Z"
+  },
+  {
+   "repo": "Loctree/loctree-lsp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-05T21:06:06Z"
+  },
+  {
+   "repo": "FutureMLS-Lab/OSCAR",
+   "path": "sglang-dump-qkv/sgl-model-gateway/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-19T10:02:36Z"
+  },
+  {
+   "repo": "source-inc/gents",
+   "path": "crates/gents-cli/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-08T22:19:17Z"
+  },
+  {
+   "repo": "kosolabs/koso",
+   "path": "backend/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2024-07-16T00:06:53Z"
+  },
+  {
+   "repo": "nex-agi/sglang",
+   "path": "sgl-model-gateway/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-04T03:40:07Z"
+  },
+  {
+   "repo": "AzisabaNetwork/Graph",
+   "path": "server/app/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-10T01:10:57Z"
+  },
+  {
+   "repo": "soquel-dev/soquel",
+   "path": "crates/core/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-28T22:53:29Z"
+  },
+  {
+   "repo": "palekiwi-labs/cast",
+   "path": "crates/cast-mcp-client/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-16T08:12:15Z"
+  },
+  {
+   "repo": "TritonDataCenter/pkgsrc-wip",
+   "path": "codex/patches/patch-Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2012-03-30T10:15:38Z"
+  },
+  {
+   "repo": "blprnt-ai/blprnt",
+   "path": "backend/crates/adapters/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-14T17:04:48Z"
+  },
+  {
+   "repo": "winboat-org/helios",
+   "path": "tools/win-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-08T10:49:37Z"
+  },
+  {
+   "repo": "ironplc/ironplc",
+   "path": "compiler/mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2022-08-21T01:51:54Z"
+  },
+  {
+   "repo": "DrugClaw/DrugClaw",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-10T08:48:51Z"
+  },
+  {
+   "repo": "codemod/codemod",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2024-01-26T11:30:00Z"
+  },
+  {
+   "repo": "cyrup-ai/cyrup",
+   "path": "crates/cyrup-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-28T18:43:47Z"
+  },
+  {
+   "repo": "modelcontextprotocol/mcpb",
+   "path": "examples/calculator-rust/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-06-26T00:15:05Z"
+  },
+  {
+   "repo": "symposium-dev/rhaicp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-06T02:12:02Z"
+  },
+  {
+   "repo": "Bedrock-Dynamics/roz-oss",
+   "path": "crates/roz-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-27T17:30:15Z"
+  },
+  {
+   "repo": "rustkit-ai/semtree",
+   "path": "crates/semtree-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-17T17:32:54Z"
+  },
+  {
+   "repo": "wheelhorsedev/arthropod",
+   "path": "crates/arthropod-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-17T23:29:25Z"
+  },
+  {
+   "repo": "flowaicom/flowai-harness",
+   "path": "crates/agent-fw-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-18T16:16:39Z"
+  },
+  {
+   "repo": "BMC-INC/Iron-mem",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-20T02:00:14Z"
+  },
+  {
+   "repo": "githubnext/ado-aw",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-04T18:53:27Z"
+  },
+  {
+   "repo": "cyrup-ai/cyrup-chat",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-10-28T13:16:57Z"
+  },
+  {
+   "repo": "Interchouette-ITC/evaluator",
+   "path": "rust/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2022-10-31T20:14:36Z"
+  },
+  {
+   "repo": "kubemq-io/kubemq-mcp",
+   "path": "examples/rust/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-06T06:28:01Z"
+  },
+  {
+   "repo": "toolprint/claude-task",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-06-27T04:33:15Z"
+  },
+  {
+   "repo": "vectora-foundry/native-devtools-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-14T09:19:53Z"
+  },
+  {
+   "repo": "DF3NDR/paladin-dev-env",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-11-02T16:08:18Z"
+  },
+  {
+   "repo": "Carasent-ASMA/asma-rs-kontor",
+   "path": "crates/kontor-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-09T13:05:21Z"
+  },
+  {
+   "repo": "BrokkAi/bifrost",
+   "path": "crates/bifrost-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-14T13:07:48Z"
+  },
+  {
+   "repo": "shuttle-hq/mcp-sse",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-10-13T15:27:19Z"
+  },
+  {
+   "repo": "linkerdog/rara",
+   "path": "crates/rara-mcp-client/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-09T16:27:59Z"
+  },
+  {
+   "repo": "swarm-apps/SwarmDrop",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-30T08:49:13Z"
+  },
+  {
+   "repo": "portofcontext/agent-voyager-project",
+   "path": "agents/avp-goose/rust/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-04-02T12:04:28Z"
+  },
+  {
+   "repo": "RustUse/mcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-26T04:41:02Z"
+  },
+  {
+   "repo": "intendant-dev/Intendant",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-02T14:40:34Z"
+  },
+  {
+   "repo": "senara-solutions/mika",
+   "path": "crates/mika-agent/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-23T10:26:11Z"
+  },
+  {
+   "repo": "OlsonSoftware/ministr",
+   "path": "ministr-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-23T06:39:59Z"
+  },
+  {
+   "repo": "memextech/ht-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-06-10T18:32:03Z"
+  },
+  {
+   "repo": "42futures/firm-remote-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-07T12:36:43Z"
+  },
+  {
+   "repo": "unfault/unlost",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-26T13:30:26Z"
+  },
+  {
+   "repo": "microsoft/agent-governance-toolkit",
+   "path": "policy-engine/integrations/mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-02T22:11:47Z"
+  },
+  {
+   "repo": "stormlightlabs/xngmcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-17T14:10:03Z"
+  },
+  {
+   "repo": "block/builderbot",
+   "path": "apps/staged/src-tauri/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-04T18:19:24Z"
+  },
+  {
+   "repo": "saorsa-labs/tic-tac-toe",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-22T07:37:32Z"
+  },
+  {
+   "repo": "starroyhq/agentkib",
+   "path": "crates/agentkib-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-13T11:20:22Z"
+  },
+  {
+   "repo": "Etolith/perseval",
+   "path": "crates/perseval-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-16T10:09:54Z"
+  },
+  {
+   "repo": "metacontract/mc-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-04-10T04:33:07Z"
+  },
+  {
+   "repo": "contextbridge/aether",
+   "path": "crates/acp-utils/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-11-04T18:51:26Z"
+  },
+  {
+   "repo": "diodeinc/codemoder",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-07T20:45:59Z"
+  },
+  {
+   "repo": "auths-dev/auths",
+   "path": "crates/auths-mcp-gateway/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-01T12:27:33Z"
+  },
+  {
+   "repo": "Skyvern-AI/rustwright",
+   "path": "mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-07T16:00:40Z"
+  },
+  {
+   "repo": "stormlightlabs/stormbuffer",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-06T03:25:35Z"
+  },
+  {
+   "repo": "labiium/skills",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-01-13T02:33:38Z"
+  },
+  {
+   "repo": "essential-contributions/spec-forest",
+   "path": "crates/spec-forest/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-12T03:19:12Z"
+  },
+  {
+   "repo": "bearcove/dodeca",
+   "path": "libs/pikru/crates/pikru-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-12-01T15:21:29Z"
+  },
+  {
+   "repo": "praxec/praxec",
+   "path": "crates/praxec-cockpit-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-02T13:22:53Z"
+  },
+  {
+   "repo": "RabbitAI-Lab/RabbitPost",
+   "path": "apps/runner/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-29T14:10:16Z"
+  },
+  {
+   "repo": "qernelkit/qgc",
+   "path": "agent/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-08-20T15:29:47Z"
+  },
+  {
+   "repo": "cats-of-the-world/boitata",
+   "path": "crates/boitata-core/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-24T06:47:26Z"
+  },
+  {
+   "repo": "metalbear-co/sandcastle",
+   "path": "crates/sandcastle/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-16T08:16:22Z"
+  },
+  {
+   "repo": "ConaryLabs/Conary",
+   "path": "crates/conary-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-11-14T19:15:54Z"
+  },
+  {
+   "repo": "screenpipe/eventkit-rs",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-08-07T14:17:58Z"
+  },
+  {
+   "repo": "kano-lab/lab-resource-manager",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-10-24T16:15:43Z"
+  },
+  {
+   "repo": "dobjlabs/digital-objects-network",
+   "path": "interfaces/mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-12T20:05:04Z"
+  },
+  {
+   "repo": "RightNow-AI/openfang",
+   "path": "crates/openfang-runtime/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-24T23:12:38Z"
+  },
+  {
+   "repo": "bemindlabs/bwoc-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-06-09T04:55:12Z"
+  },
+  {
+   "repo": "menot-you/n-memory",
+   "path": "Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-07-20T11:39:58Z"
+  },
+  {
+   "repo": "enfinyte/memory",
+   "path": "crates/umem_mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-06-11T03:19:52Z"
+  },
+  {
+   "repo": "openpup/openpup",
+   "path": "core/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-03-10T06:27:05Z"
+  },
+  {
+   "repo": "ic3software/vta-build-pipeline",
+   "path": "vta-mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-02-26T03:26:20Z"
+  },
+  {
+   "repo": "clearsummit/vibe-kanban",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2026-05-19T18:41:45Z"
+  },
+  {
+   "repo": "openinterpreter/openinterpreter",
+   "path": "codex-rs/rmcp-client/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2023-07-14T07:10:44Z"
+  },
+  {
+   "repo": "nearai/chat-api",
+   "path": "crates/services/Cargo.toml",
+   "owner_type": "Organization",
+   "created": "2025-10-10T16:24:26Z"
+  },
+  {
+   "repo": "KooshaPari/phenotype-tooling",
+   "path": "crates/elicitate/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-24T19:42:28Z"
+  },
+  {
+   "repo": "kensave/roberto-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-09-28T08:07:45Z"
+  },
+  {
+   "repo": "YYC-Cube/YYC3-Knowledge-Base",
+   "path": "YYC3-E/goose/crates/goose-test-support/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-23T13:59:13Z"
+  },
+  {
+   "repo": "ksaritek/rust-local-rag",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-06-11T00:04:32Z"
+  },
+  {
+   "repo": "maslowalex/toy-postgresql-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-06-17T10:40:15Z"
+  },
+  {
+   "repo": "gregoryraymond/mcp-servers",
+   "path": "mcp-shell/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-10T11:43:09Z"
+  },
+  {
+   "repo": "PeopleWonder/wylde",
+   "path": "rust/crates/wylde-extension-bridge/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-01T02:09:06Z"
+  },
+  {
+   "repo": "jinto/kittypaw_rust",
+   "path": "crates/kittypaw-cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-27T16:06:50Z"
+  },
+  {
+   "repo": "HerbertGao/x_likes_downloader",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-25T06:55:14Z"
+  },
+  {
+   "repo": "cxyfer/oj-api-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-20T16:10:53Z"
+  },
+  {
+   "repo": "idoalit/slims-api",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2017-01-05T08:15:46Z"
+  },
+  {
+   "repo": "naviNBRuas/SingleCLI",
+   "path": "crates/single-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-11T17:50:30Z"
+  },
+  {
+   "repo": "velesar/alpha-zero-review-",
+   "path": "codegraph-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-16T10:12:10Z"
+  },
+  {
+   "repo": "hanelalo/browser-bridge",
+   "path": "bridge-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-02T00:34:09Z"
+  },
+  {
+   "repo": "Thundercok/crawler-that-does-pratically-anything",
+   "path": "spider/spider_mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-04-04T16:44:57Z"
+  },
+  {
+   "repo": "Kuromesi/Glorion",
+   "path": "backend/crates/mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-06T09:28:11Z"
+  },
+  {
+   "repo": "Ozy-Viking/dnsync",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-15T07:07:42Z"
+  },
+  {
+   "repo": "m-m-n/rust_db_mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-09-24T13:28:16Z"
+  },
+  {
+   "repo": "andagni/autocad-mcp",
+   "path": "crates/autocad-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-29T10:28:16Z"
+  },
+  {
+   "repo": "braincore/hai-cli",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-03-18T06:10:01Z"
+  },
+  {
+   "repo": "FF-TEC/NeuronPrompter",
+   "path": "crates/neuronprompter-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-25T13:00:44Z"
+  },
+  {
+   "repo": "catalandres/rebotica",
+   "path": "crates/rebotica-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-13T11:38:56Z"
+  },
+  {
+   "repo": "NathaelB/sonar",
+   "path": "apps/mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-18T17:53:11Z"
+  },
+  {
+   "repo": "khuedoan/knowledge-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-21T11:06:50Z"
+  },
+  {
+   "repo": "Flupinochan/mcp-sample",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-02T05:19:03Z"
+  },
+  {
+   "repo": "tarotene/telepath",
+   "path": "tools/telepath/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-14T16:05:56Z"
+  },
+  {
+   "repo": "andrewrabert/noted",
+   "path": "crates/server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-03T23:36:05Z"
+  },
+  {
+   "repo": "dnf0/eider",
+   "path": "mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-15T10:45:50Z"
+  },
+  {
+   "repo": "wfnuser/cowiki",
+   "path": "cowiki-mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-19T14:57:36Z"
+  },
+  {
+   "repo": "dmux/aws-dynamodb-search-vector-rust-example",
+   "path": "crates/agent-memory-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-10T23:35:40Z"
+  },
+  {
+   "repo": "EDToaster/hive",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-08T09:24:42Z"
+  },
+  {
+   "repo": "mankinskin/feedback",
+   "path": "crates/feedback-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-25T14:08:52Z"
+  },
+  {
+   "repo": "Glitched/courier",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-29T23:14:00Z"
+  },
+  {
+   "repo": "stephenlacy/mcp-proxy",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-04-15T06:25:21Z"
+  },
+  {
+   "repo": "sco3/mcp-actix-hello",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-01T16:05:18Z"
+  },
+  {
+   "repo": "salamaashoush/ferridriver",
+   "path": "crates/ferridriver-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-20T23:52:37Z"
+  },
+  {
+   "repo": "saltyming/slate-agent-kit",
+   "path": "shared/mcp-servers/aside/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-03T10:49:22Z"
+  },
+  {
+   "repo": "pocketkk/openwarp",
+   "path": "crates/ai/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-29T18:15:53Z"
+  },
+  {
+   "repo": "DarkHighness/nanoclaw",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-26T08:45:35Z"
+  },
+  {
+   "repo": "IAFahim/gork-rtk",
+   "path": "crates/codegen/xai-grok-shell/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-17T14:58:25Z"
+  },
+  {
+   "repo": "jasonish/henri",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-11T05:19:16Z"
+  },
+  {
+   "repo": "sunilgentyala/AegisForge-MCP",
+   "path": "mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-26T03:41:22Z"
+  },
+  {
+   "repo": "conradludgate/cl-lance-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-12T09:44:46Z"
+  },
+  {
+   "repo": "AdamIsrael/mcp-searxng",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-03T01:58:23Z"
+  },
+  {
+   "repo": "corsur/swarm-tips",
+   "path": "services/mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-02T07:36:31Z"
+  },
+  {
+   "repo": "elrepositoriodeloabsurdo/IA-BRO-",
+   "path": "crates/openfang-runtime/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-24T02:55:01Z"
+  },
+  {
+   "repo": "betyourluck/Fuseforks",
+   "path": "crates/fuseforks-core/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-30T10:40:19Z"
+  },
+  {
+   "repo": "dijdzv/egui-mcp",
+   "path": "crates/egui-mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-20T14:42:34Z"
+  },
+  {
+   "repo": "knobo/aura-daw",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-12T21:05:22Z"
+  },
+  {
+   "repo": "KooshaPari/PhenoObservability",
+   "path": "crates/phenotype-mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-05T07:05:16Z"
+  },
+  {
+   "repo": "qhkm/bayarcash-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-25T12:39:37Z"
+  },
+  {
+   "repo": "Shra1V32/grok-build",
+   "path": "crates/codegen/xai-grok-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-16T00:45:54Z"
+  },
+  {
+   "repo": "melihbirim/pipetable",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-18T10:21:36Z"
+  },
+  {
+   "repo": "KagChi/mcp-servers",
+   "path": "crates/graph-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-17T15:50:08Z"
+  },
+  {
+   "repo": "Elitelord/TaskManagerPlus",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-04T06:22:18Z"
+  },
+  {
+   "repo": "mickeyl/mcanbus",
+   "path": "socketcan-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-08T12:57:02Z"
+  },
+  {
+   "repo": "getappz/agentflare",
+   "path": "crates/gateway-registry/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-05T16:43:58Z"
+  },
+  {
+   "repo": "superisaac/littlegraph",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-20T03:29:02Z"
+  },
+  {
+   "repo": "sinhong2011/openclaw-skill-miniflux",
+   "path": "mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-27T02:22:02Z"
+  },
+  {
+   "repo": "psycoxer/Stellarium-MCP-Server",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-12T12:49:41Z"
+  },
+  {
+   "repo": "davidparry/tdd-bdd-agentic",
+   "path": "cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-07T18:08:59Z"
+  },
+  {
+   "repo": "loopy898/CyberWeaver",
+   "path": "src-tauri/crates/cw-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-12T05:51:03Z"
+  },
+  {
+   "repo": "amine123max/Monolith",
+   "path": "crates/monolith-tools/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-12T06:01:08Z"
+  },
+  {
+   "repo": "Owen1B/aster",
+   "path": "codex-rs/tools/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-15T08:01:37Z"
+  },
+  {
+   "repo": "clearclown/tirami",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-31T03:44:46Z"
+  },
+  {
+   "repo": "samedsemihs/costcut-ai",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-11T20:43:54Z"
+  },
+  {
+   "repo": "lgalabru/televisor",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-16T17:18:12Z"
+  },
+  {
+   "repo": "vecnode/supercollider-mcp",
+   "path": "rust-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-18T11:09:40Z"
+  },
+  {
+   "repo": "aybinv7/capubridge",
+   "path": "apps/desktop/src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-02T22:59:31Z"
+  },
+  {
+   "repo": "ryo2357/verify-mcp-sdk",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-08-19T02:04:17Z"
+  },
+  {
+   "repo": "Pacman-Clyde/lore",
+   "path": "crates/lore-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-12T03:05:11Z"
+  },
+  {
+   "repo": "vladNed/agent-greenroom",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-25T16:35:03Z"
+  },
+  {
+   "repo": "46ki75/prompts",
+   "path": "crates/mcp-prompts-46ki75/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-04T22:53:33Z"
+  },
+  {
+   "repo": "xutianyi1999/noema",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-01T15:15:08Z"
+  },
+  {
+   "repo": "KooshaPari/PlayCua",
+   "path": "native/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-25T14:21:07Z"
+  },
+  {
+   "repo": "matte250/glucouse-tracker",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-25T07:23:12Z"
+  },
+  {
+   "repo": "mozi1924/AgentJax",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-23T16:02:35Z"
+  },
+  {
+   "repo": "HermesSilva/LocalDB-MCP",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-01T17:35:27Z"
+  },
+  {
+   "repo": "Develata/wzry-search-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-13T08:03:10Z"
+  },
+  {
+   "repo": "burgebj/fabrodarksoftware",
+   "path": "lib/crates/fabro-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-12T17:09:45Z"
+  },
+  {
+   "repo": "athola/skrills",
+   "path": "crates/subagents/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-24T17:23:54Z"
+  },
+  {
+   "repo": "amagi88/rust-rag",
+   "path": "apps/rag-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-19T05:10:52Z"
+  },
+  {
+   "repo": "zjfls/TauriAI",
+   "path": "tauri-ai/src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-26T07:38:42Z"
+  },
+  {
+   "repo": "sd2k/conch",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-22T07:35:54Z"
+  },
+  {
+   "repo": "mambisi/pocopine",
+   "path": "crates/agenkitty/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-18T21:57:57Z"
+  },
+  {
+   "repo": "sjchoi1/sglang_test",
+   "path": "sgl-model-gateway/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-17T11:36:08Z"
+  },
+  {
+   "repo": "qarnet/serial-mcp",
+   "path": "compat/rmcp-1-client/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-23T07:53:36Z"
+  },
+  {
+   "repo": "BiliqisO/ai-agent-rig-tauri",
+   "path": "ai-agent-tauri/src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-09-30T21:04:14Z"
+  },
+  {
+   "repo": "AbdumajidRashidov/mycop",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-14T19:59:45Z"
+  },
+  {
+   "repo": "LighghtEeloo/sirno",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-30T22:23:03Z"
+  },
+  {
+   "repo": "acartine/knots",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-23T07:29:57Z"
+  },
+  {
+   "repo": "abhi-singhs/agent-voice-app",
+   "path": "crates/mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-01T07:58:11Z"
+  },
+  {
+   "repo": "killop/codedb-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-22T08:54:31Z"
+  },
+  {
+   "repo": "MirageLyu/codebase-indexer",
+   "path": "src/bins/indexer-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-12T09:44:17Z"
+  },
+  {
+   "repo": "dghilardi/lekton",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-09T19:44:06Z"
+  },
+  {
+   "repo": "guercheLE/octopus-mcp-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-06T17:00:04Z"
+  },
+  {
+   "repo": "fdionisi/evals",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-05-29T10:59:44Z"
+  },
+  {
+   "repo": "wulawulu/learn-claude-code-rs",
+   "path": "s19_mcp_plugin/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-08T12:45:05Z"
+  },
+  {
+   "repo": "wendal/luatos-cli",
+   "path": "crates/luatos-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-11T01:46:17Z"
+  },
+  {
+   "repo": "dmvk/docsrs-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-08T13:14:43Z"
+  },
+  {
+   "repo": "lichman0405/lightpdf",
+   "path": "pdfops-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-13T05:37:40Z"
+  },
+  {
+   "repo": "mplusm/thinkinglanguage",
+   "path": "crates/tl-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-25T17:17:38Z"
+  },
+  {
+   "repo": "vnnyx/spotify-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-15T13:12:06Z"
+  },
+  {
+   "repo": "iamngoni/heimdall",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-09T07:42:48Z"
+  },
+  {
+   "repo": "mingyuchoo/study-series-for-rust",
+   "path": "AI/rust-ai-bridge/crates/bridge-cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2020-09-08T06:07:41Z"
+  },
+  {
+   "repo": "vinniefranco/suspenders",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-11T19:04:44Z"
+  },
+  {
+   "repo": "fcn06/swarm_commons",
+   "path": "llm_api/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-23T08:28:57Z"
+  },
+  {
+   "repo": "destenson/gstreamer-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-08-24T04:32:40Z"
+  },
+  {
+   "repo": "zajalist/shadereye",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-17T05:06:42Z"
+  },
+  {
+   "repo": "JoaaoVerona/runfile",
+   "path": "crates/runfile-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-25T03:08:28Z"
+  },
+  {
+   "repo": "cyhfvg/watcher",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-16T09:18:20Z"
+  },
+  {
+   "repo": "kurosiko/modile",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-23T10:38:01Z"
+  },
+  {
+   "repo": "Athelesh-7G/AtheCode",
+   "path": "crates/codegen/xai-grok-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-17T05:13:43Z"
+  },
+  {
+   "repo": "Fullstop000/ignis",
+   "path": "ignis/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-23T06:56:05Z"
+  },
+  {
+   "repo": "igobypenn/rpg-rust",
+   "path": "rpg-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-02T23:09:39Z"
+  },
+  {
+   "repo": "xavierchen2021/aikanban",
+   "path": "backend/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-29T08:47:48Z"
+  },
+  {
+   "repo": "maestrojeong/cua-rs-mcp",
+   "path": "crates/cua-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-13T03:49:11Z"
+  },
+  {
+   "repo": "Warashi/git-mile",
+   "path": "crates/git-mile/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-10-24T13:54:41Z"
+  },
+  {
+   "repo": "Rubentxu/CogniCode",
+   "path": "crates/cognicode-runtime/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-14T15:23:27Z"
+  },
+  {
+   "repo": "guitaripod/flyr",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-16T17:36:16Z"
+  },
+  {
+   "repo": "nilp0inter/jetkvm_mcp_server",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-10-17T22:19:28Z"
+  },
+  {
+   "repo": "mrmoe28/buzz-reloaded",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-03T03:23:49Z"
+  },
+  {
+   "repo": "rabrooks/kvault",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-05T22:18:02Z"
+  },
+  {
+   "repo": "brentm5/rust-mcp-example",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-02T17:26:41Z"
+  },
+  {
+   "repo": "vsndev3/llm-mem",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-22T13:13:51Z"
+  },
+  {
+   "repo": "weironz/mica",
+   "path": "crates/cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-02T15:55:51Z"
+  },
+  {
+   "repo": "NickMele/armada",
+   "path": "crates/helm/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-10T01:59:08Z"
+  },
+  {
+   "repo": "Evanion/sigil",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-01T12:26:21Z"
+  },
+  {
+   "repo": "citadelgrad/nixon-note",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-03T06:54:04Z"
+  },
+  {
+   "repo": "cn0ss/loopbox",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-21T19:09:33Z"
+  },
+  {
+   "repo": "nightandwknd/asset-tap",
+   "path": "cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-11T02:32:05Z"
+  },
+  {
+   "repo": "syphar/docs-rs-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-13T00:34:26Z"
+  },
+  {
+   "repo": "MakerViking/mimir",
+   "path": "crates/mimir-cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-12T02:41:37Z"
+  },
+  {
+   "repo": "hierynomus/rancher-mcp-proxy",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-12T21:35:46Z"
+  },
+  {
+   "repo": "thesimplekid/fiach",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-12T20:05:11Z"
+  },
+  {
+   "repo": "PatrickRuddiman/scrye",
+   "path": "crates/scryd-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-08T15:55:06Z"
+  },
+  {
+   "repo": "fotoetienne/gru",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-01T00:50:05Z"
+  },
+  {
+   "repo": "caiocdcs/comboios-rs",
+   "path": "comboios-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-06-13T20:41:27Z"
+  },
+  {
+   "repo": "tomtom215/mcp-conformance",
+   "path": "crates/mcp-reference-host/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-09T18:48:17Z"
+  },
+  {
+   "repo": "douglance/incurs",
+   "path": "crates/incurs-codemode-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-22T13:09:11Z"
+  },
+  {
+   "repo": "Cheng-Kai-Ming/rust-todolist-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-05-19T14:14:17Z"
+  },
+  {
+   "repo": "cmsd2/sndlab",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-13T20:14:19Z"
+  },
+  {
+   "repo": "hannnnn-l/luatos-cli",
+   "path": "crates/luatos-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-05T04:23:01Z"
+  },
+  {
+   "repo": "esorae/ccsight",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-06T13:26:07Z"
+  },
+  {
+   "repo": "Sparrow2025/mysql-mcp-rust",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-04T09:17:55Z"
+  },
+  {
+   "repo": "cobnett3/MuPDF-rs-MCP-Server",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-31T18:52:29Z"
+  },
+  {
+   "repo": "Vortextbloons/veyra",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-16T02:45:09Z"
+  },
+  {
+   "repo": "timrogers/formanator-rust",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-18T16:21:21Z"
+  },
+  {
+   "repo": "zhuzilin/sgl-router",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-06T09:09:55Z"
+  },
+  {
+   "repo": "B0tis/al-symbols-mcp-rust",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-12T08:45:15Z"
+  },
+  {
+   "repo": "Friedemann12/rusty-obsidian-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-20T11:29:16Z"
+  },
+  {
+   "repo": "st-all-one/sniff-css",
+   "path": "crates/sniff-css-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-11T11:16:50Z"
+  },
+  {
+   "repo": "ronanyeah/elm-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-05-29T22:09:40Z"
+  },
+  {
+   "repo": "damione1/souffle",
+   "path": "src-tauri/souffle-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-18T02:15:21Z"
+  },
+  {
+   "repo": "zluo01/Paloma",
+   "path": "core/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-31T03:46:57Z"
+  },
+  {
+   "repo": "crutcher/palace_whiteroom",
+   "path": "mcp/codemap/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-24T00:04:12Z"
+  },
+  {
+   "repo": "tsutoringo/nekonote",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-29T17:01:14Z"
+  },
+  {
+   "repo": "RCasatta/raggy",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-21T18:54:04Z"
+  },
+  {
+   "repo": "v-t-r-gg/Moraine",
+   "path": "crates/moraine-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-17T23:58:40Z"
+  },
+  {
+   "repo": "TheForgivenOne/reverbdb",
+   "path": "reverb-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-29T00:26:08Z"
+  },
+  {
+   "repo": "jamon8888/hacienda-engine",
+   "path": "hacienda-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-27T22:30:54Z"
+  },
+  {
+   "repo": "katsuhirohonda/jira-mcp-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-03T04:01:37Z"
+  },
+  {
+   "repo": "streamer45/streamkit",
+   "path": "apps/skit/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-25T17:20:28Z"
+  },
+  {
+   "repo": "sebetc4/mcp-local-music-storage",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-18T14:31:38Z"
+  },
+  {
+   "repo": "LighghtEeloo/multorum",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-04T18:41:21Z"
+  },
+  {
+   "repo": "caniko/fragpipe",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-28T14:08:27Z"
+  },
+  {
+   "repo": "IA-PieroCV/cc_matrix_channel",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-21T05:46:53Z"
+  },
+  {
+   "repo": "Kr00lIX/gettext_mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-08T16:04:12Z"
+  },
+  {
+   "repo": "calimero1337/obsidian-mcp-server",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-02T17:15:24Z"
+  },
+  {
+   "repo": "BrosnanYuen/openmcpgdb",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-04T05:39:17Z"
+  },
+  {
+   "repo": "canxin121/agena",
+   "path": "crates/agena-mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-21T18:19:00Z"
+  },
+  {
+   "repo": "vivienhenz24/bound-datagen",
+   "path": "codex-rs/exec-server/tests/common/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-03T17:14:32Z"
+  },
+  {
+   "repo": "noclue/vim_rs",
+   "path": "mcp/server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-03-16T11:55:04Z"
+  },
+  {
+   "repo": "cylewitruk/rust-mcp",
+   "path": "crates/rust-mcp-types/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-13T22:09:59Z"
+  },
+  {
+   "repo": "Jw-23/google_scholar_mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-11T17:02:17Z"
+  },
+  {
+   "repo": "ThyDrSlen/portus",
+   "path": "crates/portus-cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-21T18:44:47Z"
+  },
+  {
+   "repo": "brijr/iris",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-14T22:45:01Z"
+  },
+  {
+   "repo": "yingkitw/ppt-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-26T14:16:17Z"
+  },
+  {
+   "repo": "brilyyy/poneglyph",
+   "path": "crates/poneglyph-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-10T00:13:32Z"
+  },
+  {
+   "repo": "schiste/SP42",
+   "path": "crates/sp42-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-25T12:55:21Z"
+  },
+  {
+   "repo": "six5536/superdev",
+   "path": "crates/lib/superdev-core/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-11T08:06:56Z"
+  },
+  {
+   "repo": "liamstar97/doctrack",
+   "path": "crates/dt-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-12T23:35:29Z"
+  },
+  {
+   "repo": "1HelloMan1/warp-cn",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-26T12:19:06Z"
+  },
+  {
+   "repo": "asmuelle/cargo-context",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-22T09:26:58Z"
+  },
+  {
+   "repo": "vanbe/tapo",
+   "path": "tapo-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-30T19:07:07Z"
+  },
+  {
+   "repo": "JarrarDoga/warposs",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-26T10:00:30Z"
+  },
+  {
+   "repo": "0x0177b11f/memory-mcp-server",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-27T02:02:09Z"
+  },
+  {
+   "repo": "KayanoLiam/ContextX",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-01T13:42:14Z"
+  },
+  {
+   "repo": "cyhfvg/brute",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-14T03:30:04Z"
+  },
+  {
+   "repo": "leynos/vtcode",
+   "path": "crates/common/vtcode-utility-tool-specs/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-09T22:25:10Z"
+  },
+  {
+   "repo": "libertywing/FlashMemory-Deepseek-V4",
+   "path": "sglang/sgl-model-gateway/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-07T00:56:27Z"
+  },
+  {
+   "repo": "vaporif/mcp-server-wezterm",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-10T06:03:48Z"
+  },
+  {
+   "repo": "foss-v/mcp-server-text-analyzer",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-05-10T08:09:43Z"
+  },
+  {
+   "repo": "mankinskin/session",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-25T14:09:00Z"
+  },
+  {
+   "repo": "crosssawyer/ezMIgrations",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-14T23:24:08Z"
+  },
+  {
+   "repo": "adairrr/cosmwasm-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-04-13T04:50:25Z"
+  },
+  {
+   "repo": "kamekamek/googlecalendar-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-10-14T10:43:46Z"
+  },
+  {
+   "repo": "Murzav/xcstrings-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-20T23:13:01Z"
+  },
+  {
+   "repo": "ronanyeah/sui-dev-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-06-03T02:11:45Z"
+  },
+  {
+   "repo": "sniner/filebridge",
+   "path": "filebridge-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-03T08:31:05Z"
+  },
+  {
+   "repo": "cpoder/wm-mcp-server",
+   "path": "mcp-server-rs/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-24T17:33:54Z"
+  },
+  {
+   "repo": "qxd-ljy/codex-goal-auto-retry-build",
+   "path": "codex-src/codex-rs/mcp-server/tests/common/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-29T02:12:08Z"
+  },
+  {
+   "repo": "havenicec/grok-build-third-party-compat",
+   "path": "crates/codegen/xai-grok-shell/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-04T07:48:23Z"
+  },
+  {
+   "repo": "algonacci/kamui",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-22T05:06:42Z"
+  },
+  {
+   "repo": "kingwingfly/rXiaoAiLLM",
+   "path": "rBrain/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-03-23T15:19:54Z"
+  },
+  {
+   "repo": "bkywksj/knowledge-base",
+   "path": "src-tauri/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-16T04:47:57Z"
+  },
+  {
+   "repo": "Citizen4our/arch-mcp-server",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-24T18:22:44Z"
+  },
+  {
+   "repo": "nedlane/m1-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-03T11:39:23Z"
+  },
+  {
+   "repo": "Lexa-B/ProseValidator",
+   "path": "\u672c\u4f53/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-19T17:18:49Z"
+  },
+  {
+   "repo": "aeswibon/chronicle",
+   "path": "crates/chronicle-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-30T16:13:11Z"
+  },
+  {
+   "repo": "foo-543674/fs-text-search-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-05-18T09:43:18Z"
+  },
+  {
+   "repo": "AndrewAltimit/template-repo",
+   "path": "infra/aws/rust-runtime/strands-tools/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-12T16:54:00Z"
+  },
+  {
+   "repo": "yazelin/mori-desktop",
+   "path": "crates/mori-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-06T19:17:01Z"
+  },
+  {
+   "repo": "sashee/dotfiles",
+   "path": "nix-utils/host-tools-mcp/crate/Cargo.toml",
+   "owner_type": "User",
+   "created": "2018-12-25T09:28:42Z"
+  },
+  {
+   "repo": "jeremyarde/hoverpane",
+   "path": "mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-03-12T17:36:24Z"
+  },
+  {
+   "repo": "OK-ALI/Orion",
+   "path": "references/nuclear-player-1.41.4/packages/player/src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-23T02:43:33Z"
+  },
+  {
+   "repo": "luan/dot-claude",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-14T03:49:23Z"
+  },
+  {
+   "repo": "paulnsorensen/hallouminate",
+   "path": "crates/hallouminate/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-07T06:39:08Z"
+  },
+  {
+   "repo": "cbxss/charles-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-26T23:03:30Z"
+  },
+  {
+   "repo": "Mik-pe/Katla",
+   "path": "katla_agent/Cargo.toml",
+   "owner_type": "User",
+   "created": "2019-12-26T20:52:23Z"
+  },
+  {
+   "repo": "us/crw",
+   "path": "crates/crw-browse/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-02T19:51:43Z"
+  },
+  {
+   "repo": "Happy-Boat/sglang-diffusion-latent-parallel",
+   "path": "sgl-model-gateway/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-19T10:14:54Z"
+  },
+  {
+   "repo": "wess/synapse",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-28T16:06:57Z"
+  },
+  {
+   "repo": "mizunomi32/websearch-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-13T13:11:15Z"
+  },
+  {
+   "repo": "PhantomMatthew/OpenManusZero",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-19T12:45:00Z"
+  },
+  {
+   "repo": "wkirschbaum/steve",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-16T13:30:36Z"
+  },
+  {
+   "repo": "karashiiro/cli-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-02T08:01:52Z"
+  },
+  {
+   "repo": "ibifrost/VLCache",
+   "path": "sgl-router/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-07T04:02:50Z"
+  },
+  {
+   "repo": "suxiaoshao/gpui",
+   "path": "tools/mcp-auth-test-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2024-06-11T13:52:41Z"
+  },
+  {
+   "repo": "um-mepel/circuit-scope-verilog",
+   "path": "src-tauri/verilog-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-11T05:03:07Z"
+  },
+  {
+   "repo": "moabualruz/rice-guard",
+   "path": "crates/server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-13T02:33:49Z"
+  },
+  {
+   "repo": "Nyzeep/Halo-Studio",
+   "path": "product/Halo Studio/vendor/cargo/rmcp-macros/Cargo.toml.orig",
+   "owner_type": "User",
+   "created": "2026-07-21T03:52:07Z"
+  },
+  {
+   "repo": "supostat/rft-cli",
+   "path": "cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-16T15:41:00Z"
+  },
+  {
+   "repo": "atcol/glue-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-04-27T10:49:09Z"
+  },
+  {
+   "repo": "julesklord/bucket-agent",
+   "path": "crates/codegen/bucket-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-17T10:23:03Z"
+  },
+  {
+   "repo": "MartinKuzma/vivarium",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-10T12:22:45Z"
+  },
+  {
+   "repo": "thrashr888/alchemy",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-29T17:25:41Z"
+  },
+  {
+   "repo": "ChizhongWang/codex-latex",
+   "path": "codex-rs/rmcp-client/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-13T15:01:10Z"
+  },
+  {
+   "repo": "modbender/skill-library-mcp",
+   "path": "data/fast-browser-use/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-14T08:11:50Z"
+  },
+  {
+   "repo": "dqh147258/Sirix",
+   "path": "desktop-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-11T13:20:18Z"
+  },
+  {
+   "repo": "luofang34/ace",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-24T02:15:57Z"
+  },
+  {
+   "repo": "dqj1998/MCPOrb",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-17T11:20:18Z"
+  },
+  {
+   "repo": "stargaoyc/minicoding-rs",
+   "path": "crates/minicoding-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-24T13:08:31Z"
+  },
+  {
+   "repo": "snaven10/DevCtxEngine",
+   "path": "crates/devctx-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-13T05:10:10Z"
+  },
+  {
+   "repo": "thestarharsh/instagrep",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-02T13:59:16Z"
+  },
+  {
+   "repo": "DanOlson/studious_maximus",
+   "path": "crates/mcp_server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-05-04T23:15:33Z"
+  },
+  {
+   "repo": "VilfredSikker/easy-review",
+   "path": "crates/er-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-24T12:21:52Z"
+  },
+  {
+   "repo": "guercheLE/confluence-dc-mcp-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-05T14:14:02Z"
+  },
+  {
+   "repo": "tsouth89/ceiling",
+   "path": "rust/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-12T23:56:14Z"
+  },
+  {
+   "repo": "HoodieYlya13/confluence-spotlight",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-19T06:41:37Z"
+  },
+  {
+   "repo": "soilSpoon/opengoose",
+   "path": "crates/opengoose-rig/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-04T09:07:05Z"
+  },
+  {
+   "repo": "KyleCo76/aletheia",
+   "path": "aletheia-v2/crates/aletheia-v2/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-10T04:35:11Z"
+  },
+  {
+   "repo": "jmikedupont2/copilot_mcp_tool",
+   "path": "tool_server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-28T18:42:55Z"
+  },
+  {
+   "repo": "JiaJunDeng5930/Selvedge",
+   "path": "crates/harness/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-19T04:31:05Z"
+  },
+  {
+   "repo": "zachswift615/agent-power-tools",
+   "path": "powertools-cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-10-07T16:50:52Z"
+  },
+  {
+   "repo": "unimcp/mcpbench",
+   "path": "matrix/templates/rust/client/e2e/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-06-21T18:27:40Z"
+  },
+  {
+   "repo": "davidlandais/ovh-api-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-11T21:16:53Z"
+  },
+  {
+   "repo": "film42/wled-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-03T02:52:08Z"
+  },
+  {
+   "repo": "fajarhide/omni",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-15T03:38:04Z"
+  },
+  {
+   "repo": "zojeda/zagent",
+   "path": "crates/zagent-backend/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-21T21:22:45Z"
+  },
+  {
+   "repo": "valentynfaychuk/amadeus-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-13T14:58:54Z"
+  },
+  {
+   "repo": "lazhenyi/coderag",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-26T10:12:16Z"
+  },
+  {
+   "repo": "VidyaBodepudi/Redberry",
+   "path": "crates/redberry-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-13T21:05:39Z"
+  },
+  {
+   "repo": "philsippl/crate-indexer",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-13T14:19:06Z"
+  },
+  {
+   "repo": "CnsMaple/fish-coding-agent",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-26T01:55:19Z"
+  },
+  {
+   "repo": "cfcosta/lobster",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-12T17:08:30Z"
+  },
+  {
+   "repo": "hua0512/rust-srec",
+   "path": "rust-srec/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-03-18T07:50:34Z"
+  },
+  {
+   "repo": "webern/tiller-sync",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2022-10-22T17:16:03Z"
+  },
+  {
+   "repo": "Hyphonical/Filen-MCP",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-26T20:39:51Z"
+  },
+  {
+   "repo": "creynir/codebones",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-13T17:22:07Z"
+  },
+  {
+   "repo": "hrntsm/Squid-n",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-16T23:54:55Z"
+  },
+  {
+   "repo": "yanacuti1121/Yana-AI",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-17T00:35:59Z"
+  },
+  {
+   "repo": "kakilangit/aria",
+   "path": "aria-rs/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-09-17T14:07:09Z"
+  },
+  {
+   "repo": "leynos/dear-diary",
+   "path": "crates/dear-diary-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-01T15:48:33Z"
+  },
+  {
+   "repo": "vmg-dev/fff-swift",
+   "path": "Vendor/fff/crates/fff-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-01T19:05:14Z"
+  },
+  {
+   "repo": "jeetkhinde/Pilcrow",
+   "path": "tools/pilcrow-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-20T19:50:29Z"
+  },
+  {
+   "repo": "xjsongphy/AutoReportCLI",
+   "path": "autoreport-rs/vendor/codex/app-server-protocol/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-18T04:34:47Z"
+  },
+  {
+   "repo": "NekoRem/scylla-rs",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-23T22:15:13Z"
+  },
+  {
+   "repo": "kenhia/multae-viae",
+   "path": "crates/mv-cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-28T05:28:55Z"
+  },
+  {
+   "repo": "sandymac/myanonamouse-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-26T22:39:57Z"
+  },
+  {
+   "repo": "QD25565/AI-Foundation",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-10-08T15:27:47Z"
+  },
+  {
+   "repo": "gmars1/adocs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-10T16:09:05Z"
+  },
+  {
+   "repo": "chuanman2707/CapyInn",
+   "path": "mhm/src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-16T04:18:33Z"
+  },
+  {
+   "repo": "sco3/mcp-time-server-rust",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-01T21:34:35Z"
+  },
+  {
+   "repo": "barry-ran/QuickDesk",
+   "path": "quickdesk-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-16T09:09:27Z"
+  },
+  {
+   "repo": "hkd987/remix-agent-runtime",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-07T15:28:31Z"
+  },
+  {
+   "repo": "metalmon/glossa",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-29T01:19:22Z"
+  },
+  {
+   "repo": "deonmenezes/mantis-codex",
+   "path": "codex-rs/tools/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-06T17:41:08Z"
+  },
+  {
+   "repo": "biandayu/TrustAgent",
+   "path": "ai-chat-desktop/src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-08-08T07:12:51Z"
+  },
+  {
+   "repo": "nikolaypaskov/heddle",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-26T16:30:13Z"
+  },
+  {
+   "repo": "eric-tramel/arx",
+   "path": "crates/arx-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-01T02:39:54Z"
+  },
+  {
+   "repo": "cellfusion/zk-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-05T09:26:29Z"
+  },
+  {
+   "repo": "differs/ocrs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-19T13:04:40Z"
+  },
+  {
+   "repo": "kashyaprajharsh/medha-agent",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-26T19:16:41Z"
+  },
+  {
+   "repo": "zhufucdev/not-yet",
+   "path": "lib-common/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-26T09:44:57Z"
+  },
+  {
+   "repo": "giannisanni/pulsar",
+   "path": "crates/serve/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-13T04:08:14Z"
+  },
+  {
+   "repo": "ynishi/git-workflow-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-24T00:22:17Z"
+  },
+  {
+   "repo": "Skyline-9/pebble",
+   "path": "crates/pebble-cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-05T08:13:27Z"
+  },
+  {
+   "repo": "lollipopkit/sysinfo-api-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-25T10:07:00Z"
+  },
+  {
+   "repo": "roynalnaruto/openvm-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-10T10:29:40Z"
+  },
+  {
+   "repo": "bnomei/raymon",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-04T23:28:57Z"
+  },
+  {
+   "repo": "tenequm/pond",
+   "path": "packages/pond/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-07T11:25:10Z"
+  },
+  {
+   "repo": "trunksio/cogs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-12T19:05:00Z"
+  },
+  {
+   "repo": "mxsm/rocketmq-rust",
+   "path": "rocketmq-sre/crates/rocketmq-sre-connector/Cargo.toml",
+   "owner_type": "User",
+   "created": "2023-12-13T09:39:05Z"
+  },
+  {
+   "repo": "koshea/cowboy",
+   "path": "crates/cowboy-cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-17T00:49:34Z"
+  },
+  {
+   "repo": "Aromatic05/tmux-guard",
+   "path": "crates/tmux-guard-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-27T11:05:04Z"
+  },
+  {
+   "repo": "euphario/rmbz",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-20T01:39:05Z"
+  },
+  {
+   "repo": "set2374/codex",
+   "path": "codex-rs/mcp-server/tests/common/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-11T21:38:44Z"
+  },
+  {
+   "repo": "danzeroum/mix_btv_code",
+   "path": "crates/forge-tools/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-05T01:40:36Z"
+  },
+  {
+   "repo": "eiriksgata/wc3-ui-designer",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-05T07:47:13Z"
+  },
+  {
+   "repo": "aaronbassett/gauge",
+   "path": "crates/gauge/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-12T17:03:22Z"
+  },
+  {
+   "repo": "marmikshah/atelier",
+   "path": "crates/atelier-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-07T04:00:10Z"
+  },
+  {
+   "repo": "KiCheng/sglang_dsl",
+   "path": "sgl-router/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-01T06:58:22Z"
+  },
+  {
+   "repo": "az9713/codex-cli-tutorial",
+   "path": "codex-rs/tools/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-16T13:56:21Z"
+  },
+  {
+   "repo": "pauloremoli/logana",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-04T10:45:17Z"
+  },
+  {
+   "repo": "kivS/server-whispers",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-13T07:00:12Z"
+  },
+  {
+   "repo": "Murzav/appshots-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-25T18:17:15Z"
+  },
+  {
+   "repo": "ImL1s/grok-build-termux",
+   "path": "crates/codegen/xai-grok-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-16T01:48:11Z"
+  },
+  {
+   "repo": "hi-youichi/loom",
+   "path": "experimental/task/task-mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-19T12:53:19Z"
+  },
+  {
+   "repo": "Valkyrie00/cgp",
+   "path": "crates/cgp-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-10T22:28:05Z"
+  },
+  {
+   "repo": "gi-dellav/zerostack",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-12T19:31:49Z"
+  },
+  {
+   "repo": "ynishi/orcs-cli",
+   "path": "crates/orcs-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-21T06:00:00Z"
+  },
+  {
+   "repo": "bug-ops/pyhdb-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-11T00:44:03Z"
+  },
+  {
+   "repo": "skrstop/MCPHub-Desktop",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-21T04:53:14Z"
+  },
+  {
+   "repo": "Adarshagupta/Project-Sylica",
+   "path": "crates/tauri-plugin-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-31T12:19:17Z"
+  },
+  {
+   "repo": "b00tiful/akasha",
+   "path": "crates/akasha-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-13T12:07:25Z"
+  },
+  {
+   "repo": "phodal/routa",
+   "path": "crates/entrix/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-16T01:38:48Z"
+  },
+  {
+   "repo": "gezihuzi/mcp-subagent-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-24T06:03:27Z"
+  },
+  {
+   "repo": "imateusdev/loom-router",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-05T02:49:09Z"
+  },
+  {
+   "repo": "javaids33/rake",
+   "path": "crates/rustlake-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-26T02:12:46Z"
+  },
+  {
+   "repo": "krisyotam/sophia-build",
+   "path": "crates/codegen/xai-grok-shell/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-14T01:44:15Z"
+  },
+  {
+   "repo": "Gongcai/agnes-agent",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-14T07:16:54Z"
+  },
+  {
+   "repo": "forfd8960/pg-mcp-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-24T12:45:24Z"
+  },
+  {
+   "repo": "vsbuffalo/arcana",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-03T05:06:05Z"
+  },
+  {
+   "repo": "uran0sH/metavisor",
+   "path": "metavisor-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-06T16:32:29Z"
+  },
+  {
+   "repo": "RaulHuertas/mcpServerTest",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-30T15:19:36Z"
+  },
+  {
+   "repo": "itzmail/relay",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-12T02:50:37Z"
+  },
+  {
+   "repo": "nicholasq/searxng-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-22T05:16:47Z"
+  },
+  {
+   "repo": "mudit70/veoable",
+   "path": "tests/fixtures/mcp-server-rust/basic/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-01T05:42:25Z"
+  },
+  {
+   "repo": "uunw/h1mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-25T08:48:44Z"
+  },
+  {
+   "repo": "TopFusion-Dev/super-warp",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-18T07:05:41Z"
+  },
+  {
+   "repo": "drQedwards/Jito_bundle_agent",
+   "path": "crates/codegen/xai-grok-shell/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-24T21:20:21Z"
+  },
+  {
+   "repo": "lastsunday/vanling",
+   "path": "apps/server/service/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-06-10T13:23:33Z"
+  },
+  {
+   "repo": "liqiangcc/log-query-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-19T05:47:27Z"
+  },
+  {
+   "repo": "quangdang46/livekit_agent_simulator",
+   "path": "src/livekit_agent_simulator_rust/crates/lks-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-10T04:33:25Z"
+  },
+  {
+   "repo": "r/morph",
+   "path": "morph-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-04T16:43:58Z"
+  },
+  {
+   "repo": "rabi/kinetic-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-06T06:53:59Z"
+  },
+  {
+   "repo": "shaik-zeeshan/mnema",
+   "path": "crates/cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-11T19:55:38Z"
+  },
+  {
+   "repo": "morluto/leantoken",
+   "path": "crates/test-suite/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-15T03:32:13Z"
+  },
+  {
+   "repo": "guercheLE/github-mcp-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-08T02:36:22Z"
+  },
+  {
+   "repo": "nblotti/conversation-handoff",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-13T09:12:00Z"
+  },
+  {
+   "repo": "quangdang46/repo_forge_orchestrator",
+   "path": "crates/rfo-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-20T15:04:42Z"
+  },
+  {
+   "repo": "serhiip/todo-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-08T15:29:54Z"
+  },
+  {
+   "repo": "s0lda/hadron",
+   "path": "crates/hadron-forge-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-26T21:42:34Z"
+  },
+  {
+   "repo": "snevolin/datalens-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-17T22:45:04Z"
+  },
+  {
+   "repo": "rstropek/Samples",
+   "path": "KI/rust-ai/pony-pwd/Cargo.toml",
+   "owner_type": "User",
+   "created": "2014-02-18T06:26:15Z"
+  },
+  {
+   "repo": "t8y2/dbx",
+   "path": "crates/dbx-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-29T03:00:36Z"
+  },
+  {
+   "repo": "MaxHalford/squill",
+   "path": "backend/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-24T23:41:08Z"
+  },
+  {
+   "repo": "protortyp/samply-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-18T11:01:41Z"
+  },
+  {
+   "repo": "JingxuanC/agent-teardown",
+   "path": "causal-memory-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-24T15:29:36Z"
+  },
+  {
+   "repo": "adityak74/llm-serving-bench-lab",
+   "path": ".vendor/sglang/sgl-model-gateway/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-08T18:28:13Z"
+  },
+  {
+   "repo": "rkendel1/grok",
+   "path": "crates/codegen/xai-grok-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-17T02:30:18Z"
+  },
+  {
+   "repo": "wally-an/mingmai",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-09-12T23:43:41Z"
+  },
+  {
+   "repo": "mindbend0x/context-keeper",
+   "path": "crates/context-keeper-tui/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-14T03:17:25Z"
+  },
+  {
+   "repo": "4o3F/MoeResearch",
+   "path": "crates/moe-research-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-21T06:30:33Z"
+  },
+  {
+   "repo": "krzysztofwos/theseus",
+   "path": "rust/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-10T06:57:37Z"
+  },
+  {
+   "repo": "chat812/coworker",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-09T07:00:27Z"
+  },
+  {
+   "repo": "lihs-ie/polydocs",
+   "path": "crates/polydocs-presentation/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-24T10:06:13Z"
+  },
+  {
+   "repo": "Chatelo/rust_counter_mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-22T07:50:01Z"
+  },
+  {
+   "repo": "luksamuk/guilda-ia",
+   "path": "local/math-server-rust/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-08T17:13:00Z"
+  },
+  {
+   "repo": "nhatvu148/video-transcriber-mcp-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-26T11:21:58Z"
+  },
+  {
+   "repo": "mahadeer/mindvault",
+   "path": "mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-17T13:14:14Z"
+  },
+  {
+   "repo": "lfdominguez/my-car-tracking-platform",
+   "path": "crates/server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-04T02:52:41Z"
+  },
+  {
+   "repo": "KingDasWinx/Dexo",
+   "path": "crates/dexo-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-14T02:55:58Z"
+  },
+  {
+   "repo": "LFsWang/x402-rust",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-13T11:57:25Z"
+  },
+  {
+   "repo": "Goldziher/spikard",
+   "path": "crates/spikard-cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-03-30T21:03:45Z"
+  },
+  {
+   "repo": "pioner92/prpeek-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-23T15:54:11Z"
+  },
+  {
+   "repo": "ishii-masaki-646/gyazo-mcp-server",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-02T11:50:45Z"
+  },
+  {
+   "repo": "adrnsyr/mcp-obsidian",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-02T10:34:41Z"
+  },
+  {
+   "repo": "Roxy-DD/0721",
+   "path": "main/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-10-20T04:40:28Z"
+  },
+  {
+   "repo": "sv-pro/ai-dev-env",
+   "path": "agent-harness/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-15T22:10:32Z"
+  },
+  {
+   "repo": "mikeyobrien/ralph-orchestrator",
+   "path": "crates/ralph-api/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-09-07T18:17:13Z"
+  },
+  {
+   "repo": "JyotiDixit172/GenAI-LLM-MCPs-Learnings",
+   "path": "mcp-servers/quickstart-resources/weather-server-rust/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-05T10:19:45Z"
+  },
+  {
+   "repo": "NewTurn2017/oc-memory",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-25T05:34:03Z"
+  },
+  {
+   "repo": "dmriding/mcp-librarian",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-15T11:19:25Z"
+  },
+  {
+   "repo": "jwilger/claude-factory",
+   "path": "kernel/crates/cfk-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-01T19:13:46Z"
+  },
+  {
+   "repo": "wigmorewelsh/structured-agent",
+   "path": "src/structured-agent/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-29T13:01:19Z"
+  },
+  {
+   "repo": "caomengxuan666/cmx",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-19T15:27:52Z"
+  },
+  {
+   "repo": "rakasatria/mchact",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-27T01:47:19Z"
+  },
+  {
+   "repo": "jmccrae/ewe",
+   "path": "ewe_mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2021-05-05T10:24:09Z"
+  },
+  {
+   "repo": "abrar71/codex-private",
+   "path": "codex-rs/exec-server/tests/common/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-11T07:42:10Z"
+  },
+  {
+   "repo": "KCL1104/agpet",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-26T09:31:05Z"
+  },
+  {
+   "repo": "Reventlow/glass",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-06T15:06:05Z"
+  },
+  {
+   "repo": "SaschaOnTour/rlm",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-30T15:24:37Z"
+  },
+  {
+   "repo": "Van-Nice/rust-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-24T20:50:41Z"
+  },
+  {
+   "repo": "egoavara/overlay-mcp",
+   "path": "crates/overlay-mcp-standalone/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-04-09T16:23:47Z"
+  },
+  {
+   "repo": "Crazytieguy/llms-fetch-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-10-07T08:30:36Z"
+  },
+  {
+   "repo": "Hmbown/chronow",
+   "path": "mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-27T01:31:55Z"
+  },
+  {
+   "repo": "poucet/droplets",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-18T08:17:02Z"
+  },
+  {
+   "repo": "yfilwzy/simprint-chain",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-24T13:47:34Z"
+  },
+  {
+   "repo": "4piu/agent-speak",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-05T03:41:12Z"
+  },
+  {
+   "repo": "manuelgdlvh/mdcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-29T10:42:52Z"
+  },
+  {
+   "repo": "tinrab/airy",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-06-07T05:42:55Z"
+  },
+  {
+   "repo": "hauju/stepshots",
+   "path": "crates/cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-02T05:13:53Z"
+  },
+  {
+   "repo": "hupe1980/agentplane",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-30T14:32:56Z"
+  },
+  {
+   "repo": "afurlane/copilot-datagate",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-18T20:49:23Z"
+  },
+  {
+   "repo": "dokterbob/localdb",
+   "path": "mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-10T15:35:10Z"
+  },
+  {
+   "repo": "JoJo0217/research_codex",
+   "path": "codex-rs/tools/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-30T14:47:01Z"
+  },
+  {
+   "repo": "Neil-urk12/synapse",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-07T07:30:08Z"
+  },
+  {
+   "repo": "RyderFreeman4Logos/cli-sub-agent",
+   "path": "crates/csa-mcp-hub/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-06T03:48:46Z"
+  },
+  {
+   "repo": "caniko/tzu",
+   "path": "crates/tzu-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-28T14:15:28Z"
+  },
+  {
+   "repo": "mankinskin/rule",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-25T14:08:07Z"
+  },
+  {
+   "repo": "cablehead/mcp-server-nu",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-05-26T18:39:45Z"
+  },
+  {
+   "repo": "javadbayzavi/aac",
+   "path": "scaffold-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-02T20:11:48Z"
+  },
+  {
+   "repo": "shizhengLi/sglang-learning",
+   "path": "sglang/sgl-router/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-09-25T11:26:09Z"
+  },
+  {
+   "repo": "looooonk/better-codex",
+   "path": "codex-rs/tools/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-26T05:02:29Z"
+  },
+  {
+   "repo": "feigeCode/navop",
+   "path": "crates/public_mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-10T06:01:54Z"
+  },
+  {
+   "repo": "christo-auer/wos-gibtsn-heid",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-09-04T18:24:32Z"
+  },
+  {
+   "repo": "ravi1395/sutra",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-01T15:04:10Z"
+  },
+  {
+   "repo": "danwritecode/graphgraph-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-22T00:01:08Z"
+  },
+  {
+   "repo": "PanosBiazis/pb-mcp-server",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-25T13:43:30Z"
+  },
+  {
+   "repo": "thedavidmeister/recipes",
+   "path": "backend/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-13T10:08:00Z"
+  },
+  {
+   "repo": "Dospacite/butter",
+   "path": "crates/mcp-runtime-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-23T22:15:52Z"
+  },
+  {
+   "repo": "futpib/slopd",
+   "path": "slopd-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-22T08:12:51Z"
+  },
+  {
+   "repo": "Newmcpe/fuflo-wot-repl",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-15T18:01:58Z"
+  },
+  {
+   "repo": "AsifRiaz165/Codex",
+   "path": "codex-rs/app-server-protocol/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-27T21:07:35Z"
+  },
+  {
+   "repo": "Mnehmos/llm-driven-proof-search",
+   "path": "crates/proofsearch-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-01T17:46:14Z"
+  },
+  {
+   "repo": "EbatteSratte/minecraft-mcp-rust",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-24T12:49:42Z"
+  },
+  {
+   "repo": "gitayg/haive-agent",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-17T23:16:12Z"
+  },
+  {
+   "repo": "AnotherMadScientist/mcclawd-1771ca3f",
+   "path": "crates/mcclawd-tools/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-24T13:10:34Z"
+  },
+  {
+   "repo": "borislavmavrin/codex",
+   "path": "codex-rs/exec-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-19T02:55:44Z"
+  },
+  {
+   "repo": "jyurkiw/doc-dev-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-04T04:03:34Z"
+  },
+  {
+   "repo": "Diogenesoftoronto/axon",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-24T16:09:45Z"
+  },
+  {
+   "repo": "yc-duan/fastctx",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-17T03:05:57Z"
+  },
+  {
+   "repo": "Xevion/rustdoc-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-05T23:21:19Z"
+  },
+  {
+   "repo": "rotkiv93/studyllm",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-16T17:50:56Z"
+  },
+  {
+   "repo": "unbug/tday",
+   "path": "crates/tday-nativecore/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-30T12:52:44Z"
+  },
+  {
+   "repo": "bradsjm/sqlite-mcp-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-02T15:43:30Z"
+  },
+  {
+   "repo": "ziteh/cofe-graph",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-22T10:51:45Z"
+  },
+  {
+   "repo": "BangRocket/rustterm-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-22T01:23:29Z"
+  },
+  {
+   "repo": "jscott3201/rusty-bacnet-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-08T17:50:42Z"
+  },
+  {
+   "repo": "leeguooooo/iphone-use",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-09T02:00:05Z"
+  },
+  {
+   "repo": "bherbruck/toolsite",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-22T17:26:54Z"
+  },
+  {
+   "repo": "TurtIeSocks/shep",
+   "path": "crates/shep-core/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-08T23:02:33Z"
+  },
+  {
+   "repo": "shuheng-mo/xore",
+   "path": "xore-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-10T17:21:35Z"
+  },
+  {
+   "repo": "ohdearquant/khive",
+   "path": "crates/kkernel/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-07T01:30:30Z"
+  },
+  {
+   "repo": "chrisherczeg/phyudm",
+   "path": "crates/udm-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-06T19:23:20Z"
+  },
+  {
+   "repo": "sco3/mcp_stdio_bench",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-07T20:27:43Z"
+  },
+  {
+   "repo": "mareurs/thunderbird-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-28T00:17:33Z"
+  },
+  {
+   "repo": "3n3a/sndoc",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-12T20:35:39Z"
+  },
+  {
+   "repo": "clafollett/agenterra",
+   "path": "templates/mcp/server/rust/Cargo.toml.tera",
+   "owner_type": "User",
+   "created": "2025-05-30T00:24:41Z"
+  },
+  {
+   "repo": "ionelmir9623/agents-connector",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-23T07:37:09Z"
+  },
+  {
+   "repo": "justinbrick/specman",
+   "path": "src/crates/specman-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-10-30T17:34:20Z"
+  },
+  {
+   "repo": "surdy/notes-method",
+   "path": "crates/notesmith-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-08T20:22:10Z"
+  },
+  {
+   "repo": "amaurycannesson/picasa-rs",
+   "path": "mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-06-24T02:16:04Z"
+  },
+  {
+   "repo": "rafael-agenticca/codex",
+   "path": "codex-rs/app-server-protocol/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-08T14:26:14Z"
+  },
+  {
+   "repo": "ynishi/persona-pack",
+   "path": "crates/persona-pack-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-01T23:55:34Z"
+  },
+  {
+   "repo": "hedssaz/maimai-mcp-toolkit",
+   "path": "crates/maimai-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-19T13:38:25Z"
+  },
+  {
+   "repo": "wyattowalsh/riso",
+   "path": "template/files/rust/mcp/Cargo.toml.jinja",
+   "owner_type": "User",
+   "created": "2025-10-29T16:25:40Z"
+  },
+  {
+   "repo": "ynishi/propel",
+   "path": "crates/propel-cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-15T16:22:12Z"
+  },
+  {
+   "repo": "akesson/docsrs",
+   "path": "crates/docsrs/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-18T10:55:27Z"
+  },
+  {
+   "repo": "malcolmxsc/garden-ai",
+   "path": "crates/garden-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-07T10:09:58Z"
+  },
+  {
+   "repo": "Prekzursil/agent-skills-toolchain",
+   "path": "tools/editor/ralph-orchestrator/vendor/crates/ralph-api/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-10T04:15:55Z"
+  },
+  {
+   "repo": "hang-in/seCall",
+   "path": "crates/secall-core/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-06T03:45:55Z"
+  },
+  {
+   "repo": "nixpt/water-spider",
+   "path": "mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-16T09:50:30Z"
+  },
+  {
+   "repo": "diegonmarcos/cloud-infra",
+   "path": "a_solutions/z_archive/user-ai_rig-agentic-hai-1.5bq4/src/code/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-31T10:51:23Z"
+  },
+  {
+   "repo": "jimmystridh/datadog-mcp",
+   "path": "datadog-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-15T10:51:06Z"
+  },
+  {
+   "repo": "darkcodi/graphico",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-21T21:28:36Z"
+  },
+  {
+   "repo": "koalazub/gluebox",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-13T06:02:02Z"
+  },
+  {
+   "repo": "BohdanTkachenko/waydriver",
+   "path": "crates/waydriver-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-06T01:41:52Z"
+  },
+  {
+   "repo": "bhubbard/wp-blockmarkup-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-31T05:26:20Z"
+  },
+  {
+   "repo": "lexun/loaa",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-10T06:39:17Z"
+  },
+  {
+   "repo": "timorunge/lore",
+   "path": "cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-05T10:58:29Z"
+  },
+  {
+   "repo": "0xmiki/hyprharness",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-10T13:20:25Z"
+  },
+  {
+   "repo": "ZelAnton/vcs-toolkit-rs",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-29T10:18:01Z"
+  },
+  {
+   "repo": "sisyphus1212/codex-fusion-starter-template",
+   "path": "scaffold/codex-rs/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-23T04:37:04Z"
+  },
+  {
+   "repo": "lakeofsky347/VibeBus",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-17T08:41:54Z"
+  },
+  {
+   "repo": "fcn06/trust_gateway",
+   "path": "gateway/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-22T18:26:58Z"
+  },
+  {
+   "repo": "thomasquintana/htlk",
+   "path": "crates/htlk-rt/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-21T00:46:32Z"
+  },
+  {
+   "repo": "FGRibreau/mcp-pangolin",
+   "path": "server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-26T10:31:48Z"
+  },
+  {
+   "repo": "alejandro-technology/vectorcode",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-11T16:27:30Z"
+  },
+  {
+   "repo": "liqiongyu/agentpack",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-10T16:46:42Z"
+  },
+  {
+   "repo": "nexvigilant/perplexity-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-23T21:15:39Z"
+  },
+  {
+   "repo": "nickdavies/agent-hub",
+   "path": "server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-22T15:54:50Z"
+  },
+  {
+   "repo": "sina-parsania/CodeGraph",
+   "path": "crates/codegraph-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-28T01:12:14Z"
+  },
+  {
+   "repo": "kljensen/deliberate-thinking",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-09-18T15:14:49Z"
+  },
+  {
+   "repo": "VeigaPunk/codex-titanium",
+   "path": "codex-rs/mcp-server/tests/common/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-21T00:34:12Z"
+  },
+  {
+   "repo": "GhabiX/SpineCodex",
+   "path": "codex-rs/mcp-server/tests/common/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-10T08:55:42Z"
+  },
+  {
+   "repo": "nsg/blogger",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-11T09:34:41Z"
+  },
+  {
+   "repo": "saltyming/claude-agent-kit",
+   "path": "mcp-servers/workslate/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-01T07:00:42Z"
+  },
+  {
+   "repo": "claylo/pikchr-tools",
+   "path": "crates/pikchr-mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-05T18:53:22Z"
+  },
+  {
+   "repo": "andrew-garfield101/writ",
+   "path": "crates/writ-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-18T07:40:56Z"
+  },
+  {
+   "repo": "ifiokjr/lspee",
+   "path": "crates/lspee_mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-10T19:13:54Z"
+  },
+  {
+   "repo": "46ki75/yaarr",
+   "path": "crates/mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-11T15:46:42Z"
+  },
+  {
+   "repo": "91zgaoge/StoryMoss",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-11T02:58:27Z"
+  },
+  {
+   "repo": "mmgeorge/papers",
+   "path": "crates/papers-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-16T23:36:39Z"
+  },
+  {
+   "repo": "qwenode/vibe-kanban-promax",
+   "path": "crates/server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-27T13:46:43Z"
+  },
+  {
+   "repo": "jeremyandrews/trovato",
+   "path": "crates/mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-16T08:46:30Z"
+  },
+  {
+   "repo": "turinglabsorg/wachi",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-11T08:47:51Z"
+  },
+  {
+   "repo": "wycats/mcp-twill",
+   "path": "xtask/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-23T00:14:10Z"
+  },
+  {
+   "repo": "mvo5/systemd-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-25T09:36:50Z"
+  },
+  {
+   "repo": "SuperKenVery/Telegram-ACP",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-08T08:00:31Z"
+  },
+  {
+   "repo": "ynishi/ryo-rs",
+   "path": "crates/ryo-cli/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-28T05:07:01Z"
+  },
+  {
+   "repo": "FCHEHIDI/mnemex",
+   "path": "crates/mnemex-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-03T13:16:09Z"
+  },
+  {
+   "repo": "jihuayu/xworkflow",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-09T03:19:53Z"
+  },
+  {
+   "repo": "sjkim1127/fossil-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-08T16:37:25Z"
+  },
+  {
+   "repo": "ShaitanLyss/these",
+   "path": "hecate/entity/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-04-04T14:24:55Z"
+  },
+  {
+   "repo": "djalmajr/markdraw",
+   "path": "apps/desktop/src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-18T17:06:10Z"
+  },
+  {
+   "repo": "ReshetnikovPavel/sir",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-05-25T16:20:56Z"
+  },
+  {
+   "repo": "thehumanworks/mmr",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-06T21:06:29Z"
+  },
+  {
+   "repo": "AppleLamps/grok-build",
+   "path": "crates/codegen/xai-grok-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-29T16:49:05Z"
+  },
+  {
+   "repo": "HiroyukiFuruno/katana-markdown-linter",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-22T16:52:22Z"
+  },
+  {
+   "repo": "Nathan-E-White/maki-codex-plugin",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-20T06:44:21Z"
+  },
+  {
+   "repo": "Cheng-Kai-Ming/github-server-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-05-19T14:24:45Z"
+  },
+  {
+   "repo": "yaukwan/eth_trading_mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-26T17:13:45Z"
+  },
+  {
+   "repo": "camshaft/cargo-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-16T22:30:24Z"
+  },
+  {
+   "repo": "wyrtensi/CapturePort",
+   "path": "pc/src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-02T00:15:00Z"
+  },
+  {
+   "repo": "sbarbi-gh/org-tree-mcp",
+   "path": "crates/mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-12T13:25:12Z"
+  },
+  {
+   "repo": "Rubentxu/mentat",
+   "path": "crates/mentat-agent-runtime/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-11T01:28:40Z"
+  },
+  {
+   "repo": "giannisanni/agora",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-18T00:17:38Z"
+  },
+  {
+   "repo": "fritzprix/libr-agent",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-14T09:23:11Z"
+  },
+  {
+   "repo": "ptescher/roxy",
+   "path": "crates/roxy-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-22T21:22:54Z"
+  },
+  {
+   "repo": "SudoJacky/tinybot",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-09T15:19:31Z"
+  },
+  {
+   "repo": "jamesacarr/mcp-time",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-24T18:58:51Z"
+  },
+  {
+   "repo": "Extious/sglang",
+   "path": "sgl-model-gateway/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-29T04:10:01Z"
+  },
+  {
+   "repo": "THUzxj/sglang_log",
+   "path": "sgl-model-gateway/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-14T08:48:59Z"
+  },
+  {
+   "repo": "jaypopat/rewindos",
+   "path": "crates/rewindos-daemon/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-05T16:17:09Z"
+  },
+  {
+   "repo": "sahilhirani/kavka",
+   "path": "crates/kavka-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-02T14:23:21Z"
+  },
+  {
+   "repo": "thiagodmont/keynobi",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-25T19:22:06Z"
+  },
+  {
+   "repo": "OnisOris/rust_watcher",
+   "path": "crates/mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-18T09:54:35Z"
+  },
+  {
+   "repo": "oshea00/dropboxmcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-06T03:28:39Z"
+  },
+  {
+   "repo": "MrBonjour417/ByteTensorCore-demo",
+   "path": "crates/aionui-app/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-06T10:45:20Z"
+  },
+  {
+   "repo": "sethyanow/markymark",
+   "path": "markymark-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-13T13:47:28Z"
+  },
+  {
+   "repo": "qmuloadmin/coding-search-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-09-15T14:43:14Z"
+  },
+  {
+   "repo": "Rubentxu/Bastion",
+   "path": "crates/bastion-gateway/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-30T09:46:08Z"
+  },
+  {
+   "repo": "ngmeyer/librarian-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-11T16:57:10Z"
+  },
+  {
+   "repo": "ssoj13/filesystem-mcp-rs",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-24T08:11:33Z"
+  },
+  {
+   "repo": "JosefKuchar/leap-year-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-21T19:04:54Z"
+  },
+  {
+   "repo": "antonpme/auralis-pulse",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-14T20:25:15Z"
+  },
+  {
+   "repo": "zibo-chen/jenkctl",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-19T07:33:11Z"
+  },
+  {
+   "repo": "fastrevmd-lab/mecmcp",
+   "path": "crates/mecmcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-24T22:59:48Z"
+  },
+  {
+   "repo": "warubert/rmcp-rust",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-18T22:31:27Z"
+  },
+  {
+   "repo": "kaikongbj/mcp-coze",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-08-09T10:02:48Z"
+  },
+  {
+   "repo": "lzy18001500226/MoSim",
+   "path": "src/Agent/codex-main/codex-rs/mcp-server/tests/common/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-07T09:33:33Z"
+  },
+  {
+   "repo": "Ahthe/Mew",
+   "path": "crates/mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-21T03:38:45Z"
+  },
+  {
+   "repo": "mosuka/laurus",
+   "path": "laurus-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-22T15:24:30Z"
+  },
+  {
+   "repo": "Dwsy/pi-grok-build-legacy-20260717",
+   "path": "grok-build-main/crates/codegen/xai-grok-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-16T17:25:29Z"
+  },
+  {
+   "repo": "gbrigandi/mcp-server-misp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-06T21:20:56Z"
+  },
+  {
+   "repo": "tim-ireland/job-tracker",
+   "path": "mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-14T19:45:16Z"
+  },
+  {
+   "repo": "gofmanaa/turret_mcp_server",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-16T20:35:45Z"
+  },
+  {
+   "repo": "daderoode/space",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-09T19:06:10Z"
+  },
+  {
+   "repo": "xerenahmed/jira-mcp",
+   "path": "crates/jira-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-24T15:59:57Z"
+  },
+  {
+   "repo": "tangyunpei/OpenAlpaca",
+   "path": "crates/openalpaca_mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-02T00:00:42Z"
+  },
+  {
+   "repo": "traktion/AntTP",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2021-05-20T09:05:40Z"
+  },
+  {
+   "repo": "contactandrewchl-wq/turtle-mcp",
+   "path": "crates/turtle-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-24T17:29:12Z"
+  },
+  {
+   "repo": "jmylchreest/kagimcp-zed",
+   "path": "crates/kagi-mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-05-31T20:16:24Z"
+  },
+  {
+   "repo": "HalsekiRaika/sinew",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-05T16:18:46Z"
+  },
+  {
+   "repo": "pyroqbit/ardour-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-03-25T10:34:26Z"
+  },
+  {
+   "repo": "ltspace/dowse",
+   "path": "crates/dowse/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-11T12:48:03Z"
+  },
+  {
+   "repo": "0ryant/driftlock",
+   "path": "crates/driftlock-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-19T16:18:24Z"
+  },
+  {
+   "repo": "rmacy/grok-with-book",
+   "path": "crates/codegen/xai-grok-shell/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-16T17:12:08Z"
+  },
+  {
+   "repo": "jdx/pitchfork",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2024-12-06T11:53:30Z"
+  },
+  {
+   "repo": "johan-steffens/scribe",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-02T07:56:47Z"
+  },
+  {
+   "repo": "gurjeet/steer-clone",
+   "path": "crates/steer-core/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-06T08:50:54Z"
+  },
+  {
+   "repo": "guimorg/adaptalk",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-14T16:04:36Z"
+  },
+  {
+   "repo": "dgrijalva/runme",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-07T00:31:09Z"
+  },
+  {
+   "repo": "teolex2020/aura-memory",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-23T13:08:35Z"
+  },
+  {
+   "repo": "marcoszanre/cab-mcp",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-11T18:13:11Z"
+  },
+  {
+   "repo": "safx/backlog-mcp-server-rust",
+   "path": "backlog-mcp-server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-01T13:36:53Z"
+  },
+  {
+   "repo": "pronei/slug-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-29T17:03:58Z"
+  },
+  {
+   "repo": "jgavinray/total-recall",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-07T03:54:46Z"
+  },
+  {
+   "repo": "xdutsuay/shatrunZ",
+   "path": "crates/shatrunz-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2023-09-02T17:38:13Z"
+  },
+  {
+   "repo": "kyzdes/fang-upgrade",
+   "path": "crates/openfang-runtime/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-13T21:59:28Z"
+  },
+  {
+   "repo": "ryan-voitiskis/reklawdbox",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-15T12:34:09Z"
+  },
+  {
+   "repo": "alessandrobenigni/BM25-Turbo-Rust-Python-WASM-CLI",
+   "path": "bm25_turbo/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-18T03:28:40Z"
+  },
+  {
+   "repo": "GarthDB/ferrograph",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-24T17:34:55Z"
+  },
+  {
+   "repo": "ozcode95/SparrowAI",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-07-26T04:36:55Z"
+  },
+  {
+   "repo": "avatarneil/stack-status",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-19T05:02:30Z"
+  },
+  {
+   "repo": "topherchris420/james_library",
+   "path": "crates/buzz-agent/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-12T13:04:49Z"
+  },
+  {
+   "repo": "zwldarren/shellchat",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-06-03T09:32:24Z"
+  },
+  {
+   "repo": "ArulGandhi/vm-working-agents",
+   "path": "crates/agent/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-07T07:34:07Z"
+  },
+  {
+   "repo": "secbear/skelegent",
+   "path": "turn/skg-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-22T01:57:16Z"
+  },
+  {
+   "repo": "ohmyjersh/mimic-ai",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-17T21:54:13Z"
+  },
+  {
+   "repo": "X-manist/Cohmira",
+   "path": "src/crates/goose-test-support/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-16T04:37:43Z"
+  },
+  {
+   "repo": "coreyja/units",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-06-28T01:00:40Z"
+  },
+  {
+   "repo": "darxkies/anima",
+   "path": "backend/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-03-22T18:54:28Z"
+  },
+  {
+   "repo": "pablobp10/nuclear-android",
+   "path": "packages/player/src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-09T06:43:20Z"
+  },
+  {
+   "repo": "intendednull/willow",
+   "path": "crates/agent/Cargo.toml",
+   "owner_type": "User",
+   "created": "2022-11-08T08:17:35Z"
+  },
+  {
+   "repo": "userFRM/rpg-encoder",
+   "path": "crates/rpg-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-02-05T12:30:55Z"
+  },
+  {
+   "repo": "yxanul/demongrep",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-11-24T20:37:55Z"
+  },
+  {
+   "repo": "ErhanOnaldi/ajan_orkestrasyonu",
+   "path": "crates/divan-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-11T11:33:36Z"
+  },
+  {
+   "repo": "getappz/cli",
+   "path": "crates/appz/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-23T07:54:33Z"
+  },
+  {
+   "repo": "ronaldfelix/aref-postman-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-23T06:28:19Z"
+  },
+  {
+   "repo": "paipaipai666/ssh-pty-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-29T14:47:35Z"
+  },
+  {
+   "repo": "mimi1vx/ruoqa-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-04T09:38:21Z"
+  },
+  {
+   "repo": "Pym/kie-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-02T13:28:30Z"
+  },
+  {
+   "repo": "46ki75/mcp-rust-docs",
+   "path": "crates/mcp-rust-docs-vercel/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-05-23T12:03:13Z"
+  },
+  {
+   "repo": "Thomson-Lam/loop-whole",
+   "path": "server/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-18T17:21:20Z"
+  },
+  {
+   "repo": "umatter/prompt2analytics",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-05T15:24:47Z"
+  },
+  {
+   "repo": "GitZhiQing/BBmarks",
+   "path": "src-tauri/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-08-07T08:09:52Z"
+  },
+  {
+   "repo": "pndrik/beaver",
+   "path": "adapters/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-07-04T15:38:45Z"
+  },
+  {
+   "repo": "SecretiveShell/mcp-timeserver-rust",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-07T17:27:33Z"
+  },
+  {
+   "repo": "daothinh/redex-codex-cli-build",
+   "path": "codex-rs/app-server-protocol/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-04-25T16:14:50Z"
+  },
+  {
+   "repo": "x3haloed/uberseer",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-10-13T02:15:25Z"
+  },
+  {
+   "repo": "stayhydated/component-shape",
+   "path": "crates/component-shape-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-06-02T01:27:29Z"
+  },
+  {
+   "repo": "TensorTemplar/protonmail-mcp-server",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2026-01-22T17:13:29Z"
+  },
+  {
+   "repo": "Dailiduzhou/weeklyLearningJournal",
+   "path": "semester2/week8/rmcp-client/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-10-28T14:22:14Z"
+  },
+  {
+   "repo": "djinn-soul/CytoScnPy",
+   "path": "cytoscnpy-mcp/Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-12-08T12:17:58Z"
+  },
+  {
+   "repo": "shadowcz007/nano-banana-mcp",
+   "path": "Cargo.toml",
+   "owner_type": "User",
+   "created": "2025-09-03T05:01:53Z"
+  }
+ ]
+}

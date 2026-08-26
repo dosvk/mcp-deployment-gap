@@ -1,0 +1,126 @@
+{
+ "built": "2026-08-21",
+ "method": "artifact download + grep for '2026-07-28' + registry publish timestamps",
+ "sdks": {
+  "python-sdk": {
+   "registry": "pypi:mcp",
+   "version": "2.0.0a1",
+   "published": "2026-06-11T09:55:48.791495Z",
+   "artifact_contains_protocol": true,
+   "hits": [
+    "mcp-2.0.0a1/AGENTS.md",
+    "mcp-2.0.0a1/src/mcp/server/runner.py",
+    "mcp-2.0.0a1/README.v2.md"
+   ]
+  },
+  "typescript-sdk(server-legacy)": {
+   "registry": "npm:@modelcontextprotocol/server-legacy",
+   "version": "2.0.0-alpha.3",
+   "published": "2026-06-25T19:52:30.878Z",
+   "artifact_contains_protocol": true,
+   "hits": [
+    "package/dist/src-DNyCNGHl.mjs.map",
+    "package/dist/src-DNyCNGHl.mjs",
+    "package/dist/index-Bp3YTauY.d.mts"
+   ]
+  },
+  "typescript-sdk(sdk-line)": {
+   "registry": "npm:@modelcontextprotocol/sdk",
+   "version": null,
+   "published": null,
+   "artifact_contains_protocol": false,
+   "note": "scanned 1 of 1 post-May versions chronologically"
+  },
+  "rust-sdk": {
+   "registry": "crates:rmcp",
+   "version": "1.8.0",
+   "published": "2026-06-23T12:28:57.399938Z",
+   "artifact_contains_protocol": true,
+   "hits": [
+    "rmcp-1.8.0/src/handler/server.rs",
+    "rmcp-1.8.0/src/model.rs",
+    "rmcp-1.8.0/tests/test_custom_headers.rs"
+   ]
+  },
+  "go-sdk": {
+   "registry": "goproxy.io(mirror):go-sdk",
+   "version": "v1.7.0-pre.1",
+   "published": "2026-06-24T12:39:39Z",
+   "artifact_contains_protocol": true,
+   "hits": [
+    "github.com/modelcontextprotocol/go-sdk@v1.7.0-pre.1/.github/workflows/conformance.yml",
+    "github.com/modelcontextprotocol/go-sdk@v1.7.0-pre.1/README.md",
+    "github.com/modelcontextprotocol/go-sdk@v1.7.0-pre.1/docs/client.md"
+   ],
+   "note": "verified via goproxy.io MIRROR (canonical proxy.golang.org unreachable from host); re-verify canonical at freeze"
+  },
+  "ruby-sdk": {
+   "registry": "rubygems:mcp",
+   "version": "0.23.0",
+   "published": "2026-07-07T13:48:32.224Z",
+   "artifact_contains_protocol": true,
+   "hits": [
+    "lib/mcp/server.rb",
+    "lib/mcp/server_context.rb",
+    "lib/mcp/server_session.rb"
+   ]
+  },
+  "csharp-sdk": {
+   "registry": "nuget:ModelContextProtocol",
+   "version": "2.0.0-preview.1",
+   "published": null,
+   "artifact_contains_protocol": true,
+   "hits": [
+    "lib/net10.0/ModelContextProtocol.dll",
+    "lib/net8.0/ModelContextProtocol.dll",
+    "lib/net9.0/ModelContextProtocol.dll"
+   ]
+  },
+  "java-sdk": {
+   "registry": "maven:io.modelcontextprotocol.sdk:mcp",
+   "version": "2.0.0",
+   "published": "Thu, 11 Jun 2026 11:49:18 GMT",
+   "artifact_contains_protocol": false,
+   "hits": [],
+   "note": "FOUND VIA ARTIFACT despite tag-scan miss \u2014 PA-5 vindicated; earlier supporting versions may exist, scan backwards at freeze"
+  },
+  "kotlin-sdk": {
+   "registry": "maven:io.modelcontextprotocol:kotlin-sdk",
+   "version": "0.15.0",
+   "published": "Tue, 28 Jul 2026 15:17:48 GMT",
+   "artifact_contains_protocol": false,
+   "hits": [],
+   "note": "FOUND VIA ARTIFACT despite tag-scan miss \u2014 PA-5 vindicated; earlier supporting versions may exist, scan backwards at freeze"
+  },
+  "php-sdk": {
+   "registry": "packagist:mcp/sdk",
+   "latest_versions": [
+    {
+     "v": "v0.7.1",
+     "ts": "2026-08-10T20:09:23+00:00"
+    },
+    {
+     "v": "v0.7.0",
+     "ts": "2026-07-14T22:58:00+00:00"
+    },
+    {
+     "v": "v0.6.0",
+     "ts": "2026-06-02T15:47:04+00:00"
+    },
+    {
+     "v": "v0.5.0",
+     "ts": "2026-04-26T13:37:40+00:00"
+    },
+    {
+     "v": "v0.4.0",
+     "ts": "2026-02-23T21:42:54+00:00"
+    }
+   ],
+   "supporting_release": null,
+   "note": "no supporting release per tag scan",
+   "checked_version": "v0.7.1",
+   "dist_contains_protocol": false,
+   "hits": []
+  }
+ }
+}
