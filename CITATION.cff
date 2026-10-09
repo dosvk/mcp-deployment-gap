@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the archived replication package below, which supersedes this wave-1 repository."
+type: software
+title: "Replication package for \"One Release, Two Answers: Call-Site Dependence in Model Context Protocol Revision Instruments\""
+authors:
+  - family-names: Sunkavalli
+    given-names: Veerendra Kumar
+    orcid: "https://orcid.org/0009-0005-2759-1642"
+version: "v046"
+date-released: "2026-09-03"
+doi: "10.5281/zenodo.22181811"
+url: "https://doi.org/10.5281/zenodo.22181811"
+repository-code: "https://github.com/dosvk/mcp-deployment-gap"
+license: MIT
+keywords:
+  - Model Context Protocol
+  - measurement validity
+  - protocol versioning
+  - software ecosystem measurement
+  - instrument validation

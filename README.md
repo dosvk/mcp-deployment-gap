@@ -14,7 +14,19 @@ Their difference is the *deployment gap*.
 
 Preprint: [`paper/arxiv/main.pdf`](paper/arxiv/main.pdf)
 
-## Status: preliminary
+## Status: wave-1 snapshot, superseded
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22181811.svg)](https://doi.org/10.5281/zenodo.22181811)
+
+This repository is the **wave-1 (August 2026) artifact** and is kept as the record of that
+release. The study's current, archived artifact (instrument correction, validation bench across
+five official MCP SDKs, per-endpoint records, frozen frames, all analysis scripts, the
+pre-registration and the deviation log) is on Zenodo:
+**DOI [10.5281/zenodo.22181811](https://doi.org/10.5281/zenodo.22181811)** (v046, 2026-09-03),
+replication package for *One Release, Two Answers: Call-Site Dependence in Model Context
+Protocol Revision Instruments*. Cite that DOI, not this repository (see `CITATION.cff`).
+
+The original wave-1 status note follows unchanged.
 
 This is a **wave-1 release**. Numbers marked `[PF]` (pending freeze) or `[PW]` (pending probe
 waves) in the paper are regenerated at the **2026-10-10 data freeze**. The paper's own
